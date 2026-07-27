@@ -1,0 +1,1201 @@
+OrderID,OrderDate,CustomerName,Region,SalesChannel,ProductCategory,ProductName,Quantity,UnitPrice,DiscountPercent,DiscountAmount,NetTotal,PaymentMethod,SalesRep,CustomerRating
+ORD10001,2025-01-01,Laura Martinez,West,Online,Clothing,Jacket,9,425.36,0.0,0.0,3828.24,Bank Transfer,Arun Prasad,2
+ORD10002,2025-01-01,Meera Iyer,Central,Online,Electronics,Smartphone,4,1750.5,20.0,1400.4,5601.6,Cash,Ravi Kumar,4
+ORD10003,2025-01-01,Laura Martinez,South,Phone,Clothing,Dress,1,1214.32,0.0,0.0,1214.32,Debit Card,Anjali Nair,4
+ORD10004,2025-01-02,Sarah Davis,North,Phone,Electronics,Monitor,8,1438.47,0.0,0.0,11507.76,Debit Card,Pallavi Shah,4
+ORD10005,2025-01-03,Sophia White,North,In-Store,Electronics,Laptop,6,818.73,0.0,0.0,4912.38,Credit Card,Vijay Anand,5
+ORD10006,2025-01-03,Amit Malhotra,North,Online,Sports,Dumbbells,5,596.13,0.0,0.0,2980.65,Credit Card,Ravi Kumar,4
+ORD10007,2025-01-03,Sneha Desai,North,Phone,Clothing,Sneakers,6,410.81,15.0,369.73,2095.13,Credit Card,Vijay Anand,4
+ORD10008,2025-01-03,Ishita Gupta,Central,In-Store,Furniture,Desk,9,1848.53,0.0,0.0,16636.77,Cash,Sunita Rao,5
+ORD10009,2025-01-04,Sanjay Kumar,Central,Phone,Sports,Tennis Racket,7,1272.14,20.0,1781.0,7123.98,Credit Card,Pallavi Shah,4
+ORD10010,2025-01-04,David Wilson,East,Phone,Clothing,Jacket,9,1601.27,10.0,1441.14,12970.29,Cash,Vijay Anand,2
+ORD10011,2025-01-05,John Smith,South,Phone,Groceries,Chocolate Box,5,491.1,5.0,122.78,2332.72,Credit Card,Kiran Desai,3
+ORD10012,2025-01-05,Pooja Reddy,Central,Online,Sports,Yoga Mat,6,65.61,0.0,0.0,393.66,Cash,Suresh Babu,4
+ORD10013,2025-01-06,Sophia White,West,Phone,Sports,Dumbbells,8,226.57,15.0,271.88,1540.68,Debit Card,Deepa Rao,4
+ORD10014,2025-01-06,Rahul Chatterjee,North,In-Store,Sports,Yoga Mat,3,513.73,0.0,0.0,1541.19,Debit Card,Ravi Kumar,5
+ORD10015,2025-01-06,Emily Johnson,South,Online,Electronics,Smartwatch,2,1451.2,0.0,0.0,2902.4,PayPal,Vijay Anand,1
+ORD10016,2025-01-07,Divya Kapoor,South,In-Store,Sports,Running Shoes,1,169.27,0.0,0.0,169.27,Cash,Arun Prasad,3
+ORD10017,2025-01-07,Kavya Menon,East,In-Store,Groceries,Coffee,3,648.44,0.0,0.0,1945.32,PayPal,Deepa Rao,4
+ORD10018,2025-01-09,Kavya Menon,Central,In-Store,Furniture,Desk,6,1238.35,20.0,1486.02,5944.08,Credit Card,Arun Prasad,3
+ORD10019,2025-01-09,James Taylor,North,Phone,Electronics,Headphones,6,1258.73,0.0,0.0,7552.38,Credit Card,Manoj Tiwari,4
+ORD10020,2025-01-09,Vikram Rao,East,Online,Sports,Yoga Mat,1,590.6,20.0,118.12,472.48,Cash,Sunita Rao,5
+ORD10021,2025-01-10,Sophia White,West,Online,Clothing,Sneakers,5,1412.7,0.0,0.0,7063.5,Bank Transfer,Manoj Tiwari,2
+ORD10022,2025-01-10,Olivia Anderson,South,In-Store,Clothing,Sneakers,1,110.25,0.0,0.0,110.25,PayPal,Ravi Kumar,3
+ORD10023,2025-01-10,Sophia White,North,Online,Electronics,Laptop,9,634.26,0.0,0.0,5708.34,PayPal,Kiran Desai,4
+ORD10024,2025-01-11,Meera Iyer,North,In-Store,Sports,Tennis Racket,7,1896.76,20.0,2655.46,10621.86,Debit Card,Pallavi Shah,4
+ORD10025,2025-01-12,Ishita Gupta,Central,In-Store,Clothing,Dress,2,1761.69,15.0,528.51,2994.87,Bank Transfer,Pallavi Shah,3
+ORD10026,2025-01-12,Olivia Anderson,West,In-Store,Furniture,Sofa,5,217.98,0.0,0.0,1089.9,Debit Card,Anjali Nair,4
+ORD10027,2025-01-13,Sanjay Kumar,West,In-Store,Sports,Dumbbells,6,1147.35,0.0,0.0,6884.1,Debit Card,Vijay Anand,2
+ORD10028,2025-01-13,Rohan Mehta,South,Phone,Sports,Dumbbells,4,43.56,15.0,26.14,148.1,Credit Card,Kiran Desai,4
+ORD10029,2025-01-13,Nikhil Bansal,West,Online,Groceries,Olive Oil,4,15.34,10.0,6.14,55.22,Cash,Sunita Rao,1
+ORD10030,2025-01-13,Ananya Singh,East,Online,Sports,Bicycle,2,324.84,10.0,64.97,584.71,Cash,Suresh Babu,4
+ORD10031,2025-01-13,Ananya Singh,South,Online,Sports,Dumbbells,5,486.2,10.0,243.1,2187.9,Bank Transfer,Ravi Kumar,3
+ORD10032,2025-01-13,Olivia Anderson,West,In-Store,Electronics,Smartphone,1,1399.56,10.0,139.96,1259.6,Debit Card,Pallavi Shah,1
+ORD10033,2025-01-13,John Smith,West,Online,Clothing,Sneakers,2,987.58,20.0,395.03,1580.13,Bank Transfer,Pallavi Shah,5
+ORD10034,2025-01-13,Sneha Desai,South,Online,Clothing,T-Shirt,8,1121.89,20.0,1795.02,7180.1,PayPal,Kiran Desai,4
+ORD10035,2025-01-14,Sneha Desai,West,In-Store,Electronics,Smartphone,8,873.75,20.0,1398.0,5592.0,Bank Transfer,Suresh Babu,5
+ORD10036,2025-01-14,Michael Brown,Central,Phone,Clothing,Sneakers,2,245.53,0.0,0.0,491.06,Debit Card,Sunita Rao,2
+ORD10037,2025-01-14,Nikhil Bansal,Central,Online,Clothing,Jeans,7,125.4,5.0,43.89,833.91,Bank Transfer,Arun Prasad,4
+ORD10038,2025-01-14,Laura Martinez,South,Online,Furniture,Sofa,7,389.78,15.0,409.27,2319.19,Debit Card,Ravi Kumar,3
+ORD10039,2025-01-14,Riya Chawla,Central,Online,Furniture,Sofa,4,1128.21,0.0,0.0,4512.84,Bank Transfer,Pallavi Shah,5
+ORD10040,2025-01-14,Kavya Menon,East,Phone,Sports,Bicycle,1,982.29,0.0,0.0,982.29,PayPal,Sunita Rao,4
+ORD10041,2025-01-14,Ananya Singh,West,Online,Groceries,Chocolate Box,8,1223.41,0.0,0.0,9787.28,Cash,Kiran Desai,5
+ORD10042,2025-01-15,Pooja Reddy,South,In-Store,Sports,Dumbbells,5,1360.84,15.0,1020.63,5783.57,Debit Card,Suresh Babu,3
+ORD10043,2025-01-15,Aarav Sharma,West,Online,Sports,Yoga Mat,7,1069.25,0.0,0.0,7484.75,Credit Card,Manoj Tiwari,5
+ORD10044,2025-01-15,Sanjay Kumar,South,Phone,Electronics,Laptop,9,1220.01,10.0,1098.01,9882.08,Bank Transfer,Deepa Rao,3
+ORD10045,2025-01-15,Nikhil Bansal,Central,In-Store,Sports,Tennis Racket,4,975.28,5.0,195.06,3706.06,PayPal,Suresh Babu,4
+ORD10046,2025-01-15,John Smith,South,In-Store,Clothing,T-Shirt,7,193.01,0.0,0.0,1351.07,PayPal,Vijay Anand,1
+ORD10047,2025-01-15,Divya Kapoor,South,Online,Electronics,Tablet,9,1582.49,10.0,1424.24,12818.17,Bank Transfer,Anjali Nair,1
+ORD10048,2025-01-15,Ananya Singh,South,Online,Electronics,Smartwatch,2,1686.69,0.0,0.0,3373.38,PayPal,Vijay Anand,5
+ORD10049,2025-01-16,Nikhil Bansal,North,In-Store,Electronics,Monitor,4,799.43,0.0,0.0,3197.72,Credit Card,Manoj Tiwari,3
+ORD10050,2025-01-16,Amit Malhotra,West,Phone,Sports,Running Shoes,7,561.48,10.0,393.04,3537.32,Debit Card,Anjali Nair,4
+ORD10051,2025-01-16,Rahul Chatterjee,North,Online,Electronics,Laptop,6,1740.18,15.0,1566.16,8874.92,Bank Transfer,Anjali Nair,4
+ORD10052,2025-01-17,Laura Martinez,South,Online,Furniture,Sofa,2,1634.45,0.0,0.0,3268.9,Debit Card,Anjali Nair,5
+ORD10053,2025-01-18,David Wilson,South,In-Store,Groceries,Coffee,9,916.35,5.0,412.36,7834.79,Debit Card,Sunita Rao,2
+ORD10054,2025-01-18,Olivia Anderson,West,Online,Electronics,Headphones,6,1161.66,0.0,0.0,6969.96,Credit Card,Arun Prasad,5
+ORD10055,2025-01-18,Olivia Anderson,Central,Phone,Furniture,Bookshelf,4,1199.7,15.0,719.82,4078.98,Cash,Ravi Kumar,5
+ORD10056,2025-01-18,Sarah Davis,West,Phone,Sports,Running Shoes,4,777.65,0.0,0.0,3110.6,PayPal,Deepa Rao,3
+ORD10057,2025-01-19,Sanjay Kumar,East,Online,Electronics,Monitor,2,1136.23,15.0,340.87,1931.59,PayPal,Vijay Anand,3
+ORD10058,2025-01-19,Rahul Chatterjee,North,Phone,Electronics,Laptop,5,1177.32,0.0,0.0,5886.6,Credit Card,Kiran Desai,2
+ORD10059,2025-01-20,Sneha Desai,North,Online,Electronics,Smartphone,1,336.6,15.0,50.49,286.11,PayPal,Sunita Rao,2
+ORD10060,2025-01-20,Divya Kapoor,Central,In-Store,Electronics,Laptop,6,1450.77,15.0,1305.69,7398.93,Cash,Sunita Rao,2
+ORD10061,2025-01-20,Laura Martinez,Central,Phone,Sports,Tennis Racket,9,821.78,0.0,0.0,7396.02,Cash,Kiran Desai,5
+ORD10062,2025-01-20,Michael Brown,East,In-Store,Clothing,T-Shirt,1,1903.04,20.0,380.61,1522.43,Credit Card,Suresh Babu,4
+ORD10063,2025-01-21,Emily Johnson,South,In-Store,Clothing,Dress,1,1671.89,5.0,83.59,1588.3,Credit Card,Anjali Nair,4
+ORD10064,2025-01-21,Ishita Gupta,West,Phone,Furniture,Dining Table,5,1906.87,10.0,953.43,8580.92,Bank Transfer,Deepa Rao,5
+ORD10065,2025-01-21,Rohan Mehta,West,Online,Clothing,T-Shirt,4,611.37,15.0,366.82,2078.66,Credit Card,Anjali Nair,5
+ORD10066,2025-01-21,John Smith,East,Phone,Furniture,Dining Table,5,1310.08,0.0,0.0,6550.4,Credit Card,Pallavi Shah,3
+ORD10067,2025-01-21,Kavya Menon,West,Online,Groceries,Chocolate Box,6,908.39,0.0,0.0,5450.34,Bank Transfer,Kiran Desai,5
+ORD10068,2025-01-21,Sneha Desai,South,Online,Clothing,Dress,4,1521.27,0.0,0.0,6085.08,Bank Transfer,Pallavi Shah,2
+ORD10069,2025-01-21,Arjun Nair,North,Online,Groceries,Rice Bag,5,1270.51,0.0,0.0,6352.55,Cash,Suresh Babu,4
+ORD10070,2025-01-22,Vikram Rao,North,Phone,Sports,Running Shoes,2,1784.63,10.0,356.93,3212.33,Credit Card,Suresh Babu,4
+ORD10071,2025-01-22,Sophia White,South,In-Store,Clothing,Sneakers,3,1616.69,0.0,0.0,4850.07,Credit Card,Anjali Nair,4
+ORD10072,2025-01-22,Sarah Davis,South,Online,Sports,Running Shoes,5,1744.74,5.0,436.19,8287.51,PayPal,Pallavi Shah,5
+ORD10073,2025-01-23,Daniel Thomas,South,In-Store,Furniture,Desk,5,1640.79,15.0,1230.59,6973.36,Bank Transfer,Sunita Rao,3
+ORD10074,2025-01-24,Pooja Reddy,West,Online,Electronics,Smartphone,1,130.87,20.0,26.17,104.7,PayPal,Deepa Rao,4
+ORD10075,2025-01-24,Sarah Davis,Central,Phone,Furniture,Bookshelf,6,773.92,0.0,0.0,4643.52,Cash,Kiran Desai,4
+ORD10076,2025-01-24,Arjun Nair,South,Online,Furniture,Dining Table,1,1131.81,10.0,113.18,1018.63,PayPal,Sunita Rao,1
+ORD10077,2025-01-25,Riya Chawla,North,Online,Furniture,Desk,7,172.83,20.0,241.96,967.85,PayPal,Anjali Nair,2
+ORD10078,2025-01-25,Rahul Chatterjee,West,Online,Sports,Tennis Racket,5,247.92,0.0,0.0,1239.6,Cash,Deepa Rao,4
+ORD10079,2025-01-25,Kavya Menon,East,Online,Sports,Running Shoes,8,178.54,5.0,71.42,1356.9,Debit Card,Kiran Desai,5
+ORD10080,2025-01-25,Amit Malhotra,South,Online,Furniture,Dining Table,3,612.63,0.0,0.0,1837.89,Credit Card,Anjali Nair,5
+ORD10081,2025-01-27,Sophia White,North,In-Store,Furniture,Sofa,5,1102.0,0.0,0.0,5510.0,PayPal,Kiran Desai,3
+ORD10082,2025-01-28,Rohan Mehta,North,Phone,Groceries,Chocolate Box,1,253.39,15.0,38.01,215.38,Cash,Suresh Babu,3
+ORD10083,2025-01-29,Rohan Mehta,Central,In-Store,Electronics,Headphones,2,268.7,5.0,26.87,510.53,Debit Card,Sunita Rao,5
+ORD10084,2025-01-29,Michael Brown,East,Online,Clothing,Sneakers,8,86.7,0.0,0.0,693.6,PayPal,Sunita Rao,4
+ORD10085,2025-01-29,Karan Verma,Central,Online,Clothing,T-Shirt,8,1253.17,20.0,2005.07,8020.29,Debit Card,Arun Prasad,4
+ORD10086,2025-01-29,Laura Martinez,North,Phone,Sports,Yoga Mat,5,162.47,0.0,0.0,812.35,Credit Card,Deepa Rao,4
+ORD10087,2025-01-29,Rahul Chatterjee,West,Online,Sports,Running Shoes,1,1164.7,15.0,174.71,989.99,Credit Card,Deepa Rao,4
+ORD10088,2025-01-29,Emily Johnson,East,Phone,Sports,Running Shoes,4,580.94,0.0,0.0,2323.76,PayPal,Anjali Nair,4
+ORD10089,2025-01-29,Ishita Gupta,West,In-Store,Furniture,Bookshelf,2,159.58,5.0,15.96,303.2,Debit Card,Sunita Rao,5
+ORD10090,2025-01-30,David Wilson,Central,In-Store,Furniture,Bookshelf,6,342.95,0.0,0.0,2057.7,Cash,Suresh Babu,5
+ORD10091,2025-01-30,Ananya Singh,Central,Online,Electronics,Headphones,9,1592.11,0.0,0.0,14328.99,Cash,Kiran Desai,5
+ORD10092,2025-02-01,Sneha Desai,East,Online,Electronics,Smartwatch,5,1898.41,5.0,474.6,9017.45,Cash,Arun Prasad,2
+ORD10093,2025-02-01,Kavya Menon,South,Phone,Clothing,Sneakers,2,412.15,0.0,0.0,824.3,Cash,Sunita Rao,4
+ORD10094,2025-02-01,Amit Malhotra,South,Online,Sports,Yoga Mat,8,77.92,0.0,0.0,623.36,PayPal,Anjali Nair,4
+ORD10095,2025-02-02,Vikram Rao,East,Online,Sports,Running Shoes,6,1184.64,0.0,0.0,7107.84,PayPal,Suresh Babu,5
+ORD10096,2025-02-03,Michael Brown,Central,In-Store,Groceries,Coffee,2,1824.08,20.0,729.63,2918.53,Credit Card,Ravi Kumar,5
+ORD10097,2025-02-04,Rahul Chatterjee,Central,Phone,Groceries,Coffee,3,1151.29,0.0,0.0,3453.87,PayPal,Deepa Rao,5
+ORD10098,2025-02-04,Karan Verma,West,Phone,Electronics,Smartphone,6,1104.88,0.0,0.0,6629.28,Bank Transfer,Pallavi Shah,4
+ORD10099,2025-02-04,Meera Iyer,West,Online,Furniture,Dining Table,4,1030.34,20.0,824.27,3297.09,Cash,Anjali Nair,4
+ORD10100,2025-02-04,Laura Martinez,South,Online,Groceries,Cereal,4,341.04,0.0,0.0,1364.16,Bank Transfer,Kiran Desai,5
+ORD10101,2025-02-05,Michael Brown,Central,Online,Furniture,Office Chair,8,1553.94,20.0,2486.3,9945.22,Bank Transfer,Pallavi Shah,3
+ORD10102,2025-02-05,Olivia Anderson,South,Phone,Sports,Dumbbells,2,1619.0,15.0,485.7,2752.3,PayPal,Manoj Tiwari,4
+ORD10103,2025-02-05,Rahul Chatterjee,North,In-Store,Electronics,Tablet,4,976.6,0.0,0.0,3906.4,PayPal,Deepa Rao,4
+ORD10104,2025-02-06,Neha Joshi,North,Phone,Sports,Tennis Racket,9,1644.74,20.0,2960.53,11842.13,Debit Card,Sunita Rao,4
+ORD10105,2025-02-06,Michael Brown,South,In-Store,Furniture,Sofa,4,1517.29,20.0,1213.83,4855.33,Cash,Sunita Rao,5
+ORD10106,2025-02-07,Priya Patel,Central,Phone,Clothing,T-Shirt,2,1702.2,15.0,510.66,2893.74,Credit Card,Suresh Babu,2
+ORD10107,2025-02-07,Olivia Anderson,East,In-Store,Clothing,T-Shirt,3,691.43,20.0,414.86,1659.43,Cash,Vijay Anand,4
+ORD10108,2025-02-07,James Taylor,West,Phone,Sports,Tennis Racket,8,1932.28,20.0,3091.65,12366.59,Debit Card,Pallavi Shah,4
+ORD10109,2025-02-08,Olivia Anderson,Central,In-Store,Clothing,Jeans,6,688.59,5.0,206.58,3924.96,Debit Card,Sunita Rao,3
+ORD10110,2025-02-08,Sanjay Kumar,North,Online,Electronics,Smartwatch,4,1755.55,20.0,1404.44,5617.76,Bank Transfer,Anjali Nair,2
+ORD10111,2025-02-08,Kavya Menon,South,In-Store,Furniture,Office Chair,6,1657.74,0.0,0.0,9946.44,Cash,Arun Prasad,4
+ORD10112,2025-02-08,James Taylor,West,In-Store,Sports,Tennis Racket,2,600.26,20.0,240.1,960.42,PayPal,Suresh Babu,5
+ORD10113,2025-02-08,Riya Chawla,Central,Phone,Groceries,Rice Bag,4,1970.49,0.0,0.0,7881.96,Bank Transfer,Vijay Anand,3
+ORD10114,2025-02-08,Olivia Anderson,West,In-Store,Furniture,Office Chair,8,858.9,0.0,0.0,6871.2,PayPal,Arun Prasad,1
+ORD10115,2025-02-08,Divya Kapoor,Central,Online,Electronics,Laptop,9,426.84,0.0,0.0,3841.56,Cash,Suresh Babu,5
+ORD10116,2025-02-09,James Taylor,East,Online,Furniture,Bookshelf,1,1729.66,15.0,259.45,1470.21,PayPal,Pallavi Shah,4
+ORD10117,2025-02-09,Emily Johnson,Central,Phone,Sports,Yoga Mat,6,509.45,0.0,0.0,3056.7,Credit Card,Kiran Desai,5
+ORD10118,2025-02-10,Meera Iyer,South,Online,Groceries,Chocolate Box,8,33.87,5.0,13.55,257.41,Bank Transfer,Deepa Rao,5
+ORD10119,2025-02-10,Pooja Reddy,East,Online,Furniture,Dining Table,2,1358.95,0.0,0.0,2717.9,Debit Card,Anjali Nair,3
+ORD10120,2025-02-10,Meera Iyer,East,Online,Groceries,Olive Oil,2,565.02,10.0,113.0,1017.04,Debit Card,Manoj Tiwari,4
+ORD10121,2025-02-11,Sophia White,West,In-Store,Furniture,Sofa,3,1323.7,10.0,397.11,3573.99,PayPal,Arun Prasad,5
+ORD10122,2025-02-11,Vikram Rao,South,Online,Groceries,Cereal,5,574.3,5.0,143.57,2727.93,Cash,Kiran Desai,5
+ORD10123,2025-02-12,John Smith,South,Online,Electronics,Monitor,2,1099.93,15.0,329.98,1869.88,Debit Card,Manoj Tiwari,5
+ORD10124,2025-02-13,Nikhil Bansal,North,Phone,Sports,Running Shoes,8,902.11,0.0,0.0,7216.88,Credit Card,Deepa Rao,5
+ORD10125,2025-02-13,Karan Verma,West,Phone,Groceries,Chocolate Box,8,1795.58,0.0,0.0,14364.64,Cash,Anjali Nair,3
+ORD10126,2025-02-13,Riya Chawla,North,Online,Clothing,Jeans,2,459.42,0.0,0.0,918.84,Cash,Sunita Rao,4
+ORD10127,2025-02-13,Daniel Thomas,South,Phone,Furniture,Dining Table,3,923.36,0.0,0.0,2770.08,PayPal,Ravi Kumar,5
+ORD10128,2025-02-14,Laura Martinez,Central,Phone,Electronics,Smartwatch,6,1361.88,5.0,408.56,7762.72,Bank Transfer,Pallavi Shah,1
+ORD10129,2025-02-14,Rohan Mehta,East,Online,Furniture,Dining Table,7,1325.04,0.0,0.0,9275.28,Debit Card,Anjali Nair,4
+ORD10130,2025-02-14,Laura Martinez,South,Online,Electronics,Smartphone,3,331.64,15.0,149.24,845.68,PayPal,Pallavi Shah,4
+ORD10131,2025-02-15,Aarav Sharma,West,Online,Groceries,Chocolate Box,8,695.3,0.0,0.0,5562.4,Debit Card,Ravi Kumar,5
+ORD10132,2025-02-15,Laura Martinez,South,Online,Furniture,Desk,9,1438.81,5.0,647.46,12301.83,Bank Transfer,Kiran Desai,5
+ORD10133,2025-02-15,Ananya Singh,South,Phone,Clothing,Sneakers,1,100.92,20.0,20.18,80.74,Cash,Vijay Anand,3
+ORD10134,2025-02-16,Arjun Nair,West,Online,Clothing,Dress,6,1205.22,10.0,723.13,6508.19,Debit Card,Arun Prasad,3
+ORD10135,2025-02-16,Divya Kapoor,East,Phone,Groceries,Cereal,8,1087.23,0.0,0.0,8697.84,Debit Card,Anjali Nair,5
+ORD10136,2025-02-16,Kavya Menon,South,Phone,Sports,Bicycle,7,796.91,0.0,0.0,5578.37,Credit Card,Ravi Kumar,3
+ORD10137,2025-02-16,Rahul Chatterjee,Central,Phone,Sports,Yoga Mat,9,363.4,5.0,163.53,3107.07,Credit Card,Manoj Tiwari,4
+ORD10138,2025-02-16,Laura Martinez,East,In-Store,Clothing,Sneakers,5,103.96,20.0,103.96,415.84,Cash,Pallavi Shah,5
+ORD10139,2025-02-17,Amit Malhotra,Central,Online,Furniture,Desk,5,1321.44,5.0,330.36,6276.84,Credit Card,Ravi Kumar,4
+ORD10140,2025-02-17,Sneha Desai,West,In-Store,Sports,Bicycle,2,173.12,0.0,0.0,346.24,Cash,Arun Prasad,4
+ORD10141,2025-02-18,Rohan Mehta,South,In-Store,Sports,Dumbbells,4,1875.02,15.0,1125.01,6375.07,Debit Card,Ravi Kumar,5
+ORD10142,2025-02-18,Sarah Davis,Central,Phone,Furniture,Dining Table,3,1793.66,0.0,0.0,5380.98,Bank Transfer,Sunita Rao,5
+ORD10143,2025-02-18,Laura Martinez,North,Online,Electronics,Tablet,2,1265.82,10.0,253.16,2278.48,Debit Card,Manoj Tiwari,4
+ORD10144,2025-02-18,Amit Malhotra,West,In-Store,Clothing,Jacket,8,1006.38,0.0,0.0,8051.04,Credit Card,Deepa Rao,5
+ORD10145,2025-02-19,Nikhil Bansal,South,Online,Electronics,Headphones,6,420.68,0.0,0.0,2524.08,Cash,Deepa Rao,5
+ORD10146,2025-02-19,Kavya Menon,East,Phone,Groceries,Coffee,6,925.03,0.0,0.0,5550.18,Bank Transfer,Sunita Rao,5
+ORD10147,2025-02-20,Pooja Reddy,Central,Online,Sports,Yoga Mat,7,1851.51,0.0,0.0,12960.57,Debit Card,Deepa Rao,3
+ORD10148,2025-02-20,Meera Iyer,North,Online,Clothing,Dress,6,342.03,10.0,205.22,1846.96,Credit Card,Arun Prasad,5
+ORD10149,2025-02-20,Priya Patel,East,Phone,Groceries,Coffee,5,474.77,0.0,0.0,2373.85,Debit Card,Kiran Desai,4
+ORD10150,2025-02-21,Sanjay Kumar,East,Online,Groceries,Rice Bag,6,806.15,10.0,483.69,4353.21,Debit Card,Anjali Nair,4
+ORD10151,2025-02-21,Emily Johnson,West,Online,Sports,Yoga Mat,9,739.91,0.0,0.0,6659.19,Credit Card,Vijay Anand,5
+ORD10152,2025-02-22,Michael Brown,North,Online,Furniture,Sofa,2,931.7,10.0,186.34,1677.06,Debit Card,Arun Prasad,5
+ORD10153,2025-02-22,John Smith,Central,In-Store,Sports,Tennis Racket,8,1135.06,20.0,1816.1,7264.38,PayPal,Suresh Babu,5
+ORD10154,2025-02-22,Michael Brown,South,Online,Electronics,Smartwatch,7,1862.2,15.0,1955.31,11080.09,PayPal,Anjali Nair,5
+ORD10155,2025-02-22,Riya Chawla,West,Phone,Furniture,Office Chair,4,383.92,10.0,153.57,1382.11,Bank Transfer,Kiran Desai,5
+ORD10156,2025-02-23,Ishita Gupta,West,Online,Clothing,Sneakers,8,656.67,10.0,525.34,4728.02,Cash,Deepa Rao,4
+ORD10157,2025-02-23,Vikram Rao,South,Online,Groceries,Coffee,6,759.05,20.0,910.86,3643.44,PayPal,Anjali Nair,5
+ORD10158,2025-02-23,Laura Martinez,South,Phone,Sports,Yoga Mat,1,511.33,15.0,76.7,434.63,Debit Card,Ravi Kumar,3
+ORD10159,2025-02-23,Laura Martinez,East,Online,Clothing,Jacket,3,842.91,0.0,0.0,2528.73,PayPal,Kiran Desai,5
+ORD10160,2025-02-24,Emily Johnson,West,Online,Sports,Yoga Mat,6,1610.64,10.0,966.38,8697.46,Credit Card,Suresh Babu,2
+ORD10161,2025-02-24,Sneha Desai,Central,In-Store,Clothing,Jacket,7,844.58,0.0,0.0,5912.06,Cash,Arun Prasad,4
+ORD10162,2025-02-24,Aditya Bose,East,In-Store,Electronics,Smartphone,9,161.09,5.0,72.49,1377.32,Debit Card,Arun Prasad,4
+ORD10163,2025-02-25,Daniel Thomas,Central,Phone,Groceries,Chocolate Box,7,657.15,0.0,0.0,4600.05,Bank Transfer,Vijay Anand,4
+ORD10164,2025-02-25,Rohan Mehta,South,In-Store,Electronics,Laptop,3,1893.56,10.0,568.07,5112.61,Cash,Ravi Kumar,3
+ORD10165,2025-02-26,Neha Joshi,West,Online,Furniture,Desk,2,182.1,0.0,0.0,364.2,Debit Card,Deepa Rao,4
+ORD10166,2025-02-26,Laura Martinez,East,In-Store,Groceries,Chocolate Box,7,743.33,0.0,0.0,5203.31,Credit Card,Anjali Nair,4
+ORD10167,2025-02-26,James Taylor,North,In-Store,Groceries,Olive Oil,4,737.5,15.0,442.5,2507.5,Cash,Deepa Rao,5
+ORD10168,2025-02-27,Divya Kapoor,South,Phone,Clothing,Jeans,6,1231.94,20.0,1478.33,5913.31,PayPal,Anjali Nair,4
+ORD10169,2025-02-28,Arjun Nair,West,Online,Electronics,Tablet,9,57.56,0.0,0.0,518.04,Bank Transfer,Sunita Rao,5
+ORD10170,2025-02-28,Amit Malhotra,North,Online,Groceries,Coffee,9,1057.35,15.0,1427.42,8088.73,Credit Card,Vijay Anand,5
+ORD10171,2025-02-28,Meera Iyer,North,In-Store,Sports,Yoga Mat,1,1406.75,0.0,0.0,1406.75,PayPal,Anjali Nair,4
+ORD10172,2025-03-01,Ananya Singh,South,Online,Furniture,Bookshelf,7,1787.72,10.0,1251.4,11262.64,Cash,Sunita Rao,4
+ORD10173,2025-03-01,David Wilson,West,In-Store,Clothing,Sneakers,3,1007.58,0.0,0.0,3022.74,Bank Transfer,Arun Prasad,4
+ORD10174,2025-03-01,Meera Iyer,South,Phone,Sports,Yoga Mat,2,375.12,0.0,0.0,750.24,Bank Transfer,Pallavi Shah,4
+ORD10175,2025-03-01,Vikram Rao,North,Phone,Furniture,Office Chair,4,195.59,0.0,0.0,782.36,Debit Card,Ravi Kumar,5
+ORD10176,2025-03-01,Aditya Bose,South,In-Store,Clothing,Sneakers,8,714.47,10.0,571.58,5144.18,Debit Card,Kiran Desai,4
+ORD10177,2025-03-02,Kavya Menon,South,In-Store,Furniture,Bookshelf,1,434.61,0.0,0.0,434.61,Debit Card,Kiran Desai,4
+ORD10178,2025-03-03,Sneha Desai,South,Phone,Clothing,T-Shirt,3,551.46,10.0,165.44,1488.94,PayPal,Vijay Anand,1
+ORD10179,2025-03-03,Priya Patel,East,Phone,Clothing,Sneakers,7,835.24,5.0,292.33,5554.35,Credit Card,Kiran Desai,2
+ORD10180,2025-03-03,Aditya Bose,West,Online,Furniture,Office Chair,7,919.12,20.0,1286.77,5147.07,Cash,Anjali Nair,4
+ORD10181,2025-03-03,Kavya Menon,West,Online,Electronics,Laptop,9,1459.7,15.0,1970.6,11166.7,PayPal,Deepa Rao,5
+ORD10182,2025-03-03,Meera Iyer,South,In-Store,Clothing,Dress,8,1624.57,20.0,2599.31,10397.25,Bank Transfer,Pallavi Shah,5
+ORD10183,2025-03-03,Vikram Rao,Central,Online,Electronics,Monitor,2,861.22,10.0,172.24,1550.2,Cash,Suresh Babu,4
+ORD10184,2025-03-04,Sarah Davis,North,Online,Electronics,Smartphone,9,338.43,20.0,609.17,2436.7,Bank Transfer,Pallavi Shah,4
+ORD10185,2025-03-04,Olivia Anderson,East,Online,Groceries,Chocolate Box,1,816.58,0.0,0.0,816.58,Debit Card,Sunita Rao,5
+ORD10186,2025-03-04,Nikhil Bansal,Central,In-Store,Clothing,Sneakers,8,266.21,0.0,0.0,2129.68,Bank Transfer,Manoj Tiwari,3
+ORD10187,2025-03-04,Daniel Thomas,North,In-Store,Groceries,Coffee,5,1311.27,0.0,0.0,6556.35,Bank Transfer,Pallavi Shah,4
+ORD10188,2025-03-04,Amit Malhotra,North,Phone,Electronics,Tablet,7,1343.76,0.0,0.0,9406.32,Debit Card,Deepa Rao,5
+ORD10189,2025-03-04,John Smith,Central,Online,Groceries,Chocolate Box,1,823.94,20.0,164.79,659.15,Cash,Vijay Anand,5
+ORD10190,2025-03-04,Kavya Menon,North,Phone,Electronics,Smartphone,4,1513.6,10.0,605.44,5448.96,Bank Transfer,Arun Prasad,5
+ORD10191,2025-03-05,Riya Chawla,Central,Online,Sports,Bicycle,5,955.75,10.0,477.88,4300.87,Bank Transfer,Arun Prasad,2
+ORD10192,2025-03-05,Aditya Bose,North,Phone,Sports,Dumbbells,8,1684.24,5.0,673.7,12800.22,Cash,Anjali Nair,4
+ORD10193,2025-03-05,Emily Johnson,West,In-Store,Clothing,Dress,6,1200.25,10.0,720.15,6481.35,Bank Transfer,Sunita Rao,3
+ORD10194,2025-03-05,David Wilson,South,In-Store,Groceries,Olive Oil,5,491.2,0.0,0.0,2456.0,PayPal,Anjali Nair,5
+ORD10195,2025-03-06,Ananya Singh,East,Phone,Clothing,Jacket,8,275.7,20.0,441.12,1764.48,Bank Transfer,Pallavi Shah,5
+ORD10196,2025-03-06,Rahul Chatterjee,Central,Online,Groceries,Rice Bag,5,1393.11,20.0,1393.11,5572.44,Bank Transfer,Ravi Kumar,5
+ORD10197,2025-03-06,Arjun Nair,South,Online,Clothing,Jeans,7,996.69,15.0,1046.52,5930.31,PayPal,Vijay Anand,5
+ORD10198,2025-03-07,Rohan Mehta,East,Phone,Groceries,Chocolate Box,6,1388.29,20.0,1665.95,6663.79,PayPal,Arun Prasad,5
+ORD10199,2025-03-07,Ishita Gupta,North,Phone,Furniture,Office Chair,9,261.61,5.0,117.72,2236.77,Cash,Ravi Kumar,4
+ORD10200,2025-03-07,Aarav Sharma,South,Phone,Clothing,T-Shirt,4,1641.45,0.0,0.0,6565.8,Debit Card,Arun Prasad,2
+ORD10201,2025-03-08,Pooja Reddy,Central,Online,Groceries,Chocolate Box,2,1145.5,0.0,0.0,2291.0,Cash,Ravi Kumar,1
+ORD10202,2025-03-09,Pooja Reddy,West,Online,Electronics,Laptop,1,903.26,0.0,0.0,903.26,Bank Transfer,Arun Prasad,5
+ORD10203,2025-03-09,Kavya Menon,East,Online,Clothing,Sneakers,9,1989.66,5.0,895.35,17011.59,Credit Card,Suresh Babu,3
+ORD10204,2025-03-09,Arjun Nair,West,Phone,Furniture,Desk,2,1126.15,0.0,0.0,2252.3,PayPal,Arun Prasad,5
+ORD10205,2025-03-09,Sneha Desai,East,Online,Electronics,Monitor,4,654.17,20.0,523.34,2093.34,Credit Card,Suresh Babu,5
+ORD10206,2025-03-10,Aarav Sharma,West,Online,Groceries,Cereal,5,454.2,10.0,227.1,2043.9,Debit Card,Pallavi Shah,5
+ORD10207,2025-03-10,Ananya Singh,South,In-Store,Electronics,Smartphone,6,929.93,10.0,557.96,5021.62,Cash,Kiran Desai,5
+ORD10208,2025-03-10,Kavya Menon,East,Phone,Electronics,Laptop,3,988.1,0.0,0.0,2964.3,Bank Transfer,Anjali Nair,5
+ORD10209,2025-03-10,David Wilson,West,In-Store,Electronics,Smartwatch,4,1968.56,5.0,393.71,7480.53,Cash,Kiran Desai,2
+ORD10210,2025-03-10,Divya Kapoor,West,Online,Electronics,Smartphone,2,1340.19,5.0,134.02,2546.36,Bank Transfer,Sunita Rao,5
+ORD10211,2025-03-11,Amit Malhotra,South,Online,Electronics,Headphones,9,180.14,5.0,81.06,1540.2,Credit Card,Deepa Rao,5
+ORD10212,2025-03-12,Sophia White,South,Phone,Clothing,T-Shirt,9,954.74,20.0,1718.53,6874.13,Debit Card,Anjali Nair,3
+ORD10213,2025-03-12,Olivia Anderson,Central,In-Store,Clothing,Dress,9,73.63,15.0,99.4,563.27,PayPal,Arun Prasad,5
+ORD10214,2025-03-12,Pooja Reddy,South,Online,Furniture,Desk,6,1127.05,15.0,1014.34,5747.96,Cash,Ravi Kumar,5
+ORD10215,2025-03-12,Pooja Reddy,North,Phone,Clothing,Sneakers,9,1286.21,10.0,1157.59,10418.3,Bank Transfer,Suresh Babu,4
+ORD10216,2025-03-13,Aarav Sharma,East,Online,Sports,Dumbbells,6,989.59,0.0,0.0,5937.54,PayPal,Pallavi Shah,5
+ORD10217,2025-03-13,Ishita Gupta,North,Phone,Sports,Tennis Racket,4,1621.98,5.0,324.4,6163.52,Cash,Deepa Rao,5
+ORD10218,2025-03-13,Rahul Chatterjee,North,Phone,Furniture,Sofa,3,1201.94,0.0,0.0,3605.82,Bank Transfer,Sunita Rao,5
+ORD10219,2025-03-14,Rohan Mehta,North,Phone,Electronics,Laptop,8,828.52,0.0,0.0,6628.16,PayPal,Anjali Nair,5
+ORD10220,2025-03-14,Kavya Menon,North,Online,Clothing,Jeans,1,1992.54,0.0,0.0,1992.54,Debit Card,Deepa Rao,3
+ORD10221,2025-03-14,Michael Brown,East,Phone,Sports,Dumbbells,2,1182.62,0.0,0.0,2365.24,Credit Card,Vijay Anand,5
+ORD10222,2025-03-14,Rahul Chatterjee,East,Phone,Clothing,Jeans,3,1479.04,15.0,665.57,3771.55,Debit Card,Vijay Anand,4
+ORD10223,2025-03-14,Priya Patel,Central,Online,Electronics,Headphones,7,690.4,5.0,241.64,4591.16,Cash,Manoj Tiwari,2
+ORD10224,2025-03-14,Karan Verma,West,Phone,Electronics,Smartwatch,9,1643.67,0.0,0.0,14793.03,Credit Card,Suresh Babu,5
+ORD10225,2025-03-15,James Taylor,West,In-Store,Electronics,Smartphone,5,687.03,10.0,343.51,3091.64,Cash,Ravi Kumar,5
+ORD10226,2025-03-15,Nikhil Bansal,South,Online,Electronics,Smartwatch,2,896.25,5.0,89.62,1702.88,Cash,Sunita Rao,5
+ORD10227,2025-03-15,Divya Kapoor,East,In-Store,Clothing,T-Shirt,5,475.0,10.0,237.5,2137.5,PayPal,Kiran Desai,5
+ORD10228,2025-03-15,Neha Joshi,West,Phone,Electronics,Laptop,1,486.21,0.0,0.0,486.21,Debit Card,Sunita Rao,4
+ORD10229,2025-03-15,Meera Iyer,East,Online,Furniture,Bookshelf,6,1192.74,5.0,357.82,6798.62,Cash,Suresh Babu,5
+ORD10230,2025-03-16,Sarah Davis,South,Online,Sports,Bicycle,9,838.8,5.0,377.46,7171.74,Credit Card,Suresh Babu,5
+ORD10231,2025-03-16,Emily Johnson,North,Online,Sports,Bicycle,9,1003.22,0.0,0.0,9028.98,Debit Card,Suresh Babu,5
+ORD10232,2025-03-17,Aarav Sharma,Central,In-Store,Groceries,Chocolate Box,1,1599.48,10.0,159.95,1439.53,PayPal,Deepa Rao,4
+ORD10233,2025-03-17,Sneha Desai,East,Online,Electronics,Headphones,7,870.22,0.0,0.0,6091.54,Cash,Vijay Anand,5
+ORD10234,2025-03-17,Pooja Reddy,South,Online,Furniture,Bookshelf,7,568.58,20.0,796.01,3184.05,Bank Transfer,Deepa Rao,5
+ORD10235,2025-03-18,Rahul Chatterjee,North,Phone,Clothing,Jeans,1,1153.31,10.0,115.33,1037.98,PayPal,Anjali Nair,2
+ORD10236,2025-03-18,Kavya Menon,South,In-Store,Groceries,Olive Oil,2,796.86,15.0,239.06,1354.66,Debit Card,Anjali Nair,2
+ORD10237,2025-03-19,Sneha Desai,North,In-Store,Furniture,Dining Table,9,646.56,20.0,1163.81,4655.23,PayPal,Ravi Kumar,4
+ORD10238,2025-03-19,Michael Brown,East,Online,Furniture,Sofa,9,635.81,0.0,0.0,5722.29,Credit Card,Ravi Kumar,3
+ORD10239,2025-03-20,Laura Martinez,East,In-Store,Groceries,Coffee,5,1382.95,15.0,1037.21,5877.54,Credit Card,Arun Prasad,5
+ORD10240,2025-03-20,Riya Chawla,North,Online,Groceries,Cereal,2,1380.95,15.0,414.29,2347.61,Credit Card,Pallavi Shah,4
+ORD10241,2025-03-20,Aditya Bose,South,Online,Clothing,Jacket,2,1368.17,15.0,410.45,2325.89,Cash,Suresh Babu,4
+ORD10242,2025-03-20,Olivia Anderson,South,Online,Furniture,Office Chair,4,1229.3,5.0,245.86,4671.34,Cash,Ravi Kumar,4
+ORD10243,2025-03-20,Neha Joshi,South,Online,Clothing,Dress,8,207.24,0.0,0.0,1657.92,Credit Card,Arun Prasad,4
+ORD10244,2025-03-20,Arjun Nair,Central,In-Store,Furniture,Desk,4,1633.08,0.0,0.0,6532.32,Bank Transfer,Vijay Anand,5
+ORD10245,2025-03-21,Sanjay Kumar,North,In-Store,Furniture,Desk,2,1875.97,10.0,375.19,3376.75,Bank Transfer,Vijay Anand,4
+ORD10246,2025-03-21,Amit Malhotra,Central,Phone,Furniture,Office Chair,9,56.14,15.0,75.79,429.47,Bank Transfer,Suresh Babu,5
+ORD10247,2025-03-21,Kavya Menon,West,In-Store,Furniture,Dining Table,9,1151.8,15.0,1554.93,8811.27,Debit Card,Deepa Rao,4
+ORD10248,2025-03-22,Arjun Nair,South,In-Store,Sports,Bicycle,8,427.37,10.0,341.9,3077.06,Cash,Suresh Babu,4
+ORD10249,2025-03-22,Nikhil Bansal,Central,Online,Clothing,T-Shirt,6,1953.35,20.0,2344.02,9376.08,Credit Card,Anjali Nair,4
+ORD10250,2025-03-22,David Wilson,West,Online,Furniture,Office Chair,1,817.31,10.0,81.73,735.58,Cash,Kiran Desai,5
+ORD10251,2025-03-22,Neha Joshi,East,Online,Furniture,Bookshelf,1,1789.63,0.0,0.0,1789.63,Credit Card,Anjali Nair,5
+ORD10252,2025-03-22,Karan Verma,South,Online,Clothing,Jacket,5,1543.68,0.0,0.0,7718.4,Cash,Pallavi Shah,5
+ORD10253,2025-03-23,John Smith,East,In-Store,Electronics,Laptop,1,1907.1,10.0,190.71,1716.39,Cash,Ravi Kumar,3
+ORD10254,2025-03-23,Aditya Bose,Central,In-Store,Clothing,T-Shirt,6,1230.09,0.0,0.0,7380.54,Bank Transfer,Pallavi Shah,3
+ORD10255,2025-03-23,Michael Brown,West,Phone,Furniture,Dining Table,3,1721.21,0.0,0.0,5163.63,PayPal,Pallavi Shah,5
+ORD10256,2025-03-23,Rohan Mehta,South,Phone,Furniture,Office Chair,4,1635.8,0.0,0.0,6543.2,Debit Card,Sunita Rao,2
+ORD10257,2025-03-25,Pooja Reddy,East,Phone,Furniture,Sofa,8,412.9,0.0,0.0,3303.2,Cash,Pallavi Shah,4
+ORD10258,2025-03-25,Meera Iyer,East,Phone,Electronics,Laptop,2,1765.06,0.0,0.0,3530.12,Bank Transfer,Deepa Rao,4
+ORD10259,2025-03-27,Rohan Mehta,North,Online,Clothing,Jacket,5,1168.12,0.0,0.0,5840.6,Bank Transfer,Suresh Babu,1
+ORD10260,2025-03-27,David Wilson,North,In-Store,Furniture,Desk,1,1680.73,15.0,252.11,1428.62,Bank Transfer,Deepa Rao,4
+ORD10261,2025-03-27,Sneha Desai,West,In-Store,Electronics,Tablet,1,1501.57,0.0,0.0,1501.57,PayPal,Vijay Anand,4
+ORD10262,2025-03-28,Sarah Davis,North,Phone,Groceries,Olive Oil,8,1734.65,0.0,0.0,13877.2,PayPal,Sunita Rao,5
+ORD10263,2025-03-28,Rahul Chatterjee,East,In-Store,Sports,Dumbbells,9,284.34,20.0,511.81,2047.25,Cash,Pallavi Shah,4
+ORD10264,2025-03-28,John Smith,East,Phone,Groceries,Chocolate Box,6,683.73,5.0,205.12,3897.26,Credit Card,Sunita Rao,3
+ORD10265,2025-03-28,Vikram Rao,South,Phone,Electronics,Headphones,5,1673.7,0.0,0.0,8368.5,Cash,Pallavi Shah,4
+ORD10266,2025-03-28,Sarah Davis,North,Online,Sports,Tennis Racket,7,80.85,0.0,0.0,565.95,PayPal,Suresh Babu,1
+ORD10267,2025-03-28,Emily Johnson,South,Phone,Groceries,Cereal,1,1617.27,15.0,242.59,1374.68,Cash,Kiran Desai,4
+ORD10268,2025-03-28,Rohan Mehta,West,In-Store,Clothing,Jeans,5,1903.65,15.0,1427.74,8090.51,Credit Card,Sunita Rao,5
+ORD10269,2025-03-29,Priya Patel,North,In-Store,Electronics,Headphones,4,392.29,0.0,0.0,1569.16,Credit Card,Pallavi Shah,4
+ORD10270,2025-03-29,Sophia White,Central,In-Store,Sports,Bicycle,3,290.02,15.0,130.51,739.55,Cash,Kiran Desai,1
+ORD10271,2025-03-30,Ananya Singh,East,Phone,Sports,Yoga Mat,7,1185.87,15.0,1245.16,7055.93,Credit Card,Ravi Kumar,4
+ORD10272,2025-03-30,Rahul Chatterjee,East,Online,Groceries,Olive Oil,9,635.62,10.0,572.06,5148.52,Credit Card,Vijay Anand,3
+ORD10273,2025-03-30,Priya Patel,East,Phone,Clothing,Jacket,4,1346.04,0.0,0.0,5384.16,Debit Card,Deepa Rao,3
+ORD10274,2025-03-30,Karan Verma,South,Online,Groceries,Rice Bag,7,1975.4,0.0,0.0,13827.8,Debit Card,Manoj Tiwari,5
+ORD10275,2025-03-31,Emily Johnson,West,Online,Clothing,Sneakers,3,1827.45,0.0,0.0,5482.35,Debit Card,Kiran Desai,3
+ORD10276,2025-03-31,Arjun Nair,Central,Online,Sports,Tennis Racket,4,883.88,10.0,353.55,3181.97,Cash,Anjali Nair,4
+ORD10277,2025-03-31,Nikhil Bansal,South,Phone,Furniture,Sofa,1,1106.11,0.0,0.0,1106.11,Debit Card,Vijay Anand,4
+ORD10278,2025-03-31,Sneha Desai,West,In-Store,Groceries,Olive Oil,6,610.22,15.0,549.2,3112.12,Bank Transfer,Manoj Tiwari,5
+ORD10279,2025-04-02,Kavya Menon,North,Phone,Groceries,Rice Bag,7,1484.9,10.0,1039.43,9354.87,Bank Transfer,Ravi Kumar,5
+ORD10280,2025-04-02,Arjun Nair,North,Phone,Clothing,T-Shirt,5,637.99,5.0,159.5,3030.45,Debit Card,Ravi Kumar,2
+ORD10281,2025-04-02,Vikram Rao,South,Online,Groceries,Cereal,4,247.14,0.0,0.0,988.56,Cash,Suresh Babu,4
+ORD10282,2025-04-03,Sanjay Kumar,East,Online,Groceries,Cereal,1,104.71,0.0,0.0,104.71,Debit Card,Kiran Desai,3
+ORD10283,2025-04-03,Vikram Rao,North,In-Store,Furniture,Sofa,8,1602.6,20.0,2564.16,10256.64,Cash,Pallavi Shah,3
+ORD10284,2025-04-03,Michael Brown,Central,Online,Groceries,Cereal,1,1763.41,15.0,264.51,1498.9,Debit Card,Kiran Desai,3
+ORD10285,2025-04-03,John Smith,South,In-Store,Furniture,Sofa,2,969.96,5.0,97.0,1842.92,Bank Transfer,Vijay Anand,3
+ORD10286,2025-04-03,Ananya Singh,East,In-Store,Clothing,Jacket,3,1032.59,10.0,309.78,2787.99,Bank Transfer,Vijay Anand,3
+ORD10287,2025-04-03,Sarah Davis,East,In-Store,Electronics,Smartphone,5,87.79,0.0,0.0,438.95,Debit Card,Suresh Babu,4
+ORD10288,2025-04-04,Nikhil Bansal,East,In-Store,Clothing,Dress,7,1086.56,0.0,0.0,7605.92,Debit Card,Sunita Rao,4
+ORD10289,2025-04-05,David Wilson,North,Phone,Clothing,Sneakers,5,1706.75,20.0,1706.75,6827.0,Debit Card,Arun Prasad,5
+ORD10290,2025-04-05,Karan Verma,North,Phone,Electronics,Laptop,2,1219.55,10.0,243.91,2195.19,PayPal,Kiran Desai,4
+ORD10291,2025-04-06,Aarav Sharma,West,In-Store,Sports,Yoga Mat,8,1701.38,20.0,2722.21,10888.83,Bank Transfer,Pallavi Shah,3
+ORD10292,2025-04-06,Ananya Singh,South,Phone,Electronics,Tablet,2,63.64,5.0,6.36,120.92,Debit Card,Kiran Desai,5
+ORD10293,2025-04-06,Riya Chawla,East,In-Store,Groceries,Chocolate Box,3,471.62,10.0,141.49,1273.37,Credit Card,Kiran Desai,5
+ORD10294,2025-04-06,Sarah Davis,North,In-Store,Clothing,Dress,2,1261.93,15.0,378.58,2145.28,PayPal,Vijay Anand,5
+ORD10295,2025-04-07,Arjun Nair,Central,In-Store,Sports,Dumbbells,3,1537.1,20.0,922.26,3689.04,Credit Card,Pallavi Shah,5
+ORD10296,2025-04-08,Olivia Anderson,West,Phone,Furniture,Desk,1,1065.06,20.0,213.01,852.05,Credit Card,Pallavi Shah,2
+ORD10297,2025-04-08,Divya Kapoor,North,In-Store,Clothing,T-Shirt,9,785.38,0.0,0.0,7068.42,Cash,Pallavi Shah,4
+ORD10298,2025-04-09,Divya Kapoor,Central,In-Store,Groceries,Cereal,7,329.74,10.0,230.82,2077.36,Debit Card,Vijay Anand,4
+ORD10299,2025-04-09,Neha Joshi,West,Phone,Clothing,Jacket,6,1713.37,0.0,0.0,10280.22,Credit Card,Deepa Rao,5
+ORD10300,2025-04-09,John Smith,Central,Online,Electronics,Headphones,1,554.72,0.0,0.0,554.72,Cash,Anjali Nair,5
+ORD10301,2025-04-09,Priya Patel,West,Phone,Clothing,Sneakers,9,1965.05,0.0,0.0,17685.45,PayPal,Anjali Nair,2
+ORD10302,2025-04-10,Divya Kapoor,East,In-Store,Clothing,Sneakers,4,9.03,0.0,0.0,36.12,Credit Card,Manoj Tiwari,5
+ORD10303,2025-04-10,Pooja Reddy,East,Phone,Sports,Yoga Mat,9,1579.54,15.0,2132.38,12083.48,Debit Card,Deepa Rao,5
+ORD10304,2025-04-10,Priya Patel,South,Online,Sports,Yoga Mat,8,1607.33,20.0,2571.73,10286.91,Bank Transfer,Sunita Rao,5
+ORD10305,2025-04-10,Riya Chawla,Central,In-Store,Clothing,Jeans,2,1557.85,15.0,467.36,2648.34,Bank Transfer,Kiran Desai,2
+ORD10306,2025-04-10,Kavya Menon,Central,Online,Clothing,Jeans,8,1668.12,10.0,1334.5,12010.46,PayPal,Ravi Kumar,4
+ORD10307,2025-04-10,John Smith,West,Online,Electronics,Monitor,9,454.32,20.0,817.78,3271.1,Cash,Vijay Anand,2
+ORD10308,2025-04-10,Vikram Rao,North,Online,Furniture,Dining Table,2,1866.56,15.0,559.97,3173.15,Debit Card,Ravi Kumar,4
+ORD10309,2025-04-11,Rohan Mehta,West,In-Store,Sports,Running Shoes,9,1603.01,5.0,721.35,13705.74,Credit Card,Deepa Rao,1
+ORD10310,2025-04-11,Meera Iyer,East,Online,Groceries,Rice Bag,8,1641.75,0.0,0.0,13134.0,Bank Transfer,Anjali Nair,2
+ORD10311,2025-04-11,Priya Patel,North,Online,Sports,Dumbbells,8,608.73,0.0,0.0,4869.84,PayPal,Kiran Desai,4
+ORD10312,2025-04-12,David Wilson,East,Online,Furniture,Bookshelf,5,328.66,0.0,0.0,1643.3,Cash,Deepa Rao,5
+ORD10313,2025-04-12,Pooja Reddy,East,Online,Furniture,Sofa,8,1484.33,0.0,0.0,11874.64,Credit Card,Kiran Desai,4
+ORD10314,2025-04-13,Meera Iyer,East,In-Store,Groceries,Cereal,5,198.42,15.0,148.81,843.29,Debit Card,Suresh Babu,4
+ORD10315,2025-04-13,Amit Malhotra,Central,Phone,Groceries,Olive Oil,9,1444.18,0.0,0.0,12997.62,Credit Card,Deepa Rao,5
+ORD10316,2025-04-13,Pooja Reddy,Central,In-Store,Electronics,Laptop,2,1890.89,20.0,756.36,3025.42,Credit Card,Arun Prasad,5
+ORD10317,2025-04-13,Nikhil Bansal,Central,Phone,Groceries,Cereal,8,370.95,10.0,296.76,2670.84,Debit Card,Sunita Rao,2
+ORD10318,2025-04-13,Neha Joshi,West,Phone,Clothing,T-Shirt,8,1249.66,15.0,1499.59,8497.69,PayPal,Sunita Rao,5
+ORD10319,2025-04-13,Laura Martinez,East,Phone,Electronics,Smartphone,7,115.61,0.0,0.0,809.27,Credit Card,Ravi Kumar,3
+ORD10320,2025-04-14,Vikram Rao,West,Online,Electronics,Smartphone,7,925.58,10.0,647.91,5831.15,Credit Card,Deepa Rao,5
+ORD10321,2025-04-14,Rohan Mehta,South,Phone,Electronics,Laptop,7,1406.46,10.0,984.52,8860.7,Debit Card,Anjali Nair,5
+ORD10322,2025-04-14,Riya Chawla,Central,In-Store,Sports,Dumbbells,1,1690.52,15.0,253.58,1436.94,PayPal,Arun Prasad,1
+ORD10323,2025-04-15,Daniel Thomas,East,Phone,Furniture,Bookshelf,6,1806.54,15.0,1625.89,9213.35,Cash,Anjali Nair,5
+ORD10324,2025-04-15,Sneha Desai,East,In-Store,Furniture,Sofa,7,265.25,0.0,0.0,1856.75,Bank Transfer,Ravi Kumar,5
+ORD10325,2025-04-16,Rohan Mehta,West,In-Store,Furniture,Desk,5,1030.62,0.0,0.0,5153.1,PayPal,Arun Prasad,1
+ORD10326,2025-04-16,Pooja Reddy,South,Phone,Groceries,Olive Oil,8,104.88,20.0,167.81,671.23,PayPal,Anjali Nair,2
+ORD10327,2025-04-16,Neha Joshi,Central,Online,Sports,Dumbbells,6,729.99,5.0,219.0,4160.94,Credit Card,Manoj Tiwari,5
+ORD10328,2025-04-17,Vikram Rao,Central,Phone,Sports,Running Shoes,3,1362.37,0.0,0.0,4087.11,Bank Transfer,Pallavi Shah,5
+ORD10329,2025-04-17,Riya Chawla,East,Phone,Furniture,Dining Table,1,803.31,0.0,0.0,803.31,PayPal,Kiran Desai,4
+ORD10330,2025-04-17,Neha Joshi,Central,Online,Groceries,Cereal,7,363.7,0.0,0.0,2545.9,Cash,Sunita Rao,2
+ORD10331,2025-04-17,James Taylor,West,Phone,Sports,Tennis Racket,1,1069.36,0.0,0.0,1069.36,Cash,Deepa Rao,4
+ORD10332,2025-04-18,Daniel Thomas,Central,Online,Electronics,Tablet,2,63.94,10.0,12.79,115.09,Credit Card,Pallavi Shah,4
+ORD10333,2025-04-18,Olivia Anderson,North,Online,Clothing,Sneakers,7,661.19,10.0,462.83,4165.5,Cash,Suresh Babu,4
+ORD10334,2025-04-18,Rahul Chatterjee,East,Phone,Groceries,Chocolate Box,8,768.67,0.0,0.0,6149.36,Cash,Suresh Babu,4
+ORD10335,2025-04-19,Kavya Menon,West,Phone,Furniture,Bookshelf,9,636.85,0.0,0.0,5731.65,Bank Transfer,Vijay Anand,5
+ORD10336,2025-04-19,Michael Brown,West,Phone,Groceries,Rice Bag,5,225.31,0.0,0.0,1126.55,Debit Card,Pallavi Shah,4
+ORD10337,2025-04-19,Nikhil Bansal,East,Phone,Clothing,Jeans,5,120.01,5.0,30.0,570.05,Cash,Ravi Kumar,4
+ORD10338,2025-04-19,Daniel Thomas,West,Online,Electronics,Headphones,3,396.21,10.0,118.86,1069.77,Bank Transfer,Kiran Desai,5
+ORD10339,2025-04-21,Olivia Anderson,East,Online,Electronics,Tablet,6,1187.94,0.0,0.0,7127.64,Credit Card,Anjali Nair,5
+ORD10340,2025-04-22,James Taylor,Central,Online,Groceries,Rice Bag,7,183.13,0.0,0.0,1281.91,Cash,Pallavi Shah,5
+ORD10341,2025-04-22,Nikhil Bansal,North,Phone,Groceries,Rice Bag,8,180.34,20.0,288.54,1154.18,PayPal,Vijay Anand,5
+ORD10342,2025-04-22,James Taylor,West,Phone,Electronics,Smartphone,3,199.64,10.0,59.89,539.03,Cash,Arun Prasad,5
+ORD10343,2025-04-22,David Wilson,South,Online,Groceries,Cereal,8,271.27,0.0,0.0,2170.16,Debit Card,Deepa Rao,5
+ORD10344,2025-04-22,Rohan Mehta,West,In-Store,Clothing,Jacket,6,497.69,10.0,298.61,2687.53,Debit Card,Deepa Rao,4
+ORD10345,2025-04-22,David Wilson,South,Online,Furniture,Sofa,9,33.48,0.0,0.0,301.32,Cash,Deepa Rao,5
+ORD10346,2025-04-22,Olivia Anderson,West,In-Store,Electronics,Headphones,8,1400.78,15.0,1680.94,9525.3,PayPal,Vijay Anand,5
+ORD10347,2025-04-23,James Taylor,South,Online,Groceries,Chocolate Box,3,1766.97,5.0,265.05,5035.86,Cash,Ravi Kumar,5
+ORD10348,2025-04-23,Nikhil Bansal,East,In-Store,Furniture,Bookshelf,1,314.7,10.0,31.47,283.23,Debit Card,Anjali Nair,4
+ORD10349,2025-04-23,Sophia White,Central,Phone,Sports,Running Shoes,3,704.53,20.0,422.72,1690.87,Cash,Deepa Rao,3
+ORD10350,2025-04-23,Rahul Chatterjee,East,Phone,Groceries,Coffee,6,1223.19,10.0,733.91,6605.23,Cash,Suresh Babu,2
+ORD10351,2025-04-24,Arjun Nair,South,Phone,Electronics,Smartphone,4,1755.32,5.0,351.06,6670.22,PayPal,Pallavi Shah,3
+ORD10352,2025-04-25,Sanjay Kumar,Central,Online,Electronics,Monitor,1,783.7,0.0,0.0,783.7,Cash,Pallavi Shah,4
+ORD10353,2025-04-25,Sophia White,South,In-Store,Groceries,Chocolate Box,7,217.24,5.0,76.03,1444.65,Debit Card,Anjali Nair,1
+ORD10354,2025-04-26,Sophia White,Central,In-Store,Clothing,Jeans,6,528.24,0.0,0.0,3169.44,Credit Card,Arun Prasad,3
+ORD10355,2025-04-26,Sarah Davis,North,Phone,Sports,Dumbbells,7,951.25,0.0,0.0,6658.75,PayPal,Suresh Babu,4
+ORD10356,2025-04-26,Emily Johnson,South,Phone,Groceries,Rice Bag,7,1861.63,15.0,1954.71,11076.7,Cash,Pallavi Shah,4
+ORD10357,2025-04-26,Emily Johnson,East,In-Store,Furniture,Desk,9,1829.82,5.0,823.42,15644.96,Debit Card,Suresh Babu,3
+ORD10358,2025-04-26,Ananya Singh,East,Phone,Furniture,Desk,2,616.07,20.0,246.43,985.71,Debit Card,Sunita Rao,4
+ORD10359,2025-04-27,Rahul Chatterjee,South,In-Store,Groceries,Rice Bag,5,1880.15,20.0,1880.15,7520.6,Credit Card,Sunita Rao,5
+ORD10360,2025-04-27,Vikram Rao,West,Online,Clothing,Jeans,7,1693.89,0.0,0.0,11857.23,Cash,Pallavi Shah,5
+ORD10361,2025-04-28,Daniel Thomas,North,Phone,Electronics,Monitor,2,1687.96,15.0,506.39,2869.53,PayPal,Pallavi Shah,4
+ORD10362,2025-04-28,Amit Malhotra,South,Online,Furniture,Office Chair,1,912.97,0.0,0.0,912.97,Debit Card,Vijay Anand,4
+ORD10363,2025-04-28,James Taylor,Central,In-Store,Groceries,Cereal,7,373.0,0.0,0.0,2611.0,PayPal,Vijay Anand,5
+ORD10364,2025-04-29,Aditya Bose,North,Phone,Furniture,Desk,9,1648.44,5.0,741.8,14094.16,Credit Card,Arun Prasad,5
+ORD10365,2025-04-29,Aarav Sharma,East,In-Store,Electronics,Monitor,3,640.76,0.0,0.0,1922.28,Debit Card,Arun Prasad,5
+ORD10366,2025-04-29,Neha Joshi,Central,Phone,Electronics,Smartphone,8,714.03,20.0,1142.45,4569.79,PayPal,Anjali Nair,5
+ORD10367,2025-04-30,Sanjay Kumar,West,Online,Groceries,Rice Bag,5,589.02,0.0,0.0,2945.1,Bank Transfer,Pallavi Shah,5
+ORD10368,2025-04-30,Riya Chawla,North,Phone,Electronics,Laptop,4,552.77,0.0,0.0,2211.08,Credit Card,Arun Prasad,5
+ORD10369,2025-04-30,Neha Joshi,South,In-Store,Electronics,Laptop,1,1377.83,0.0,0.0,1377.83,Cash,Manoj Tiwari,5
+ORD10370,2025-04-30,Ananya Singh,North,In-Store,Electronics,Laptop,9,467.04,0.0,0.0,4203.36,Credit Card,Ravi Kumar,3
+ORD10371,2025-05-01,Vikram Rao,Central,Online,Groceries,Cereal,2,1945.82,5.0,194.58,3697.06,Debit Card,Vijay Anand,4
+ORD10372,2025-05-01,Nikhil Bansal,East,Online,Furniture,Office Chair,1,303.02,0.0,0.0,303.02,Bank Transfer,Pallavi Shah,2
+ORD10373,2025-05-01,Kavya Menon,East,Online,Sports,Dumbbells,1,1800.55,0.0,0.0,1800.55,Cash,Vijay Anand,5
+ORD10374,2025-05-01,Michael Brown,East,In-Store,Groceries,Coffee,8,605.2,5.0,242.08,4599.52,Bank Transfer,Suresh Babu,3
+ORD10375,2025-05-02,Nikhil Bansal,West,Online,Clothing,Jacket,9,703.39,5.0,316.53,6013.98,PayPal,Ravi Kumar,4
+ORD10376,2025-05-02,Amit Malhotra,North,In-Store,Clothing,Jeans,7,312.26,0.0,0.0,2185.82,Credit Card,Pallavi Shah,1
+ORD10377,2025-05-02,Sneha Desai,North,Online,Furniture,Office Chair,6,832.92,0.0,0.0,4997.52,Cash,Manoj Tiwari,4
+ORD10378,2025-05-03,James Taylor,North,Online,Groceries,Olive Oil,1,103.94,15.0,15.59,88.35,PayPal,Kiran Desai,5
+ORD10379,2025-05-03,Sanjay Kumar,East,Phone,Sports,Yoga Mat,2,1342.36,15.0,402.71,2282.01,Debit Card,Deepa Rao,4
+ORD10380,2025-05-03,Sneha Desai,North,Phone,Furniture,Dining Table,8,748.08,0.0,0.0,5984.64,Credit Card,Manoj Tiwari,5
+ORD10381,2025-05-05,Michael Brown,South,In-Store,Clothing,Dress,5,648.04,0.0,0.0,3240.2,Debit Card,Anjali Nair,2
+ORD10382,2025-05-05,John Smith,South,Phone,Sports,Dumbbells,5,446.71,10.0,223.35,2010.2,Credit Card,Deepa Rao,5
+ORD10383,2025-05-06,David Wilson,East,Phone,Clothing,Jeans,2,1781.86,10.0,356.37,3207.35,PayPal,Kiran Desai,5
+ORD10384,2025-05-06,Sophia White,South,In-Store,Groceries,Rice Bag,4,790.47,20.0,632.38,2529.5,Debit Card,Deepa Rao,2
+ORD10385,2025-05-06,John Smith,North,Online,Sports,Tennis Racket,7,622.54,10.0,435.78,3922.0,Debit Card,Vijay Anand,5
+ORD10386,2025-05-07,Rahul Chatterjee,West,Online,Sports,Dumbbells,7,1702.65,15.0,1787.78,10130.77,Bank Transfer,Manoj Tiwari,3
+ORD10387,2025-05-07,Meera Iyer,Central,Online,Sports,Yoga Mat,3,782.8,5.0,117.42,2230.98,Bank Transfer,Ravi Kumar,5
+ORD10388,2025-05-07,Sanjay Kumar,East,In-Store,Clothing,Jeans,3,1284.77,15.0,578.15,3276.16,Credit Card,Deepa Rao,3
+ORD10389,2025-05-08,Ananya Singh,Central,In-Store,Furniture,Sofa,6,305.62,5.0,91.69,1742.03,Bank Transfer,Vijay Anand,5
+ORD10390,2025-05-08,Rohan Mehta,South,Phone,Furniture,Office Chair,9,1353.0,0.0,0.0,12177.0,Debit Card,Sunita Rao,5
+ORD10391,2025-05-08,Daniel Thomas,South,Online,Groceries,Olive Oil,4,37.04,0.0,0.0,148.16,Debit Card,Sunita Rao,3
+ORD10392,2025-05-08,Amit Malhotra,West,In-Store,Furniture,Dining Table,5,271.4,20.0,271.4,1085.6,Bank Transfer,Arun Prasad,4
+ORD10393,2025-05-09,Daniel Thomas,South,In-Store,Furniture,Bookshelf,8,333.42,20.0,533.47,2133.89,Credit Card,Kiran Desai,4
+ORD10394,2025-05-10,Kavya Menon,East,In-Store,Electronics,Smartwatch,7,859.23,15.0,902.19,5112.42,PayPal,Kiran Desai,4
+ORD10395,2025-05-10,John Smith,East,In-Store,Electronics,Smartwatch,1,1873.53,20.0,374.71,1498.82,Bank Transfer,Manoj Tiwari,3
+ORD10396,2025-05-10,Pooja Reddy,West,In-Store,Groceries,Chocolate Box,3,1457.59,20.0,874.55,3498.22,Cash,Suresh Babu,4
+ORD10397,2025-05-11,Riya Chawla,South,In-Store,Electronics,Headphones,6,724.69,0.0,0.0,4348.14,Credit Card,Manoj Tiwari,5
+ORD10398,2025-05-11,Riya Chawla,East,In-Store,Furniture,Bookshelf,1,1334.48,0.0,0.0,1334.48,Credit Card,Manoj Tiwari,5
+ORD10399,2025-05-12,Aarav Sharma,South,Online,Groceries,Coffee,5,971.52,10.0,485.76,4371.84,Credit Card,Kiran Desai,5
+ORD10400,2025-05-12,Sneha Desai,North,In-Store,Clothing,Sneakers,7,1267.89,0.0,0.0,8875.23,Debit Card,Pallavi Shah,4
+ORD10401,2025-05-12,Priya Patel,Central,Online,Clothing,Jeans,6,14.74,5.0,4.42,84.02,PayPal,Pallavi Shah,5
+ORD10402,2025-05-13,Olivia Anderson,South,In-Store,Clothing,Dress,9,677.0,5.0,304.65,5788.35,PayPal,Pallavi Shah,4
+ORD10403,2025-05-13,Karan Verma,West,Phone,Groceries,Cereal,4,778.25,0.0,0.0,3113.0,PayPal,Suresh Babu,3
+ORD10404,2025-05-14,Olivia Anderson,West,Phone,Sports,Running Shoes,2,98.71,0.0,0.0,197.42,Credit Card,Suresh Babu,4
+ORD10405,2025-05-14,Aditya Bose,Central,Phone,Groceries,Olive Oil,1,1654.28,10.0,165.43,1488.85,Cash,Kiran Desai,4
+ORD10406,2025-05-14,Daniel Thomas,North,Phone,Electronics,Laptop,5,1462.38,0.0,0.0,7311.9,PayPal,Manoj Tiwari,4
+ORD10407,2025-05-14,David Wilson,East,In-Store,Groceries,Chocolate Box,4,440.79,15.0,264.47,1498.69,Cash,Sunita Rao,5
+ORD10408,2025-05-14,Sanjay Kumar,West,Phone,Clothing,T-Shirt,1,606.28,20.0,121.26,485.02,Bank Transfer,Deepa Rao,4
+ORD10409,2025-05-14,Neha Joshi,Central,Phone,Electronics,Monitor,9,1063.2,0.0,0.0,9568.8,Debit Card,Suresh Babu,4
+ORD10410,2025-05-14,Nikhil Bansal,West,Online,Clothing,Jacket,2,1123.08,15.0,336.92,1909.24,PayPal,Deepa Rao,1
+ORD10411,2025-05-14,Laura Martinez,North,In-Store,Groceries,Chocolate Box,6,577.19,0.0,0.0,3463.14,Credit Card,Deepa Rao,5
+ORD10412,2025-05-15,Rohan Mehta,East,Online,Groceries,Olive Oil,5,1820.89,0.0,0.0,9104.45,Cash,Kiran Desai,5
+ORD10413,2025-05-15,Kavya Menon,North,In-Store,Furniture,Bookshelf,8,1499.57,0.0,0.0,11996.56,Bank Transfer,Deepa Rao,3
+ORD10414,2025-05-15,Ananya Singh,North,Online,Groceries,Rice Bag,8,52.07,0.0,0.0,416.56,PayPal,Vijay Anand,2
+ORD10415,2025-05-15,Vikram Rao,South,Phone,Furniture,Dining Table,9,1972.83,5.0,887.77,16867.7,Debit Card,Sunita Rao,5
+ORD10416,2025-05-16,Arjun Nair,East,Phone,Electronics,Smartphone,8,1348.67,0.0,0.0,10789.36,Bank Transfer,Vijay Anand,3
+ORD10417,2025-05-16,John Smith,West,In-Store,Groceries,Cereal,7,963.89,20.0,1349.45,5397.78,PayPal,Manoj Tiwari,3
+ORD10418,2025-05-16,Arjun Nair,West,Online,Clothing,Jacket,6,1531.71,0.0,0.0,9190.26,PayPal,Manoj Tiwari,2
+ORD10419,2025-05-17,Aarav Sharma,West,In-Store,Groceries,Cereal,9,1171.23,15.0,1581.16,8959.91,Cash,Pallavi Shah,4
+ORD10420,2025-05-18,John Smith,North,In-Store,Sports,Tennis Racket,6,92.1,20.0,110.52,442.08,Cash,Sunita Rao,5
+ORD10421,2025-05-18,Priya Patel,South,In-Store,Electronics,Smartphone,4,1538.99,10.0,615.6,5540.36,Bank Transfer,Suresh Babu,4
+ORD10422,2025-05-18,Priya Patel,North,Online,Electronics,Smartwatch,4,226.86,0.0,0.0,907.44,Cash,Deepa Rao,5
+ORD10423,2025-05-19,Rahul Chatterjee,North,In-Store,Groceries,Olive Oil,1,733.63,20.0,146.73,586.9,Bank Transfer,Anjali Nair,5
+ORD10424,2025-05-19,Rahul Chatterjee,South,In-Store,Clothing,T-Shirt,5,425.51,10.0,212.75,1914.8,Bank Transfer,Suresh Babu,4
+ORD10425,2025-05-19,Arjun Nair,South,Online,Groceries,Chocolate Box,2,1100.91,0.0,0.0,2201.82,Bank Transfer,Arun Prasad,4
+ORD10426,2025-05-19,Sneha Desai,East,In-Store,Groceries,Rice Bag,4,1298.67,5.0,259.73,4934.95,Cash,Manoj Tiwari,5
+ORD10427,2025-05-19,Olivia Anderson,West,In-Store,Sports,Bicycle,5,1807.09,0.0,0.0,9035.45,Cash,Vijay Anand,3
+ORD10428,2025-05-20,Pooja Reddy,East,Online,Groceries,Rice Bag,7,1013.64,5.0,354.77,6740.71,Bank Transfer,Anjali Nair,5
+ORD10429,2025-05-20,Neha Joshi,West,Online,Electronics,Smartwatch,9,227.63,0.0,0.0,2048.67,PayPal,Arun Prasad,4
+ORD10430,2025-05-20,Sophia White,West,In-Store,Clothing,Jeans,5,1596.99,0.0,0.0,7984.95,PayPal,Anjali Nair,3
+ORD10431,2025-05-20,Nikhil Bansal,Central,Online,Electronics,Tablet,9,1753.83,10.0,1578.45,14206.02,Cash,Manoj Tiwari,5
+ORD10432,2025-05-21,Aarav Sharma,East,In-Store,Furniture,Dining Table,2,354.53,15.0,106.36,602.7,Cash,Pallavi Shah,2
+ORD10433,2025-05-21,David Wilson,West,In-Store,Electronics,Smartwatch,1,888.61,0.0,0.0,888.61,Cash,Deepa Rao,2
+ORD10434,2025-05-21,Neha Joshi,North,Online,Furniture,Dining Table,6,242.95,0.0,0.0,1457.7,Cash,Arun Prasad,5
+ORD10435,2025-05-22,Aditya Bose,South,In-Store,Groceries,Coffee,8,1730.8,10.0,1384.64,12461.76,Credit Card,Kiran Desai,4
+ORD10436,2025-05-22,Rahul Chatterjee,North,Phone,Groceries,Cereal,8,651.65,20.0,1042.64,4170.56,PayPal,Kiran Desai,5
+ORD10437,2025-05-22,David Wilson,Central,In-Store,Groceries,Coffee,2,458.58,0.0,0.0,917.16,PayPal,Pallavi Shah,4
+ORD10438,2025-05-24,Kavya Menon,West,Phone,Furniture,Sofa,6,585.13,0.0,0.0,3510.78,Credit Card,Manoj Tiwari,4
+ORD10439,2025-05-25,David Wilson,Central,In-Store,Clothing,Jeans,3,130.9,0.0,0.0,392.7,Bank Transfer,Sunita Rao,4
+ORD10440,2025-05-25,Ananya Singh,East,Phone,Sports,Dumbbells,4,273.19,10.0,109.28,983.48,PayPal,Anjali Nair,1
+ORD10441,2025-05-25,Nikhil Bansal,West,Online,Furniture,Office Chair,8,65.62,0.0,0.0,524.96,Credit Card,Manoj Tiwari,5
+ORD10442,2025-05-25,Sanjay Kumar,West,In-Store,Groceries,Chocolate Box,1,750.21,5.0,37.51,712.7,PayPal,Pallavi Shah,4
+ORD10443,2025-05-25,Sanjay Kumar,West,In-Store,Electronics,Headphones,7,1919.35,10.0,1343.55,12091.9,Cash,Deepa Rao,3
+ORD10444,2025-05-26,Vikram Rao,West,In-Store,Furniture,Desk,1,500.69,0.0,0.0,500.69,Debit Card,Anjali Nair,4
+ORD10445,2025-05-26,Daniel Thomas,North,Phone,Electronics,Monitor,2,1824.86,15.0,547.46,3102.26,Debit Card,Deepa Rao,5
+ORD10446,2025-05-26,Rahul Chatterjee,Central,In-Store,Clothing,Sneakers,7,10.75,0.0,0.0,75.25,Bank Transfer,Deepa Rao,5
+ORD10447,2025-05-26,Arjun Nair,West,Phone,Groceries,Olive Oil,8,1117.7,0.0,0.0,8941.6,Debit Card,Manoj Tiwari,4
+ORD10448,2025-05-26,John Smith,East,Online,Electronics,Monitor,5,106.45,15.0,79.84,452.41,PayPal,Anjali Nair,4
+ORD10449,2025-05-27,Ishita Gupta,West,Online,Electronics,Monitor,9,737.72,0.0,0.0,6639.48,Bank Transfer,Ravi Kumar,5
+ORD10450,2025-05-27,Sarah Davis,West,In-Store,Electronics,Smartwatch,3,1717.12,20.0,1030.27,4121.09,PayPal,Deepa Rao,5
+ORD10451,2025-05-27,Rahul Chatterjee,South,Phone,Electronics,Headphones,4,1733.76,5.0,346.75,6588.29,PayPal,Suresh Babu,5
+ORD10452,2025-05-27,Neha Joshi,Central,Phone,Clothing,Jeans,4,294.93,0.0,0.0,1179.72,Bank Transfer,Sunita Rao,4
+ORD10453,2025-05-28,Laura Martinez,East,In-Store,Electronics,Smartwatch,2,849.96,0.0,0.0,1699.92,Cash,Manoj Tiwari,3
+ORD10454,2025-05-29,Priya Patel,North,Phone,Groceries,Cereal,8,744.13,0.0,0.0,5953.04,Credit Card,Kiran Desai,2
+ORD10455,2025-05-30,Meera Iyer,North,Online,Groceries,Cereal,4,108.06,20.0,86.45,345.79,Credit Card,Arun Prasad,4
+ORD10456,2025-05-30,Pooja Reddy,Central,Phone,Electronics,Headphones,5,1439.44,0.0,0.0,7197.2,Credit Card,Vijay Anand,5
+ORD10457,2025-05-30,Priya Patel,West,Online,Electronics,Smartwatch,3,1613.36,0.0,0.0,4840.08,Debit Card,Suresh Babu,5
+ORD10458,2025-05-30,Rahul Chatterjee,South,In-Store,Clothing,Dress,6,409.25,5.0,122.78,2332.72,Credit Card,Ravi Kumar,1
+ORD10459,2025-05-31,Daniel Thomas,East,Phone,Clothing,Sneakers,8,367.85,0.0,0.0,2942.8,PayPal,Anjali Nair,5
+ORD10460,2025-05-31,Meera Iyer,Central,In-Store,Clothing,Dress,8,1971.68,20.0,3154.69,12618.75,Credit Card,Arun Prasad,5
+ORD10461,2025-06-01,Olivia Anderson,West,Online,Sports,Running Shoes,9,1239.08,0.0,0.0,11151.72,Cash,Ravi Kumar,3
+ORD10462,2025-06-01,Sophia White,East,Phone,Sports,Yoga Mat,4,543.47,0.0,0.0,2173.88,Credit Card,Anjali Nair,5
+ORD10463,2025-06-01,Rohan Mehta,West,In-Store,Sports,Yoga Mat,9,904.92,0.0,0.0,8144.28,Cash,Sunita Rao,5
+ORD10464,2025-06-01,Rohan Mehta,West,In-Store,Clothing,T-Shirt,1,810.65,0.0,0.0,810.65,Debit Card,Ravi Kumar,3
+ORD10465,2025-06-02,Sophia White,Central,In-Store,Clothing,Jeans,4,732.0,20.0,585.6,2342.4,Bank Transfer,Kiran Desai,3
+ORD10466,2025-06-02,Vikram Rao,West,Online,Groceries,Rice Bag,2,1737.48,20.0,694.99,2779.97,PayPal,Suresh Babu,4
+ORD10467,2025-06-03,Rohan Mehta,East,Phone,Furniture,Office Chair,1,1929.56,20.0,385.91,1543.65,Cash,Vijay Anand,5
+ORD10468,2025-06-03,Michael Brown,South,Phone,Sports,Bicycle,6,1150.05,10.0,690.03,6210.27,Bank Transfer,Kiran Desai,4
+ORD10469,2025-06-03,Riya Chawla,East,In-Store,Furniture,Dining Table,2,595.87,0.0,0.0,1191.74,Bank Transfer,Sunita Rao,4
+ORD10470,2025-06-03,Emily Johnson,Central,In-Store,Furniture,Dining Table,4,1456.27,5.0,291.25,5533.83,Bank Transfer,Sunita Rao,4
+ORD10471,2025-06-05,James Taylor,West,Phone,Clothing,Jeans,8,1596.05,15.0,1915.26,10853.14,Cash,Manoj Tiwari,4
+ORD10472,2025-06-05,Arjun Nair,North,Online,Furniture,Desk,9,1538.0,5.0,692.1,13149.9,Debit Card,Pallavi Shah,4
+ORD10473,2025-06-05,Amit Malhotra,East,In-Store,Electronics,Tablet,8,458.22,20.0,733.15,2932.61,Credit Card,Kiran Desai,4
+ORD10474,2025-06-06,Karan Verma,North,In-Store,Clothing,Jacket,3,839.67,0.0,0.0,2519.01,Credit Card,Suresh Babu,2
+ORD10475,2025-06-06,Sanjay Kumar,East,In-Store,Groceries,Olive Oil,2,1591.95,0.0,0.0,3183.9,Credit Card,Manoj Tiwari,1
+ORD10476,2025-06-06,Aarav Sharma,South,Phone,Groceries,Rice Bag,9,954.03,0.0,0.0,8586.27,Cash,Manoj Tiwari,5
+ORD10477,2025-06-06,Olivia Anderson,East,In-Store,Furniture,Sofa,8,346.94,15.0,416.33,2359.19,Debit Card,Sunita Rao,3
+ORD10478,2025-06-06,Michael Brown,South,In-Store,Furniture,Desk,7,970.73,5.0,339.76,6455.35,Credit Card,Manoj Tiwari,4
+ORD10479,2025-06-06,Sanjay Kumar,East,In-Store,Furniture,Bookshelf,2,1434.13,10.0,286.83,2581.43,PayPal,Arun Prasad,5
+ORD10480,2025-06-06,Aarav Sharma,North,Online,Electronics,Smartwatch,8,756.83,0.0,0.0,6054.64,Debit Card,Arun Prasad,4
+ORD10481,2025-06-07,Karan Verma,North,In-Store,Furniture,Desk,4,548.88,0.0,0.0,2195.52,PayPal,Arun Prasad,5
+ORD10482,2025-06-07,Daniel Thomas,Central,In-Store,Groceries,Cereal,9,1179.68,0.0,0.0,10617.12,Debit Card,Sunita Rao,4
+ORD10483,2025-06-08,Ishita Gupta,West,In-Store,Electronics,Headphones,6,1757.64,15.0,1581.88,8963.96,PayPal,Anjali Nair,5
+ORD10484,2025-06-08,Meera Iyer,West,In-Store,Electronics,Smartphone,8,374.53,5.0,149.81,2846.43,Credit Card,Vijay Anand,4
+ORD10485,2025-06-08,Olivia Anderson,West,In-Store,Furniture,Dining Table,5,1693.26,5.0,423.31,8042.99,Cash,Vijay Anand,4
+ORD10486,2025-06-08,Riya Chawla,South,Phone,Clothing,Jeans,3,1803.5,20.0,1082.1,4328.4,Cash,Manoj Tiwari,5
+ORD10487,2025-06-09,Neha Joshi,South,Online,Furniture,Bookshelf,9,1296.8,15.0,1750.68,9920.52,Credit Card,Vijay Anand,4
+ORD10488,2025-06-09,Sarah Davis,North,Phone,Furniture,Bookshelf,4,1204.14,5.0,240.83,4575.73,Debit Card,Manoj Tiwari,5
+ORD10489,2025-06-09,Michael Brown,West,Online,Furniture,Desk,4,1429.34,10.0,571.74,5145.62,PayPal,Vijay Anand,4
+ORD10490,2025-06-09,Laura Martinez,North,In-Store,Electronics,Tablet,4,1161.34,15.0,696.8,3948.56,PayPal,Vijay Anand,4
+ORD10491,2025-06-09,Kavya Menon,South,Online,Groceries,Cereal,8,334.74,10.0,267.79,2410.13,Cash,Kiran Desai,4
+ORD10492,2025-06-09,Sarah Davis,South,In-Store,Clothing,Sneakers,7,260.34,10.0,182.24,1640.14,Cash,Pallavi Shah,4
+ORD10493,2025-06-09,Priya Patel,South,Phone,Sports,Dumbbells,3,1361.86,15.0,612.84,3472.74,Cash,Kiran Desai,4
+ORD10494,2025-06-09,Rohan Mehta,East,In-Store,Clothing,Jeans,2,541.37,15.0,162.41,920.33,Bank Transfer,Arun Prasad,5
+ORD10495,2025-06-10,Laura Martinez,Central,In-Store,Sports,Yoga Mat,3,573.99,0.0,0.0,1721.97,PayPal,Sunita Rao,4
+ORD10496,2025-06-10,Daniel Thomas,North,Online,Furniture,Dining Table,9,454.51,20.0,818.12,3272.47,Bank Transfer,Anjali Nair,4
+ORD10497,2025-06-11,Priya Patel,South,Online,Furniture,Sofa,2,1415.64,0.0,0.0,2831.28,Cash,Sunita Rao,4
+ORD10498,2025-06-11,Daniel Thomas,South,In-Store,Sports,Bicycle,7,1510.3,0.0,0.0,10572.1,Debit Card,Ravi Kumar,4
+ORD10499,2025-06-11,David Wilson,North,Phone,Clothing,Jacket,2,901.29,15.0,270.39,1532.19,Cash,Anjali Nair,4
+ORD10500,2025-06-12,David Wilson,East,Online,Clothing,Jeans,1,1355.26,20.0,271.05,1084.21,Cash,Manoj Tiwari,5
+ORD10501,2025-06-12,Ananya Singh,South,Phone,Clothing,Jeans,3,1362.07,15.0,612.93,3473.28,Bank Transfer,Pallavi Shah,4
+ORD10502,2025-06-13,Pooja Reddy,North,Phone,Clothing,Dress,3,1574.61,0.0,0.0,4723.83,PayPal,Vijay Anand,2
+ORD10503,2025-06-13,Aarav Sharma,North,In-Store,Groceries,Cereal,5,1122.43,20.0,1122.43,4489.72,Cash,Vijay Anand,5
+ORD10504,2025-06-13,Sneha Desai,West,Phone,Sports,Dumbbells,5,1077.88,20.0,1077.88,4311.52,Cash,Deepa Rao,4
+ORD10505,2025-06-13,Ananya Singh,East,Phone,Groceries,Olive Oil,7,1164.48,10.0,815.14,7336.22,Bank Transfer,Manoj Tiwari,5
+ORD10506,2025-06-13,Neha Joshi,South,In-Store,Groceries,Chocolate Box,5,322.98,20.0,322.98,1291.92,Cash,Suresh Babu,3
+ORD10507,2025-06-13,Ananya Singh,South,In-Store,Electronics,Monitor,8,1553.46,5.0,621.38,11806.3,Credit Card,Pallavi Shah,5
+ORD10508,2025-06-14,Pooja Reddy,South,Phone,Electronics,Smartphone,3,804.76,5.0,120.71,2293.57,Debit Card,Arun Prasad,5
+ORD10509,2025-06-14,Ishita Gupta,Central,Phone,Electronics,Tablet,2,534.79,20.0,213.92,855.66,Debit Card,Kiran Desai,2
+ORD10510,2025-06-14,Rohan Mehta,East,Phone,Electronics,Laptop,6,1066.85,10.0,640.11,5760.99,PayPal,Arun Prasad,5
+ORD10511,2025-06-15,Rahul Chatterjee,Central,In-Store,Electronics,Tablet,6,133.1,10.0,79.86,718.74,PayPal,Ravi Kumar,1
+ORD10512,2025-06-15,Nikhil Bansal,South,Phone,Sports,Dumbbells,4,1622.41,20.0,1297.93,5191.71,Debit Card,Ravi Kumar,4
+ORD10513,2025-06-15,John Smith,North,Phone,Furniture,Desk,6,1147.66,15.0,1032.89,5853.07,Credit Card,Sunita Rao,3
+ORD10514,2025-06-15,Sarah Davis,East,Phone,Groceries,Olive Oil,1,285.29,15.0,42.79,242.5,Credit Card,Deepa Rao,5
+ORD10515,2025-06-15,Sophia White,North,In-Store,Sports,Yoga Mat,6,418.9,15.0,377.01,2136.39,Credit Card,Suresh Babu,4
+ORD10516,2025-06-16,Olivia Anderson,Central,Phone,Clothing,Jeans,7,1689.63,5.0,591.37,11236.04,Cash,Deepa Rao,4
+ORD10517,2025-06-16,David Wilson,Central,Online,Furniture,Dining Table,3,1710.21,0.0,0.0,5130.63,Cash,Deepa Rao,4
+ORD10518,2025-06-16,Riya Chawla,North,Online,Sports,Yoga Mat,9,551.77,10.0,496.59,4469.34,Cash,Manoj Tiwari,5
+ORD10519,2025-06-17,Michael Brown,Central,In-Store,Sports,Bicycle,3,1993.07,5.0,298.96,5680.25,Cash,Sunita Rao,4
+ORD10520,2025-06-18,Sophia White,Central,Online,Clothing,Dress,5,1300.86,20.0,1300.86,5203.44,PayPal,Arun Prasad,5
+ORD10521,2025-06-19,Daniel Thomas,East,Phone,Furniture,Bookshelf,2,1750.03,0.0,0.0,3500.06,Cash,Ravi Kumar,4
+ORD10522,2025-06-19,Meera Iyer,East,Online,Sports,Bicycle,3,1437.55,10.0,431.26,3881.39,Debit Card,Vijay Anand,3
+ORD10523,2025-06-20,John Smith,Central,In-Store,Groceries,Rice Bag,8,367.71,20.0,588.34,2353.34,Cash,Deepa Rao,4
+ORD10524,2025-06-21,Aditya Bose,East,Online,Sports,Dumbbells,7,609.92,20.0,853.89,3415.55,Bank Transfer,Sunita Rao,5
+ORD10525,2025-06-21,Daniel Thomas,East,Phone,Clothing,Jeans,5,210.67,5.0,52.67,1000.68,Credit Card,Ravi Kumar,5
+ORD10526,2025-06-21,Olivia Anderson,East,Phone,Groceries,Rice Bag,5,1705.6,0.0,0.0,8528.0,Bank Transfer,Ravi Kumar,4
+ORD10527,2025-06-21,Riya Chawla,South,In-Store,Clothing,Jacket,6,813.37,10.0,488.02,4392.2,Debit Card,Arun Prasad,1
+ORD10528,2025-06-21,Riya Chawla,West,In-Store,Electronics,Headphones,6,834.34,10.0,500.6,4505.44,Cash,Kiran Desai,4
+ORD10529,2025-06-21,Olivia Anderson,East,Phone,Furniture,Office Chair,5,893.55,20.0,893.55,3574.2,Cash,Suresh Babu,5
+ORD10530,2025-06-22,Meera Iyer,North,Phone,Groceries,Olive Oil,3,1643.96,10.0,493.19,4438.69,Bank Transfer,Vijay Anand,5
+ORD10531,2025-06-22,Sophia White,West,Phone,Furniture,Sofa,6,1070.71,0.0,0.0,6424.26,Bank Transfer,Anjali Nair,5
+ORD10532,2025-06-22,John Smith,East,Online,Electronics,Smartphone,2,811.74,5.0,81.17,1542.31,PayPal,Deepa Rao,5
+ORD10533,2025-06-22,Rahul Chatterjee,West,Phone,Clothing,Dress,9,1349.03,15.0,1821.19,10320.08,Bank Transfer,Kiran Desai,3
+ORD10534,2025-06-22,Karan Verma,Central,In-Store,Sports,Yoga Mat,4,1732.36,0.0,0.0,6929.44,Credit Card,Ravi Kumar,4
+ORD10535,2025-06-22,Laura Martinez,East,Online,Sports,Bicycle,2,1505.55,0.0,0.0,3011.1,Bank Transfer,Kiran Desai,2
+ORD10536,2025-06-23,Nikhil Bansal,South,Online,Groceries,Coffee,5,892.48,0.0,0.0,4462.4,Debit Card,Ravi Kumar,4
+ORD10537,2025-06-23,Olivia Anderson,Central,Phone,Electronics,Smartwatch,2,1207.33,5.0,120.73,2293.93,PayPal,Pallavi Shah,5
+ORD10538,2025-06-23,Rohan Mehta,South,Online,Sports,Running Shoes,7,1920.93,0.0,0.0,13446.51,PayPal,Anjali Nair,5
+ORD10539,2025-06-24,Karan Verma,East,Phone,Groceries,Cereal,9,564.8,20.0,1016.64,4066.56,PayPal,Manoj Tiwari,5
+ORD10540,2025-06-24,Priya Patel,South,Phone,Electronics,Tablet,6,1952.15,10.0,1171.29,10541.61,Credit Card,Manoj Tiwari,4
+ORD10541,2025-06-24,Priya Patel,Central,In-Store,Furniture,Office Chair,2,411.32,0.0,0.0,822.64,Credit Card,Ravi Kumar,4
+ORD10542,2025-06-24,Ananya Singh,West,Phone,Sports,Tennis Racket,5,1751.64,0.0,0.0,8758.2,Credit Card,Pallavi Shah,4
+ORD10543,2025-06-24,Sneha Desai,North,In-Store,Clothing,Sneakers,3,1230.3,15.0,553.63,3137.27,Cash,Manoj Tiwari,4
+ORD10544,2025-06-24,James Taylor,Central,Phone,Clothing,Jacket,6,294.34,5.0,88.3,1677.74,Bank Transfer,Manoj Tiwari,2
+ORD10545,2025-06-25,Nikhil Bansal,Central,In-Store,Sports,Bicycle,1,156.88,0.0,0.0,156.88,Bank Transfer,Arun Prasad,4
+ORD10546,2025-06-25,Kavya Menon,West,Phone,Furniture,Bookshelf,2,1888.81,20.0,755.52,3022.1,PayPal,Arun Prasad,5
+ORD10547,2025-06-26,Riya Chawla,North,Phone,Sports,Running Shoes,2,1266.37,10.0,253.27,2279.47,Credit Card,Pallavi Shah,3
+ORD10548,2025-06-26,Priya Patel,North,In-Store,Clothing,Sneakers,1,1263.41,10.0,126.34,1137.07,Debit Card,Pallavi Shah,4
+ORD10549,2025-06-27,Laura Martinez,South,Phone,Furniture,Sofa,2,1949.93,0.0,0.0,3899.86,Cash,Ravi Kumar,3
+ORD10550,2025-06-27,Arjun Nair,South,Online,Furniture,Dining Table,2,131.43,10.0,26.29,236.57,Bank Transfer,Ravi Kumar,3
+ORD10551,2025-06-27,Sarah Davis,Central,In-Store,Clothing,T-Shirt,5,1690.94,0.0,0.0,8454.7,Cash,Vijay Anand,4
+ORD10552,2025-06-27,Arjun Nair,Central,Online,Furniture,Office Chair,3,312.02,15.0,140.41,795.65,Credit Card,Deepa Rao,4
+ORD10553,2025-06-27,Aarav Sharma,Central,In-Store,Sports,Dumbbells,7,1055.56,5.0,369.45,7019.47,Debit Card,Vijay Anand,5
+ORD10554,2025-06-27,Aditya Bose,South,Online,Clothing,T-Shirt,2,1337.51,5.0,133.75,2541.27,PayPal,Sunita Rao,4
+ORD10555,2025-06-27,Amit Malhotra,North,In-Store,Groceries,Rice Bag,2,1644.55,15.0,493.37,2795.73,Credit Card,Suresh Babu,5
+ORD10556,2025-06-28,Riya Chawla,North,Phone,Groceries,Chocolate Box,1,233.44,20.0,46.69,186.75,Bank Transfer,Deepa Rao,5
+ORD10557,2025-06-28,David Wilson,East,In-Store,Groceries,Olive Oil,2,797.77,0.0,0.0,1595.54,Debit Card,Anjali Nair,5
+ORD10558,2025-06-29,Riya Chawla,North,Online,Sports,Yoga Mat,2,1688.77,20.0,675.51,2702.03,Debit Card,Suresh Babu,5
+ORD10559,2025-06-29,Sarah Davis,Central,Online,Electronics,Headphones,5,1602.96,0.0,0.0,8014.8,Bank Transfer,Kiran Desai,3
+ORD10560,2025-06-30,Daniel Thomas,South,Online,Sports,Dumbbells,1,983.17,20.0,196.63,786.54,Credit Card,Kiran Desai,4
+ORD10561,2025-06-30,David Wilson,West,In-Store,Groceries,Chocolate Box,1,1287.42,0.0,0.0,1287.42,Cash,Pallavi Shah,5
+ORD10562,2025-06-30,Neha Joshi,North,Phone,Electronics,Headphones,5,405.1,0.0,0.0,2025.5,Credit Card,Manoj Tiwari,2
+ORD10563,2025-06-30,Michael Brown,South,Phone,Groceries,Olive Oil,7,1435.66,20.0,2009.92,8039.7,Cash,Sunita Rao,3
+ORD10564,2025-06-30,Vikram Rao,East,In-Store,Clothing,T-Shirt,4,1895.33,0.0,0.0,7581.32,Debit Card,Anjali Nair,4
+ORD10565,2025-07-01,David Wilson,West,In-Store,Furniture,Office Chair,6,1366.65,15.0,1229.99,6969.91,Cash,Arun Prasad,5
+ORD10566,2025-07-01,Riya Chawla,West,In-Store,Groceries,Cereal,4,930.87,0.0,0.0,3723.48,Credit Card,Sunita Rao,5
+ORD10567,2025-07-01,Sanjay Kumar,North,Phone,Groceries,Coffee,5,217.57,20.0,217.57,870.28,Bank Transfer,Ravi Kumar,4
+ORD10568,2025-07-01,Nikhil Bansal,Central,Phone,Sports,Dumbbells,7,30.94,0.0,0.0,216.58,Bank Transfer,Deepa Rao,5
+ORD10569,2025-07-01,Rahul Chatterjee,South,Online,Groceries,Chocolate Box,3,1085.48,0.0,0.0,3256.44,Credit Card,Suresh Babu,4
+ORD10570,2025-07-02,Pooja Reddy,Central,Phone,Electronics,Laptop,8,1840.94,20.0,2945.5,11782.02,Cash,Pallavi Shah,4
+ORD10571,2025-07-02,Sarah Davis,Central,In-Store,Furniture,Bookshelf,6,840.07,20.0,1008.08,4032.34,Debit Card,Sunita Rao,5
+ORD10572,2025-07-02,Laura Martinez,Central,In-Store,Clothing,T-Shirt,2,333.31,0.0,0.0,666.62,PayPal,Anjali Nair,3
+ORD10573,2025-07-02,Nikhil Bansal,East,Phone,Furniture,Sofa,1,575.14,15.0,86.27,488.87,Credit Card,Anjali Nair,5
+ORD10574,2025-07-03,Arjun Nair,South,In-Store,Groceries,Cereal,2,896.2,0.0,0.0,1792.4,Debit Card,Arun Prasad,5
+ORD10575,2025-07-03,Amit Malhotra,East,Online,Furniture,Office Chair,9,385.5,0.0,0.0,3469.5,Debit Card,Sunita Rao,5
+ORD10576,2025-07-03,Laura Martinez,West,Online,Electronics,Tablet,6,155.69,0.0,0.0,934.14,Credit Card,Kiran Desai,4
+ORD10577,2025-07-03,James Taylor,West,In-Store,Clothing,Sneakers,9,1241.3,10.0,1117.17,10054.53,Credit Card,Sunita Rao,2
+ORD10578,2025-07-03,Sneha Desai,East,Phone,Groceries,Coffee,6,1754.8,0.0,0.0,10528.8,Debit Card,Deepa Rao,5
+ORD10579,2025-07-04,Emily Johnson,Central,Phone,Furniture,Bookshelf,8,1687.53,10.0,1350.02,12150.22,Credit Card,Sunita Rao,5
+ORD10580,2025-07-05,Riya Chawla,North,Online,Sports,Tennis Racket,8,63.45,0.0,0.0,507.6,Credit Card,Pallavi Shah,4
+ORD10581,2025-07-05,David Wilson,West,Phone,Sports,Dumbbells,5,1000.21,0.0,0.0,5001.05,Cash,Arun Prasad,5
+ORD10582,2025-07-05,Nikhil Bansal,North,Online,Electronics,Laptop,7,1934.82,0.0,0.0,13543.74,Credit Card,Kiran Desai,3
+ORD10583,2025-07-06,Riya Chawla,South,Phone,Sports,Running Shoes,4,1183.83,0.0,0.0,4735.32,PayPal,Sunita Rao,3
+ORD10584,2025-07-06,Rohan Mehta,North,Online,Electronics,Headphones,4,1046.16,10.0,418.46,3766.18,Debit Card,Anjali Nair,5
+ORD10585,2025-07-07,Priya Patel,South,In-Store,Clothing,Dress,7,1689.49,10.0,1182.64,10643.79,Cash,Deepa Rao,3
+ORD10586,2025-07-07,Neha Joshi,North,Online,Groceries,Cereal,1,286.14,0.0,0.0,286.14,Cash,Vijay Anand,1
+ORD10587,2025-07-07,Priya Patel,North,Phone,Clothing,Dress,8,310.16,5.0,124.06,2357.22,Cash,Pallavi Shah,3
+ORD10588,2025-07-07,Arjun Nair,West,Online,Clothing,T-Shirt,6,1451.24,0.0,0.0,8707.44,PayPal,Kiran Desai,4
+ORD10589,2025-07-07,Nikhil Bansal,West,Online,Clothing,Dress,4,1159.09,10.0,463.64,4172.72,Cash,Kiran Desai,5
+ORD10590,2025-07-07,Ishita Gupta,Central,In-Store,Groceries,Rice Bag,3,999.02,15.0,449.56,2547.5,Debit Card,Manoj Tiwari,5
+ORD10591,2025-07-08,Aditya Bose,South,Online,Clothing,Jeans,8,1040.73,0.0,0.0,8325.84,Credit Card,Sunita Rao,3
+ORD10592,2025-07-08,Michael Brown,North,Phone,Electronics,Smartphone,4,1512.8,5.0,302.56,5748.64,Bank Transfer,Suresh Babu,5
+ORD10593,2025-07-08,Priya Patel,East,In-Store,Furniture,Office Chair,7,1723.58,15.0,1809.76,10255.3,Debit Card,Arun Prasad,2
+ORD10594,2025-07-08,Sarah Davis,South,In-Store,Clothing,Dress,4,1537.17,0.0,0.0,6148.68,Cash,Ravi Kumar,4
+ORD10595,2025-07-08,Vikram Rao,North,Online,Sports,Tennis Racket,3,842.1,10.0,252.63,2273.67,Cash,Ravi Kumar,4
+ORD10596,2025-07-09,Aarav Sharma,West,Online,Sports,Yoga Mat,8,268.91,10.0,215.13,1936.15,Bank Transfer,Anjali Nair,4
+ORD10597,2025-07-09,Rohan Mehta,East,Phone,Sports,Bicycle,6,1174.49,15.0,1057.04,5989.9,PayPal,Sunita Rao,4
+ORD10598,2025-07-09,Sanjay Kumar,Central,Online,Clothing,Sneakers,7,220.51,10.0,154.36,1389.21,Debit Card,Kiran Desai,5
+ORD10599,2025-07-09,Riya Chawla,Central,In-Store,Groceries,Rice Bag,5,1784.76,15.0,1338.57,7585.23,Debit Card,Kiran Desai,4
+ORD10600,2025-07-10,Priya Patel,West,In-Store,Electronics,Tablet,1,131.06,0.0,0.0,131.06,Bank Transfer,Pallavi Shah,4
+ORD10601,2025-07-10,James Taylor,South,Online,Sports,Yoga Mat,3,112.73,10.0,33.82,304.37,Credit Card,Arun Prasad,4
+ORD10602,2025-07-10,Riya Chawla,West,Phone,Electronics,Monitor,5,986.29,15.0,739.72,4191.73,Credit Card,Arun Prasad,4
+ORD10603,2025-07-10,Karan Verma,East,Phone,Sports,Tennis Racket,9,1052.87,20.0,1895.17,7580.66,Credit Card,Suresh Babu,4
+ORD10604,2025-07-10,Ananya Singh,Central,In-Store,Electronics,Monitor,3,516.1,10.0,154.83,1393.47,Bank Transfer,Vijay Anand,4
+ORD10605,2025-07-10,Laura Martinez,West,In-Store,Furniture,Dining Table,5,1862.38,0.0,0.0,9311.9,PayPal,Suresh Babu,3
+ORD10606,2025-07-10,John Smith,West,Phone,Groceries,Chocolate Box,7,350.93,15.0,368.48,2088.03,Credit Card,Arun Prasad,5
+ORD10607,2025-07-11,Sarah Davis,East,Online,Electronics,Laptop,5,1989.13,15.0,1491.85,8453.8,Bank Transfer,Ravi Kumar,4
+ORD10608,2025-07-11,Emily Johnson,South,In-Store,Clothing,Sneakers,7,69.81,10.0,48.87,439.8,PayPal,Vijay Anand,4
+ORD10609,2025-07-11,Aditya Bose,North,In-Store,Clothing,Dress,7,299.17,0.0,0.0,2094.19,Cash,Pallavi Shah,5
+ORD10610,2025-07-12,Karan Verma,East,Online,Furniture,Bookshelf,4,1705.57,0.0,0.0,6822.28,Cash,Ravi Kumar,4
+ORD10611,2025-07-12,Sneha Desai,North,Phone,Clothing,Jeans,7,1744.24,0.0,0.0,12209.68,Cash,Kiran Desai,4
+ORD10612,2025-07-12,Sneha Desai,Central,In-Store,Furniture,Dining Table,1,614.96,0.0,0.0,614.96,Bank Transfer,Suresh Babu,4
+ORD10613,2025-07-12,Amit Malhotra,Central,Phone,Sports,Dumbbells,2,810.49,0.0,0.0,1620.98,Bank Transfer,Suresh Babu,3
+ORD10614,2025-07-12,Sarah Davis,West,Online,Electronics,Monitor,9,1734.21,10.0,1560.79,14047.1,PayPal,Suresh Babu,4
+ORD10615,2025-07-13,David Wilson,North,In-Store,Furniture,Bookshelf,4,422.99,20.0,338.39,1353.57,Cash,Anjali Nair,5
+ORD10616,2025-07-13,Vikram Rao,West,Phone,Sports,Tennis Racket,5,1815.96,5.0,453.99,8625.81,Bank Transfer,Anjali Nair,3
+ORD10617,2025-07-14,Vikram Rao,South,Online,Electronics,Tablet,5,519.92,0.0,0.0,2599.6,Credit Card,Ravi Kumar,4
+ORD10618,2025-07-14,Michael Brown,West,Online,Electronics,Monitor,2,1727.96,20.0,691.18,2764.74,Cash,Manoj Tiwari,4
+ORD10619,2025-07-15,Karan Verma,Central,Phone,Groceries,Cereal,1,1960.11,0.0,0.0,1960.11,Cash,Sunita Rao,5
+ORD10620,2025-07-15,Rahul Chatterjee,West,Online,Groceries,Rice Bag,2,215.0,0.0,0.0,430.0,Bank Transfer,Pallavi Shah,3
+ORD10621,2025-07-15,Neha Joshi,North,Phone,Furniture,Bookshelf,7,1961.04,5.0,686.36,13040.92,Credit Card,Ravi Kumar,2
+ORD10622,2025-07-15,Sneha Desai,East,Online,Clothing,Jacket,8,1278.51,20.0,2045.62,8182.46,PayPal,Kiran Desai,2
+ORD10623,2025-07-16,Nikhil Bansal,Central,In-Store,Sports,Running Shoes,5,1113.09,10.0,556.54,5008.91,Debit Card,Ravi Kumar,3
+ORD10624,2025-07-16,Sanjay Kumar,Central,Online,Sports,Tennis Racket,9,1175.94,5.0,529.17,10054.29,PayPal,Anjali Nair,5
+ORD10625,2025-07-16,Kavya Menon,East,In-Store,Groceries,Chocolate Box,9,1208.47,5.0,543.81,10332.42,Bank Transfer,Arun Prasad,5
+ORD10626,2025-07-17,Ananya Singh,South,Online,Sports,Tennis Racket,2,387.02,5.0,38.7,735.34,Debit Card,Anjali Nair,3
+ORD10627,2025-07-17,Michael Brown,North,Online,Furniture,Bookshelf,2,230.54,15.0,69.16,391.92,PayPal,Deepa Rao,3
+ORD10628,2025-07-18,Arjun Nair,North,In-Store,Sports,Running Shoes,2,1254.8,0.0,0.0,2509.6,PayPal,Kiran Desai,3
+ORD10629,2025-07-18,Neha Joshi,North,Phone,Clothing,Sneakers,8,1590.35,0.0,0.0,12722.8,Bank Transfer,Kiran Desai,3
+ORD10630,2025-07-18,David Wilson,South,In-Store,Electronics,Smartwatch,7,1736.07,0.0,0.0,12152.49,Cash,Ravi Kumar,5
+ORD10631,2025-07-19,Vikram Rao,East,Online,Sports,Tennis Racket,6,1379.55,0.0,0.0,8277.3,Debit Card,Arun Prasad,5
+ORD10632,2025-07-19,Sarah Davis,Central,Online,Furniture,Desk,7,220.55,0.0,0.0,1543.85,Cash,Suresh Babu,5
+ORD10633,2025-07-19,Aditya Bose,East,Phone,Electronics,Monitor,3,752.22,0.0,0.0,2256.66,Cash,Manoj Tiwari,3
+ORD10634,2025-07-20,Ishita Gupta,Central,In-Store,Electronics,Tablet,6,347.84,0.0,0.0,2087.04,Bank Transfer,Suresh Babu,4
+ORD10635,2025-07-20,Neha Joshi,South,In-Store,Sports,Running Shoes,4,672.77,5.0,134.55,2556.53,Cash,Arun Prasad,3
+ORD10636,2025-07-20,Emily Johnson,North,Online,Sports,Yoga Mat,1,1340.05,0.0,0.0,1340.05,Cash,Pallavi Shah,4
+ORD10637,2025-07-20,Rahul Chatterjee,North,In-Store,Electronics,Smartphone,5,821.89,20.0,821.89,3287.56,PayPal,Sunita Rao,4
+ORD10638,2025-07-21,Sarah Davis,Central,In-Store,Groceries,Chocolate Box,8,95.23,10.0,76.18,685.66,Bank Transfer,Arun Prasad,5
+ORD10639,2025-07-21,Ananya Singh,East,Phone,Sports,Yoga Mat,4,589.35,0.0,0.0,2357.4,Debit Card,Manoj Tiwari,4
+ORD10640,2025-07-21,Laura Martinez,North,Online,Electronics,Smartphone,5,1941.5,5.0,485.38,9222.12,Debit Card,Deepa Rao,4
+ORD10641,2025-07-21,Laura Martinez,East,Phone,Furniture,Bookshelf,4,1638.09,5.0,327.62,6224.74,PayPal,Pallavi Shah,3
+ORD10642,2025-07-21,Ishita Gupta,Central,In-Store,Clothing,Dress,3,1607.59,10.0,482.28,4340.49,Debit Card,Vijay Anand,4
+ORD10643,2025-07-22,Nikhil Bansal,South,In-Store,Furniture,Bookshelf,5,1677.97,15.0,1258.48,7131.37,Cash,Deepa Rao,4
+ORD10644,2025-07-22,Karan Verma,East,Online,Sports,Dumbbells,7,155.45,0.0,0.0,1088.15,PayPal,Anjali Nair,5
+ORD10645,2025-07-22,Sarah Davis,East,In-Store,Sports,Yoga Mat,4,1528.19,20.0,1222.55,4890.21,Debit Card,Ravi Kumar,3
+ORD10646,2025-07-23,Michael Brown,North,In-Store,Furniture,Desk,7,985.77,5.0,345.02,6555.37,Bank Transfer,Arun Prasad,5
+ORD10647,2025-07-23,Nikhil Bansal,North,In-Store,Clothing,T-Shirt,2,1011.76,10.0,202.35,1821.17,Cash,Manoj Tiwari,4
+ORD10648,2025-07-23,Ananya Singh,South,In-Store,Electronics,Tablet,7,1210.59,0.0,0.0,8474.13,Bank Transfer,Vijay Anand,1
+ORD10649,2025-07-23,James Taylor,North,Online,Clothing,Jeans,1,163.91,0.0,0.0,163.91,Credit Card,Sunita Rao,5
+ORD10650,2025-07-24,Neha Joshi,Central,Online,Electronics,Monitor,1,534.41,20.0,106.88,427.53,Debit Card,Anjali Nair,5
+ORD10651,2025-07-25,Kavya Menon,South,In-Store,Electronics,Tablet,4,368.56,0.0,0.0,1474.24,Bank Transfer,Arun Prasad,4
+ORD10652,2025-07-25,Pooja Reddy,East,Phone,Electronics,Headphones,9,1258.34,5.0,566.25,10758.81,Cash,Vijay Anand,5
+ORD10653,2025-07-26,Emily Johnson,North,Online,Groceries,Chocolate Box,4,1548.46,5.0,309.69,5884.15,Bank Transfer,Kiran Desai,4
+ORD10654,2025-07-26,Sneha Desai,West,Online,Sports,Running Shoes,2,1514.98,10.0,303.0,2726.96,Cash,Sunita Rao,4
+ORD10655,2025-07-27,Riya Chawla,South,Phone,Groceries,Chocolate Box,5,105.87,15.0,79.4,449.95,Bank Transfer,Manoj Tiwari,5
+ORD10656,2025-07-27,Karan Verma,West,Online,Sports,Running Shoes,1,77.86,0.0,0.0,77.86,Cash,Suresh Babu,3
+ORD10657,2025-07-27,Laura Martinez,South,Online,Electronics,Tablet,5,1849.66,0.0,0.0,9248.3,Bank Transfer,Kiran Desai,3
+ORD10658,2025-07-27,Ishita Gupta,North,In-Store,Electronics,Laptop,1,1116.83,15.0,167.52,949.31,Bank Transfer,Suresh Babu,3
+ORD10659,2025-07-27,Ananya Singh,West,In-Store,Electronics,Laptop,9,1874.17,0.0,0.0,16867.53,Credit Card,Pallavi Shah,2
+ORD10660,2025-07-27,Rohan Mehta,South,Online,Furniture,Bookshelf,3,1225.75,5.0,183.86,3493.39,Credit Card,Ravi Kumar,5
+ORD10661,2025-07-27,Laura Martinez,West,In-Store,Electronics,Headphones,4,759.66,15.0,455.8,2582.84,PayPal,Deepa Rao,4
+ORD10662,2025-07-27,Pooja Reddy,Central,Phone,Clothing,Sneakers,1,375.12,10.0,37.51,337.61,PayPal,Anjali Nair,5
+ORD10663,2025-07-27,Amit Malhotra,Central,Online,Sports,Dumbbells,5,1672.39,20.0,1672.39,6689.56,Bank Transfer,Vijay Anand,4
+ORD10664,2025-07-28,Olivia Anderson,South,Online,Clothing,Jeans,3,1763.92,5.0,264.59,5027.17,Debit Card,Sunita Rao,2
+ORD10665,2025-07-28,Daniel Thomas,East,In-Store,Clothing,Dress,3,1962.58,5.0,294.39,5593.35,Bank Transfer,Ravi Kumar,4
+ORD10666,2025-07-28,Aarav Sharma,West,In-Store,Electronics,Tablet,7,1493.53,15.0,1568.21,8886.5,Cash,Arun Prasad,4
+ORD10667,2025-07-28,David Wilson,South,Phone,Clothing,Dress,6,848.62,0.0,0.0,5091.72,Credit Card,Sunita Rao,5
+ORD10668,2025-07-28,Amit Malhotra,Central,Phone,Groceries,Coffee,3,622.92,0.0,0.0,1868.76,Bank Transfer,Deepa Rao,4
+ORD10669,2025-07-28,Karan Verma,West,Online,Electronics,Headphones,1,1983.97,20.0,396.79,1587.18,Debit Card,Anjali Nair,5
+ORD10670,2025-07-28,Arjun Nair,North,Online,Electronics,Smartwatch,9,1170.98,20.0,2107.76,8431.06,Bank Transfer,Anjali Nair,5
+ORD10671,2025-07-28,Meera Iyer,West,In-Store,Sports,Running Shoes,2,489.72,0.0,0.0,979.44,Bank Transfer,Sunita Rao,5
+ORD10672,2025-07-29,Riya Chawla,Central,In-Store,Groceries,Rice Bag,6,1403.78,0.0,0.0,8422.68,Bank Transfer,Kiran Desai,3
+ORD10673,2025-07-29,John Smith,South,Online,Electronics,Monitor,2,1999.12,10.0,399.82,3598.42,PayPal,Manoj Tiwari,2
+ORD10674,2025-07-29,Aditya Bose,Central,Online,Electronics,Laptop,4,41.13,5.0,8.23,156.29,Debit Card,Arun Prasad,2
+ORD10675,2025-07-29,Laura Martinez,Central,Phone,Groceries,Cereal,9,1400.13,0.0,0.0,12601.17,Cash,Vijay Anand,5
+ORD10676,2025-07-30,Amit Malhotra,West,Phone,Electronics,Monitor,8,1420.05,5.0,568.02,10792.38,Debit Card,Anjali Nair,5
+ORD10677,2025-07-30,Arjun Nair,West,In-Store,Groceries,Chocolate Box,6,298.08,15.0,268.27,1520.21,Bank Transfer,Vijay Anand,3
+ORD10678,2025-07-30,Olivia Anderson,Central,Online,Sports,Bicycle,2,1846.73,20.0,738.69,2954.77,Cash,Vijay Anand,4
+ORD10679,2025-07-30,Priya Patel,Central,Online,Sports,Tennis Racket,6,1194.15,15.0,1074.74,6090.16,Credit Card,Deepa Rao,1
+ORD10680,2025-07-31,Kavya Menon,North,Online,Sports,Tennis Racket,9,659.04,15.0,889.7,5041.66,Cash,Deepa Rao,4
+ORD10681,2025-08-01,Rohan Mehta,North,Online,Furniture,Office Chair,6,920.01,0.0,0.0,5520.06,Cash,Ravi Kumar,5
+ORD10682,2025-08-01,Aditya Bose,South,Phone,Clothing,Jacket,3,967.57,0.0,0.0,2902.71,Credit Card,Arun Prasad,5
+ORD10683,2025-08-02,Aarav Sharma,Central,Online,Clothing,Jacket,4,679.27,0.0,0.0,2717.08,Bank Transfer,Arun Prasad,4
+ORD10684,2025-08-02,Meera Iyer,East,Online,Groceries,Cereal,6,1812.42,15.0,1631.18,9243.34,Debit Card,Anjali Nair,5
+ORD10685,2025-08-02,Aarav Sharma,Central,Phone,Clothing,Sneakers,9,149.73,20.0,269.51,1078.06,Credit Card,Anjali Nair,5
+ORD10686,2025-08-02,James Taylor,South,Online,Groceries,Coffee,3,1217.35,0.0,0.0,3652.05,Debit Card,Pallavi Shah,3
+ORD10687,2025-08-02,Sarah Davis,East,Online,Sports,Yoga Mat,5,1882.05,0.0,0.0,9410.25,Debit Card,Ravi Kumar,4
+ORD10688,2025-08-02,James Taylor,East,In-Store,Electronics,Monitor,1,23.46,5.0,1.17,22.29,PayPal,Suresh Babu,4
+ORD10689,2025-08-03,Vikram Rao,East,Phone,Sports,Running Shoes,8,1376.34,0.0,0.0,11010.72,Bank Transfer,Arun Prasad,4
+ORD10690,2025-08-03,Rahul Chatterjee,North,Online,Clothing,Dress,7,1168.6,0.0,0.0,8180.2,Bank Transfer,Manoj Tiwari,3
+ORD10691,2025-08-03,Rahul Chatterjee,East,Online,Electronics,Monitor,1,1855.37,0.0,0.0,1855.37,Credit Card,Kiran Desai,3
+ORD10692,2025-08-03,Rahul Chatterjee,Central,Phone,Groceries,Coffee,2,642.58,0.0,0.0,1285.16,PayPal,Vijay Anand,5
+ORD10693,2025-08-03,Meera Iyer,Central,Online,Clothing,Dress,4,1309.99,0.0,0.0,5239.96,Debit Card,Arun Prasad,4
+ORD10694,2025-08-05,Pooja Reddy,South,In-Store,Electronics,Tablet,9,806.58,15.0,1088.88,6170.34,PayPal,Vijay Anand,3
+ORD10695,2025-08-05,John Smith,North,Phone,Clothing,Jacket,1,1140.32,0.0,0.0,1140.32,Credit Card,Sunita Rao,5
+ORD10696,2025-08-06,Rahul Chatterjee,Central,Online,Electronics,Smartphone,6,1309.04,10.0,785.42,7068.82,Cash,Manoj Tiwari,2
+ORD10697,2025-08-06,Sneha Desai,Central,In-Store,Clothing,Jacket,1,1506.04,0.0,0.0,1506.04,PayPal,Arun Prasad,3
+ORD10698,2025-08-06,Rohan Mehta,Central,Phone,Furniture,Sofa,3,31.47,0.0,0.0,94.41,Cash,Vijay Anand,5
+ORD10699,2025-08-06,Sophia White,North,Online,Clothing,T-Shirt,3,1422.77,20.0,853.66,3414.65,Cash,Manoj Tiwari,3
+ORD10700,2025-08-06,Laura Martinez,East,Phone,Electronics,Smartwatch,2,843.14,0.0,0.0,1686.28,Debit Card,Pallavi Shah,4
+ORD10701,2025-08-06,Sarah Davis,Central,Phone,Groceries,Coffee,2,88.72,0.0,0.0,177.44,Bank Transfer,Suresh Babu,4
+ORD10702,2025-08-06,Aarav Sharma,Central,Phone,Electronics,Smartphone,8,1122.9,0.0,0.0,8983.2,Debit Card,Anjali Nair,4
+ORD10703,2025-08-06,Laura Martinez,South,Phone,Electronics,Monitor,2,559.9,0.0,0.0,1119.8,Debit Card,Vijay Anand,5
+ORD10704,2025-08-06,Sneha Desai,Central,In-Store,Groceries,Rice Bag,1,742.46,20.0,148.49,593.97,PayPal,Ravi Kumar,3
+ORD10705,2025-08-07,Sneha Desai,East,Online,Electronics,Laptop,7,633.26,0.0,0.0,4432.82,Debit Card,Suresh Babu,5
+ORD10706,2025-08-07,Sanjay Kumar,South,In-Store,Clothing,Dress,9,1057.89,5.0,476.05,9044.96,Bank Transfer,Arun Prasad,3
+ORD10707,2025-08-07,Sneha Desai,South,Online,Electronics,Tablet,3,152.71,0.0,0.0,458.13,PayPal,Anjali Nair,4
+ORD10708,2025-08-07,Neha Joshi,Central,Phone,Furniture,Sofa,4,1655.9,20.0,1324.72,5298.88,Credit Card,Deepa Rao,1
+ORD10709,2025-08-08,Michael Brown,Central,Online,Sports,Tennis Racket,5,1158.55,15.0,868.91,4923.84,PayPal,Ravi Kumar,4
+ORD10710,2025-08-08,David Wilson,South,Phone,Furniture,Office Chair,5,68.4,20.0,68.4,273.6,Cash,Ravi Kumar,4
+ORD10711,2025-08-09,Sophia White,West,In-Store,Clothing,Dress,7,1162.07,5.0,406.72,7727.77,Debit Card,Anjali Nair,5
+ORD10712,2025-08-09,Sarah Davis,West,Online,Electronics,Smartphone,7,208.4,5.0,72.94,1385.86,Debit Card,Anjali Nair,5
+ORD10713,2025-08-09,David Wilson,East,Online,Groceries,Cereal,6,1182.51,15.0,1064.26,6030.8,PayPal,Pallavi Shah,5
+ORD10714,2025-08-10,Karan Verma,Central,Phone,Sports,Yoga Mat,5,1059.81,0.0,0.0,5299.05,Cash,Kiran Desai,2
+ORD10715,2025-08-10,John Smith,West,Phone,Electronics,Headphones,8,1090.5,15.0,1308.6,7415.4,Credit Card,Anjali Nair,4
+ORD10716,2025-08-10,Neha Joshi,North,Phone,Furniture,Desk,1,1247.37,0.0,0.0,1247.37,Credit Card,Manoj Tiwari,2
+ORD10717,2025-08-11,Sophia White,North,In-Store,Furniture,Sofa,4,1939.09,20.0,1551.27,6205.09,PayPal,Pallavi Shah,5
+ORD10718,2025-08-11,Riya Chawla,West,Online,Sports,Dumbbells,3,544.35,0.0,0.0,1633.05,Bank Transfer,Anjali Nair,2
+ORD10719,2025-08-11,John Smith,Central,In-Store,Clothing,T-Shirt,4,1131.01,0.0,0.0,4524.04,Debit Card,Kiran Desai,5
+ORD10720,2025-08-11,Ananya Singh,South,In-Store,Sports,Tennis Racket,4,407.39,0.0,0.0,1629.56,PayPal,Deepa Rao,3
+ORD10721,2025-08-12,Arjun Nair,East,Phone,Furniture,Desk,5,412.05,15.0,309.04,1751.21,Debit Card,Pallavi Shah,4
+ORD10722,2025-08-12,Sneha Desai,North,In-Store,Sports,Yoga Mat,7,1547.42,5.0,541.6,10290.34,Cash,Manoj Tiwari,5
+ORD10723,2025-08-12,Pooja Reddy,East,Online,Clothing,T-Shirt,1,1671.96,0.0,0.0,1671.96,Debit Card,Manoj Tiwari,3
+ORD10724,2025-08-12,Emily Johnson,Central,In-Store,Clothing,T-Shirt,5,83.64,10.0,41.82,376.38,PayPal,Manoj Tiwari,3
+ORD10725,2025-08-13,Karan Verma,East,In-Store,Furniture,Dining Table,3,1813.41,20.0,1088.05,4352.18,PayPal,Suresh Babu,4
+ORD10726,2025-08-13,Daniel Thomas,Central,Phone,Furniture,Office Chair,8,1627.23,0.0,0.0,13017.84,Bank Transfer,Sunita Rao,4
+ORD10727,2025-08-14,James Taylor,West,Online,Furniture,Bookshelf,8,1013.14,0.0,0.0,8105.12,PayPal,Ravi Kumar,5
+ORD10728,2025-08-14,Divya Kapoor,East,Phone,Electronics,Smartwatch,5,195.95,20.0,195.95,783.8,PayPal,Pallavi Shah,4
+ORD10729,2025-08-14,Priya Patel,West,In-Store,Groceries,Chocolate Box,3,1556.02,5.0,233.4,4434.66,PayPal,Pallavi Shah,5
+ORD10730,2025-08-15,Sanjay Kumar,East,Phone,Sports,Tennis Racket,7,707.86,5.0,247.75,4707.27,Credit Card,Deepa Rao,4
+ORD10731,2025-08-15,Karan Verma,West,Online,Groceries,Olive Oil,9,1999.01,20.0,3598.22,14392.87,Credit Card,Anjali Nair,1
+ORD10732,2025-08-15,Sarah Davis,Central,Phone,Electronics,Smartphone,9,1468.58,10.0,1321.72,11895.5,Bank Transfer,Anjali Nair,3
+ORD10733,2025-08-15,Divya Kapoor,East,Phone,Groceries,Coffee,3,797.78,10.0,239.33,2154.01,Cash,Vijay Anand,4
+ORD10734,2025-08-16,Daniel Thomas,East,Phone,Groceries,Rice Bag,5,436.42,10.0,218.21,1963.89,Cash,Deepa Rao,5
+ORD10735,2025-08-16,Nikhil Bansal,Central,Online,Furniture,Sofa,4,457.67,10.0,183.07,1647.61,PayPal,Sunita Rao,3
+ORD10736,2025-08-17,Meera Iyer,East,In-Store,Clothing,Jeans,5,1454.54,0.0,0.0,7272.7,Cash,Pallavi Shah,5
+ORD10737,2025-08-17,Sophia White,North,In-Store,Groceries,Coffee,9,1569.02,0.0,0.0,14121.18,Debit Card,Pallavi Shah,5
+ORD10738,2025-08-18,Riya Chawla,East,Phone,Clothing,Jacket,3,991.72,20.0,595.03,2380.13,Bank Transfer,Arun Prasad,3
+ORD10739,2025-08-19,Aditya Bose,East,Online,Electronics,Monitor,9,629.8,15.0,850.23,4817.97,Cash,Manoj Tiwari,5
+ORD10740,2025-08-19,Emily Johnson,West,Online,Groceries,Coffee,7,1331.79,15.0,1398.38,7924.15,Credit Card,Anjali Nair,4
+ORD10741,2025-08-19,Daniel Thomas,East,In-Store,Furniture,Dining Table,3,1773.78,20.0,1064.27,4257.07,Bank Transfer,Kiran Desai,5
+ORD10742,2025-08-20,James Taylor,North,Online,Sports,Bicycle,5,223.43,0.0,0.0,1117.15,Credit Card,Vijay Anand,5
+ORD10743,2025-08-21,Sanjay Kumar,Central,Online,Groceries,Rice Bag,2,993.83,0.0,0.0,1987.66,PayPal,Sunita Rao,2
+ORD10744,2025-08-21,Neha Joshi,Central,Phone,Electronics,Headphones,8,840.07,0.0,0.0,6720.56,Debit Card,Suresh Babu,5
+ORD10745,2025-08-21,Vikram Rao,South,Phone,Clothing,Sneakers,4,713.04,0.0,0.0,2852.16,Bank Transfer,Suresh Babu,5
+ORD10746,2025-08-21,Riya Chawla,South,Online,Clothing,Jeans,7,412.11,0.0,0.0,2884.77,Bank Transfer,Suresh Babu,5
+ORD10747,2025-08-22,David Wilson,East,Phone,Sports,Bicycle,2,765.55,5.0,76.56,1454.54,Debit Card,Sunita Rao,2
+ORD10748,2025-08-23,Rahul Chatterjee,Central,Phone,Groceries,Chocolate Box,7,1606.12,5.0,562.14,10680.7,Bank Transfer,Ravi Kumar,4
+ORD10749,2025-08-24,Michael Brown,South,Online,Furniture,Dining Table,4,415.93,0.0,0.0,1663.72,Bank Transfer,Ravi Kumar,5
+ORD10750,2025-08-24,Olivia Anderson,Central,Online,Electronics,Laptop,4,1050.89,15.0,630.53,3573.03,Credit Card,Ravi Kumar,5
+ORD10751,2025-08-24,David Wilson,West,In-Store,Groceries,Cereal,5,1887.51,0.0,0.0,9437.55,PayPal,Manoj Tiwari,5
+ORD10752,2025-08-24,David Wilson,Central,Phone,Electronics,Smartwatch,6,1043.48,20.0,1252.18,5008.7,Bank Transfer,Kiran Desai,2
+ORD10753,2025-08-24,Daniel Thomas,South,Online,Sports,Dumbbells,4,887.94,0.0,0.0,3551.76,Debit Card,Vijay Anand,4
+ORD10754,2025-08-25,Daniel Thomas,North,In-Store,Sports,Running Shoes,9,52.65,10.0,47.38,426.47,Bank Transfer,Kiran Desai,5
+ORD10755,2025-08-25,Aarav Sharma,Central,Phone,Sports,Yoga Mat,6,417.94,0.0,0.0,2507.64,PayPal,Pallavi Shah,4
+ORD10756,2025-08-25,Priya Patel,East,In-Store,Clothing,Dress,7,461.45,0.0,0.0,3230.15,Cash,Arun Prasad,5
+ORD10757,2025-08-26,Daniel Thomas,East,In-Store,Sports,Running Shoes,3,1493.78,0.0,0.0,4481.34,PayPal,Vijay Anand,5
+ORD10758,2025-08-26,Ishita Gupta,Central,Phone,Sports,Bicycle,4,243.17,0.0,0.0,972.68,PayPal,Deepa Rao,5
+ORD10759,2025-08-26,Nikhil Bansal,East,In-Store,Groceries,Cereal,7,368.33,10.0,257.83,2320.48,Debit Card,Kiran Desai,4
+ORD10760,2025-08-27,James Taylor,South,In-Store,Furniture,Sofa,4,731.4,20.0,585.12,2340.48,PayPal,Vijay Anand,5
+ORD10761,2025-08-27,Michael Brown,South,Online,Electronics,Tablet,4,1347.82,0.0,0.0,5391.28,Cash,Manoj Tiwari,2
+ORD10762,2025-08-27,Ishita Gupta,Central,Phone,Sports,Tennis Racket,1,772.3,20.0,154.46,617.84,Cash,Manoj Tiwari,5
+ORD10763,2025-08-28,Kavya Menon,South,Phone,Electronics,Smartphone,4,1682.64,5.0,336.53,6394.03,Cash,Anjali Nair,4
+ORD10764,2025-08-28,Sarah Davis,West,Phone,Clothing,Jacket,9,796.12,5.0,358.25,6806.83,Debit Card,Kiran Desai,5
+ORD10765,2025-08-28,Arjun Nair,Central,Online,Furniture,Sofa,2,748.83,20.0,299.53,1198.13,Bank Transfer,Kiran Desai,5
+ORD10766,2025-08-28,Priya Patel,East,Online,Sports,Tennis Racket,6,1822.3,0.0,0.0,10933.8,Credit Card,Arun Prasad,5
+ORD10767,2025-08-28,Michael Brown,East,Online,Electronics,Headphones,9,1232.35,15.0,1663.67,9427.48,Debit Card,Kiran Desai,5
+ORD10768,2025-08-29,Riya Chawla,North,Online,Furniture,Bookshelf,5,1653.28,10.0,826.64,7439.76,PayPal,Arun Prasad,4
+ORD10769,2025-08-29,Emily Johnson,Central,In-Store,Electronics,Monitor,8,778.47,0.0,0.0,6227.76,Cash,Arun Prasad,3
+ORD10770,2025-08-29,Ishita Gupta,South,Phone,Electronics,Laptop,1,348.32,0.0,0.0,348.32,PayPal,Ravi Kumar,3
+ORD10771,2025-08-29,Laura Martinez,Central,Online,Electronics,Headphones,3,142.75,20.0,85.65,342.6,PayPal,Pallavi Shah,5
+ORD10772,2025-08-30,John Smith,Central,In-Store,Clothing,T-Shirt,1,1790.26,15.0,268.54,1521.72,Cash,Suresh Babu,3
+ORD10773,2025-08-30,Karan Verma,West,Phone,Furniture,Office Chair,2,36.85,5.0,3.69,70.01,Cash,Vijay Anand,2
+ORD10774,2025-08-30,Olivia Anderson,Central,Online,Electronics,Laptop,5,1848.43,10.0,924.22,8317.93,Debit Card,Manoj Tiwari,5
+ORD10775,2025-08-30,Ishita Gupta,South,Online,Sports,Dumbbells,7,720.69,0.0,0.0,5044.83,Credit Card,Anjali Nair,5
+ORD10776,2025-08-30,Sanjay Kumar,North,In-Store,Clothing,Dress,8,333.84,0.0,0.0,2670.72,Credit Card,Manoj Tiwari,5
+ORD10777,2025-08-30,Rohan Mehta,North,Phone,Groceries,Olive Oil,8,1483.24,10.0,1186.59,10679.33,Credit Card,Pallavi Shah,4
+ORD10778,2025-08-30,Laura Martinez,North,Phone,Clothing,T-Shirt,2,1313.17,0.0,0.0,2626.34,Cash,Manoj Tiwari,4
+ORD10779,2025-08-31,Rahul Chatterjee,East,Online,Electronics,Smartphone,3,1189.4,5.0,178.41,3389.79,PayPal,Arun Prasad,1
+ORD10780,2025-08-31,Priya Patel,North,In-Store,Furniture,Desk,2,866.86,20.0,346.74,1386.98,PayPal,Anjali Nair,4
+ORD10781,2025-08-31,Laura Martinez,South,In-Store,Clothing,Dress,4,253.8,5.0,50.76,964.44,PayPal,Manoj Tiwari,5
+ORD10782,2025-08-31,Sophia White,West,Phone,Electronics,Smartphone,9,522.5,10.0,470.25,4232.25,Cash,Anjali Nair,5
+ORD10783,2025-08-31,Amit Malhotra,West,In-Store,Electronics,Smartwatch,4,333.59,15.0,200.15,1134.21,Bank Transfer,Kiran Desai,3
+ORD10784,2025-08-31,Rohan Mehta,South,Online,Clothing,Jeans,3,1825.16,10.0,547.55,4927.93,Credit Card,Arun Prasad,5
+ORD10785,2025-09-01,Amit Malhotra,South,Phone,Sports,Dumbbells,8,1425.57,15.0,1710.68,9693.88,Cash,Pallavi Shah,4
+ORD10786,2025-09-01,Amit Malhotra,West,Online,Clothing,Jacket,9,1133.87,0.0,0.0,10204.83,PayPal,Deepa Rao,5
+ORD10787,2025-09-01,Ananya Singh,North,Phone,Electronics,Headphones,7,1720.58,10.0,1204.41,10839.65,Debit Card,Pallavi Shah,5
+ORD10788,2025-09-01,Emily Johnson,East,Phone,Furniture,Bookshelf,8,192.17,5.0,76.87,1460.49,Bank Transfer,Suresh Babu,3
+ORD10789,2025-09-01,Sophia White,Central,Phone,Furniture,Sofa,6,1861.54,0.0,0.0,11169.24,Debit Card,Kiran Desai,3
+ORD10790,2025-09-01,Daniel Thomas,East,Online,Groceries,Coffee,9,890.67,5.0,400.8,7615.23,Debit Card,Ravi Kumar,4
+ORD10791,2025-09-02,Karan Verma,West,Phone,Furniture,Desk,1,613.9,15.0,92.08,521.82,Debit Card,Pallavi Shah,3
+ORD10792,2025-09-02,David Wilson,Central,In-Store,Groceries,Rice Bag,2,1943.99,0.0,0.0,3887.98,Debit Card,Vijay Anand,3
+ORD10793,2025-09-02,Riya Chawla,North,In-Store,Sports,Running Shoes,3,1224.66,15.0,551.1,3122.88,Cash,Vijay Anand,5
+ORD10794,2025-09-02,Vikram Rao,North,Phone,Groceries,Coffee,9,1163.61,0.0,0.0,10472.49,Cash,Ravi Kumar,3
+ORD10795,2025-09-03,John Smith,Central,Phone,Clothing,T-Shirt,7,1608.19,0.0,0.0,11257.33,Bank Transfer,Anjali Nair,3
+ORD10796,2025-09-03,Nikhil Bansal,North,In-Store,Clothing,Sneakers,9,1145.96,20.0,2062.73,8250.91,Credit Card,Suresh Babu,5
+ORD10797,2025-09-03,Emily Johnson,West,Online,Electronics,Smartphone,5,373.34,0.0,0.0,1866.7,Cash,Manoj Tiwari,5
+ORD10798,2025-09-03,Priya Patel,West,Online,Furniture,Dining Table,5,1770.19,0.0,0.0,8850.95,PayPal,Arun Prasad,4
+ORD10799,2025-09-03,Arjun Nair,West,Online,Furniture,Office Chair,7,681.19,15.0,715.25,4053.08,PayPal,Deepa Rao,4
+ORD10800,2025-09-03,Rahul Chatterjee,West,Phone,Groceries,Cereal,2,1810.33,0.0,0.0,3620.66,Credit Card,Sunita Rao,5
+ORD10801,2025-09-03,John Smith,South,Online,Furniture,Sofa,6,1264.93,0.0,0.0,7589.58,Bank Transfer,Pallavi Shah,3
+ORD10802,2025-09-04,Nikhil Bansal,North,Phone,Furniture,Bookshelf,1,903.0,20.0,180.6,722.4,Bank Transfer,Manoj Tiwari,5
+ORD10803,2025-09-04,James Taylor,North,Phone,Sports,Dumbbells,4,956.42,20.0,765.14,3060.54,Credit Card,Deepa Rao,4
+ORD10804,2025-09-05,Arjun Nair,West,Online,Furniture,Desk,4,1642.05,0.0,0.0,6568.2,Debit Card,Suresh Babu,4
+ORD10805,2025-09-05,Karan Verma,Central,Online,Electronics,Monitor,9,202.89,0.0,0.0,1826.01,Cash,Vijay Anand,5
+ORD10806,2025-09-05,Divya Kapoor,North,Online,Sports,Dumbbells,6,566.61,0.0,0.0,3399.66,Cash,Anjali Nair,3
+ORD10807,2025-09-05,Riya Chawla,North,Phone,Clothing,Jeans,9,1986.54,10.0,1787.89,16090.97,Cash,Manoj Tiwari,2
+ORD10808,2025-09-05,Arjun Nair,North,In-Store,Electronics,Tablet,2,812.19,15.0,243.66,1380.72,PayPal,Pallavi Shah,4
+ORD10809,2025-09-06,Ishita Gupta,West,In-Store,Electronics,Tablet,5,25.64,10.0,12.82,115.38,Cash,Pallavi Shah,5
+ORD10810,2025-09-06,Rohan Mehta,Central,Online,Groceries,Cereal,8,1447.64,20.0,2316.22,9264.9,Cash,Suresh Babu,2
+ORD10811,2025-09-06,Olivia Anderson,East,Phone,Electronics,Headphones,3,1398.82,20.0,839.29,3357.17,Credit Card,Ravi Kumar,4
+ORD10812,2025-09-06,Rohan Mehta,East,Phone,Sports,Bicycle,3,237.14,20.0,142.28,569.14,Cash,Ravi Kumar,5
+ORD10813,2025-09-06,Rohan Mehta,West,Phone,Clothing,Jeans,6,1497.11,0.0,0.0,8982.66,Debit Card,Deepa Rao,4
+ORD10814,2025-09-07,Daniel Thomas,North,Online,Clothing,Sneakers,4,637.34,15.0,382.4,2166.96,Cash,Arun Prasad,4
+ORD10815,2025-09-07,Laura Martinez,South,Phone,Groceries,Coffee,4,99.59,5.0,19.92,378.44,Credit Card,Deepa Rao,5
+ORD10816,2025-09-07,Sophia White,Central,Online,Groceries,Cereal,7,526.18,5.0,184.16,3499.1,Bank Transfer,Arun Prasad,5
+ORD10817,2025-09-07,Divya Kapoor,Central,Phone,Groceries,Rice Bag,8,1290.2,0.0,0.0,10321.6,Debit Card,Suresh Babu,5
+ORD10818,2025-09-08,Neha Joshi,East,In-Store,Furniture,Desk,6,1722.71,5.0,516.81,9819.45,Bank Transfer,Suresh Babu,4
+ORD10819,2025-09-09,Karan Verma,South,In-Store,Clothing,Dress,7,759.09,0.0,0.0,5313.63,PayPal,Suresh Babu,4
+ORD10820,2025-09-09,Meera Iyer,Central,Phone,Clothing,T-Shirt,3,266.59,5.0,39.99,759.78,Debit Card,Suresh Babu,4
+ORD10821,2025-09-10,Rahul Chatterjee,South,In-Store,Groceries,Chocolate Box,8,1661.23,15.0,1993.48,11296.36,Credit Card,Sunita Rao,4
+ORD10822,2025-09-10,Pooja Reddy,South,Online,Furniture,Bookshelf,1,1228.24,5.0,61.41,1166.83,Bank Transfer,Vijay Anand,5
+ORD10823,2025-09-10,Vikram Rao,West,In-Store,Electronics,Smartphone,6,1975.56,15.0,1778.0,10075.36,PayPal,Anjali Nair,4
+ORD10824,2025-09-10,Pooja Reddy,East,Phone,Clothing,Jacket,8,1916.17,10.0,1532.94,13796.42,Cash,Deepa Rao,2
+ORD10825,2025-09-11,Pooja Reddy,North,Phone,Furniture,Sofa,6,189.44,0.0,0.0,1136.64,Credit Card,Vijay Anand,5
+ORD10826,2025-09-11,Emily Johnson,South,Phone,Electronics,Smartphone,7,552.71,10.0,386.9,3482.07,Debit Card,Sunita Rao,5
+ORD10827,2025-09-12,Daniel Thomas,North,Online,Clothing,Sneakers,5,830.78,10.0,415.39,3738.51,Debit Card,Ravi Kumar,4
+ORD10828,2025-09-12,Rahul Chatterjee,North,Online,Furniture,Office Chair,7,1355.87,10.0,949.11,8541.98,Cash,Vijay Anand,2
+ORD10829,2025-09-13,Kavya Menon,South,Phone,Sports,Running Shoes,4,1818.92,15.0,1091.35,6184.33,Credit Card,Anjali Nair,5
+ORD10830,2025-09-13,Amit Malhotra,Central,Phone,Groceries,Coffee,7,208.27,0.0,0.0,1457.89,Debit Card,Deepa Rao,2
+ORD10831,2025-09-14,Sarah Davis,East,Online,Furniture,Sofa,2,1450.22,10.0,290.04,2610.4,Credit Card,Anjali Nair,5
+ORD10832,2025-09-14,Rahul Chatterjee,South,Phone,Electronics,Headphones,8,373.12,15.0,447.74,2537.22,Debit Card,Arun Prasad,2
+ORD10833,2025-09-14,Emily Johnson,Central,Phone,Sports,Tennis Racket,9,525.75,0.0,0.0,4731.75,PayPal,Kiran Desai,4
+ORD10834,2025-09-14,Divya Kapoor,North,In-Store,Clothing,Sneakers,8,418.99,10.0,335.19,3016.73,Credit Card,Anjali Nair,4
+ORD10835,2025-09-15,Aarav Sharma,South,Phone,Electronics,Tablet,4,1173.62,5.0,234.72,4459.76,Cash,Ravi Kumar,5
+ORD10836,2025-09-15,Neha Joshi,West,Online,Sports,Yoga Mat,7,1671.9,10.0,1170.33,10532.97,Cash,Suresh Babu,4
+ORD10837,2025-09-15,Sneha Desai,Central,Phone,Sports,Yoga Mat,1,1761.09,15.0,264.16,1496.93,Debit Card,Arun Prasad,5
+ORD10838,2025-09-15,Rahul Chatterjee,West,Online,Furniture,Office Chair,2,374.78,0.0,0.0,749.56,Cash,Arun Prasad,3
+ORD10839,2025-09-15,Karan Verma,Central,In-Store,Groceries,Rice Bag,7,1467.65,0.0,0.0,10273.55,PayPal,Ravi Kumar,5
+ORD10840,2025-09-16,Aditya Bose,South,In-Store,Furniture,Sofa,8,896.74,0.0,0.0,7173.92,Cash,Manoj Tiwari,5
+ORD10841,2025-09-16,David Wilson,Central,In-Store,Clothing,Jeans,6,1705.1,5.0,511.53,9719.07,PayPal,Ravi Kumar,3
+ORD10842,2025-09-16,Nikhil Bansal,Central,Online,Furniture,Office Chair,4,1196.25,20.0,957.0,3828.0,Bank Transfer,Manoj Tiwari,5
+ORD10843,2025-09-17,John Smith,South,Online,Electronics,Tablet,8,622.72,20.0,996.35,3985.41,PayPal,Arun Prasad,3
+ORD10844,2025-09-17,Ishita Gupta,Central,Phone,Clothing,Jacket,2,1100.52,10.0,220.1,1980.94,PayPal,Anjali Nair,2
+ORD10845,2025-09-17,Aarav Sharma,East,Phone,Groceries,Cereal,2,1941.68,0.0,0.0,3883.36,Credit Card,Vijay Anand,5
+ORD10846,2025-09-17,Rohan Mehta,East,Phone,Groceries,Rice Bag,8,256.28,0.0,0.0,2050.24,Bank Transfer,Suresh Babu,5
+ORD10847,2025-09-17,Meera Iyer,South,In-Store,Electronics,Smartwatch,6,800.65,20.0,960.78,3843.12,Debit Card,Manoj Tiwari,3
+ORD10848,2025-09-17,Olivia Anderson,South,Online,Sports,Dumbbells,1,150.64,5.0,7.53,143.11,Cash,Kiran Desai,3
+ORD10849,2025-09-18,Amit Malhotra,North,Online,Sports,Dumbbells,1,46.79,20.0,9.36,37.43,Debit Card,Anjali Nair,1
+ORD10850,2025-09-18,Ananya Singh,South,In-Store,Sports,Dumbbells,8,676.95,0.0,0.0,5415.6,Cash,Suresh Babu,5
+ORD10851,2025-09-18,Aarav Sharma,South,Phone,Electronics,Monitor,4,1256.97,5.0,251.39,4776.49,Debit Card,Arun Prasad,4
+ORD10852,2025-09-18,Daniel Thomas,North,Phone,Furniture,Office Chair,3,692.84,15.0,311.78,1766.74,Credit Card,Manoj Tiwari,4
+ORD10853,2025-09-18,Emily Johnson,East,In-Store,Electronics,Tablet,7,266.09,20.0,372.53,1490.1,PayPal,Arun Prasad,4
+ORD10854,2025-09-19,Rahul Chatterjee,Central,Phone,Groceries,Olive Oil,9,1387.48,10.0,1248.73,11238.59,Bank Transfer,Vijay Anand,5
+ORD10855,2025-09-19,Sophia White,South,Online,Furniture,Bookshelf,3,643.77,5.0,96.57,1834.74,Cash,Ravi Kumar,3
+ORD10856,2025-09-19,David Wilson,East,Phone,Electronics,Smartphone,6,21.6,0.0,0.0,129.6,Bank Transfer,Deepa Rao,4
+ORD10857,2025-09-19,Divya Kapoor,East,Phone,Electronics,Smartphone,6,726.9,0.0,0.0,4361.4,Cash,Ravi Kumar,4
+ORD10858,2025-09-19,Olivia Anderson,Central,Online,Clothing,Dress,5,919.75,0.0,0.0,4598.75,Debit Card,Manoj Tiwari,4
+ORD10859,2025-09-19,Aditya Bose,Central,Phone,Groceries,Rice Bag,6,1316.85,0.0,0.0,7901.1,Cash,Kiran Desai,4
+ORD10860,2025-09-20,Riya Chawla,Central,Phone,Groceries,Coffee,7,1021.3,0.0,0.0,7149.1,Cash,Deepa Rao,5
+ORD10861,2025-09-20,Olivia Anderson,North,Online,Clothing,Dress,2,1812.76,0.0,0.0,3625.52,Bank Transfer,Manoj Tiwari,4
+ORD10862,2025-09-21,Neha Joshi,West,Online,Groceries,Olive Oil,6,1475.51,5.0,442.65,8410.41,Cash,Kiran Desai,3
+ORD10863,2025-09-22,Divya Kapoor,South,In-Store,Groceries,Olive Oil,6,1864.6,15.0,1678.14,9509.46,Debit Card,Ravi Kumar,4
+ORD10864,2025-09-22,Karan Verma,East,Phone,Sports,Yoga Mat,8,1236.05,10.0,988.84,8899.56,Credit Card,Suresh Babu,4
+ORD10865,2025-09-22,James Taylor,Central,In-Store,Furniture,Dining Table,5,1640.12,20.0,1640.12,6560.48,Bank Transfer,Arun Prasad,4
+ORD10866,2025-09-23,David Wilson,North,Phone,Clothing,Sneakers,7,550.91,0.0,0.0,3856.37,Debit Card,Sunita Rao,2
+ORD10867,2025-09-23,Nikhil Bansal,East,Online,Sports,Dumbbells,6,870.28,0.0,0.0,5221.68,Cash,Vijay Anand,5
+ORD10868,2025-09-23,Pooja Reddy,West,Phone,Electronics,Smartphone,6,269.39,0.0,0.0,1616.34,Credit Card,Kiran Desai,5
+ORD10869,2025-09-24,John Smith,East,Online,Furniture,Dining Table,9,1240.9,20.0,2233.62,8934.48,PayPal,Pallavi Shah,5
+ORD10870,2025-09-24,Kavya Menon,West,Phone,Sports,Running Shoes,9,1561.48,5.0,702.67,13350.65,Credit Card,Ravi Kumar,4
+ORD10871,2025-09-24,Sanjay Kumar,West,In-Store,Clothing,T-Shirt,2,486.79,15.0,146.04,827.54,Cash,Ravi Kumar,4
+ORD10872,2025-09-25,Ishita Gupta,East,Phone,Clothing,Jeans,6,594.85,0.0,0.0,3569.1,Cash,Ravi Kumar,5
+ORD10873,2025-09-25,Sophia White,Central,Online,Groceries,Cereal,9,1340.42,0.0,0.0,12063.78,Credit Card,Pallavi Shah,5
+ORD10874,2025-09-25,Arjun Nair,North,Online,Furniture,Office Chair,3,1704.43,20.0,1022.66,4090.63,Cash,Vijay Anand,4
+ORD10875,2025-09-25,David Wilson,West,Phone,Electronics,Smartphone,5,1273.96,15.0,955.47,5414.33,PayPal,Kiran Desai,4
+ORD10876,2025-09-25,Sophia White,South,Online,Electronics,Laptop,6,1872.57,0.0,0.0,11235.42,Debit Card,Arun Prasad,4
+ORD10877,2025-09-26,Michael Brown,South,Phone,Furniture,Desk,4,267.8,0.0,0.0,1071.2,PayPal,Vijay Anand,4
+ORD10878,2025-09-26,Pooja Reddy,North,Online,Sports,Bicycle,1,317.49,0.0,0.0,317.49,PayPal,Arun Prasad,5
+ORD10879,2025-09-26,Meera Iyer,North,In-Store,Sports,Running Shoes,8,598.86,10.0,479.09,4311.79,Bank Transfer,Anjali Nair,4
+ORD10880,2025-09-27,Neha Joshi,South,Online,Clothing,Dress,1,905.22,20.0,181.04,724.18,PayPal,Ravi Kumar,4
+ORD10881,2025-09-27,Aditya Bose,Central,In-Store,Groceries,Rice Bag,1,1149.0,10.0,114.9,1034.1,Credit Card,Ravi Kumar,4
+ORD10882,2025-09-27,John Smith,Central,Online,Furniture,Bookshelf,3,1911.5,20.0,1146.9,4587.6,Cash,Manoj Tiwari,3
+ORD10883,2025-09-27,Sneha Desai,East,Online,Electronics,Headphones,7,1912.8,15.0,2008.44,11381.16,Credit Card,Kiran Desai,3
+ORD10884,2025-09-27,James Taylor,South,Online,Groceries,Olive Oil,2,811.96,0.0,0.0,1623.92,Credit Card,Pallavi Shah,3
+ORD10885,2025-09-28,Meera Iyer,North,In-Store,Clothing,Jacket,2,739.13,10.0,147.83,1330.43,PayPal,Arun Prasad,4
+ORD10886,2025-09-28,Amit Malhotra,East,In-Store,Clothing,Jacket,9,156.02,0.0,0.0,1404.18,Cash,Pallavi Shah,5
+ORD10887,2025-09-28,Priya Patel,South,In-Store,Groceries,Chocolate Box,7,1459.83,0.0,0.0,10218.81,Credit Card,Sunita Rao,5
+ORD10888,2025-09-28,John Smith,Central,Phone,Clothing,T-Shirt,3,28.78,5.0,4.32,82.02,PayPal,Anjali Nair,5
+ORD10889,2025-09-28,Sarah Davis,Central,In-Store,Clothing,Dress,8,922.7,0.0,0.0,7381.6,Bank Transfer,Vijay Anand,5
+ORD10890,2025-09-28,Ishita Gupta,West,Online,Sports,Running Shoes,3,330.92,0.0,0.0,992.76,PayPal,Kiran Desai,4
+ORD10891,2025-09-29,Amit Malhotra,North,Online,Clothing,Dress,9,962.78,20.0,1733.0,6932.02,Credit Card,Sunita Rao,1
+ORD10892,2025-09-29,Sophia White,South,Online,Furniture,Desk,1,1348.73,0.0,0.0,1348.73,Debit Card,Kiran Desai,4
+ORD10893,2025-09-30,Aditya Bose,East,In-Store,Clothing,Sneakers,7,1696.98,10.0,1187.89,10690.97,Debit Card,Deepa Rao,5
+ORD10894,2025-09-30,Kavya Menon,North,Online,Groceries,Rice Bag,4,1699.02,20.0,1359.22,5436.86,Bank Transfer,Manoj Tiwari,4
+ORD10895,2025-09-30,Priya Patel,East,Online,Electronics,Monitor,3,1832.04,20.0,1099.22,4396.9,Cash,Suresh Babu,5
+ORD10896,2025-09-30,John Smith,South,Online,Electronics,Monitor,4,918.24,0.0,0.0,3672.96,Cash,Kiran Desai,4
+ORD10897,2025-09-30,Amit Malhotra,North,Phone,Groceries,Chocolate Box,4,273.82,0.0,0.0,1095.28,PayPal,Anjali Nair,4
+ORD10898,2025-10-01,Olivia Anderson,West,Online,Electronics,Smartphone,6,936.6,10.0,561.96,5057.64,Bank Transfer,Pallavi Shah,4
+ORD10899,2025-10-01,Emily Johnson,Central,In-Store,Groceries,Chocolate Box,8,422.57,5.0,169.03,3211.53,PayPal,Arun Prasad,2
+ORD10900,2025-10-01,Sarah Davis,North,Phone,Furniture,Bookshelf,1,1391.49,5.0,69.57,1321.92,PayPal,Pallavi Shah,3
+ORD10901,2025-10-01,Daniel Thomas,South,In-Store,Groceries,Olive Oil,8,969.39,0.0,0.0,7755.12,Credit Card,Suresh Babu,5
+ORD10902,2025-10-02,Daniel Thomas,North,Online,Sports,Yoga Mat,1,1353.61,5.0,67.68,1285.93,Debit Card,Ravi Kumar,2
+ORD10903,2025-10-02,James Taylor,East,Phone,Furniture,Dining Table,3,74.42,0.0,0.0,223.26,Debit Card,Arun Prasad,5
+ORD10904,2025-10-02,Neha Joshi,South,In-Store,Electronics,Laptop,1,250.23,20.0,50.05,200.18,Cash,Kiran Desai,2
+ORD10905,2025-10-02,Sophia White,East,In-Store,Sports,Running Shoes,8,1525.91,0.0,0.0,12207.28,PayPal,Suresh Babu,4
+ORD10906,2025-10-02,Ishita Gupta,East,Online,Sports,Dumbbells,7,215.92,0.0,0.0,1511.44,PayPal,Arun Prasad,4
+ORD10907,2025-10-03,Neha Joshi,South,Phone,Sports,Tennis Racket,5,362.46,0.0,0.0,1812.3,Bank Transfer,Manoj Tiwari,2
+ORD10908,2025-10-03,Nikhil Bansal,South,In-Store,Groceries,Cereal,1,1950.81,0.0,0.0,1950.81,Bank Transfer,Anjali Nair,2
+ORD10909,2025-10-03,Kavya Menon,Central,Phone,Furniture,Office Chair,7,493.27,5.0,172.64,3280.25,PayPal,Manoj Tiwari,4
+ORD10910,2025-10-04,Divya Kapoor,North,In-Store,Furniture,Office Chair,2,1439.8,0.0,0.0,2879.6,PayPal,Sunita Rao,4
+ORD10911,2025-10-04,James Taylor,East,In-Store,Clothing,T-Shirt,3,1484.5,0.0,0.0,4453.5,Credit Card,Deepa Rao,4
+ORD10912,2025-10-04,Olivia Anderson,East,Phone,Electronics,Tablet,9,1225.25,0.0,0.0,11027.25,Debit Card,Suresh Babu,4
+ORD10913,2025-10-04,Priya Patel,North,Phone,Clothing,Sneakers,6,1804.17,5.0,541.25,10283.77,Credit Card,Ravi Kumar,5
+ORD10914,2025-10-05,Laura Martinez,North,Online,Groceries,Chocolate Box,3,247.4,15.0,111.33,630.87,PayPal,Sunita Rao,5
+ORD10915,2025-10-05,Sophia White,East,Phone,Clothing,Dress,8,1182.74,0.0,0.0,9461.92,Bank Transfer,Sunita Rao,4
+ORD10916,2025-10-06,Emily Johnson,West,In-Store,Electronics,Smartwatch,7,1322.64,20.0,1851.7,7406.78,Credit Card,Pallavi Shah,4
+ORD10917,2025-10-06,Meera Iyer,North,Online,Clothing,Dress,8,1636.58,15.0,1963.9,11128.74,Credit Card,Arun Prasad,4
+ORD10918,2025-10-06,Vikram Rao,East,In-Store,Clothing,Sneakers,9,1180.37,5.0,531.17,10092.16,Debit Card,Deepa Rao,3
+ORD10919,2025-10-06,Karan Verma,South,Online,Electronics,Tablet,5,502.34,0.0,0.0,2511.7,Cash,Arun Prasad,5
+ORD10920,2025-10-06,Sneha Desai,North,Online,Clothing,Jeans,7,1572.7,10.0,1100.89,9908.01,Bank Transfer,Sunita Rao,4
+ORD10921,2025-10-06,Neha Joshi,South,In-Store,Electronics,Tablet,1,820.86,20.0,164.17,656.69,Credit Card,Manoj Tiwari,5
+ORD10922,2025-10-06,Nikhil Bansal,North,In-Store,Furniture,Sofa,9,1161.56,0.0,0.0,10454.04,Bank Transfer,Ravi Kumar,4
+ORD10923,2025-10-07,Neha Joshi,Central,In-Store,Groceries,Rice Bag,6,1208.42,0.0,0.0,7250.52,Cash,Manoj Tiwari,5
+ORD10924,2025-10-07,Daniel Thomas,South,Online,Clothing,Dress,7,98.89,20.0,138.45,553.78,Cash,Pallavi Shah,5
+ORD10925,2025-10-07,Priya Patel,South,Phone,Sports,Tennis Racket,4,343.16,15.0,205.9,1166.74,Debit Card,Arun Prasad,4
+ORD10926,2025-10-07,Aditya Bose,West,Phone,Sports,Running Shoes,2,305.29,0.0,0.0,610.58,Bank Transfer,Suresh Babu,5
+ORD10927,2025-10-07,Nikhil Bansal,North,Online,Sports,Dumbbells,6,91.65,15.0,82.49,467.41,PayPal,Suresh Babu,4
+ORD10928,2025-10-07,Daniel Thomas,South,Phone,Sports,Yoga Mat,1,1095.05,15.0,164.26,930.79,Credit Card,Sunita Rao,2
+ORD10929,2025-10-07,Karan Verma,West,Phone,Groceries,Chocolate Box,7,1109.91,20.0,1553.87,6215.5,PayPal,Kiran Desai,4
+ORD10930,2025-10-07,Pooja Reddy,West,Online,Furniture,Office Chair,1,423.02,0.0,0.0,423.02,Cash,Arun Prasad,5
+ORD10931,2025-10-07,Michael Brown,West,Online,Clothing,T-Shirt,4,174.11,5.0,34.82,661.62,Bank Transfer,Suresh Babu,5
+ORD10932,2025-10-08,John Smith,Central,Online,Electronics,Smartwatch,2,1246.98,0.0,0.0,2493.96,Credit Card,Arun Prasad,3
+ORD10933,2025-10-08,Aarav Sharma,West,Online,Sports,Dumbbells,8,1118.29,0.0,0.0,8946.32,PayPal,Deepa Rao,2
+ORD10934,2025-10-08,Ishita Gupta,North,In-Store,Electronics,Laptop,4,127.13,0.0,0.0,508.52,Bank Transfer,Ravi Kumar,5
+ORD10935,2025-10-09,Meera Iyer,South,In-Store,Clothing,Jacket,8,694.66,15.0,833.59,4723.69,PayPal,Arun Prasad,4
+ORD10936,2025-10-09,Emily Johnson,North,Online,Furniture,Bookshelf,6,715.41,10.0,429.25,3863.21,Bank Transfer,Manoj Tiwari,3
+ORD10937,2025-10-09,Emily Johnson,Central,In-Store,Clothing,Jeans,5,1957.41,0.0,0.0,9787.05,Bank Transfer,Anjali Nair,2
+ORD10938,2025-10-09,Kavya Menon,East,In-Store,Electronics,Smartphone,4,20.64,0.0,0.0,82.56,Credit Card,Kiran Desai,4
+ORD10939,2025-10-09,David Wilson,East,Online,Groceries,Coffee,4,87.98,0.0,0.0,351.92,Debit Card,Kiran Desai,5
+ORD10940,2025-10-09,David Wilson,South,In-Store,Furniture,Desk,8,395.44,15.0,474.53,2688.99,Credit Card,Ravi Kumar,5
+ORD10941,2025-10-09,Sanjay Kumar,East,Phone,Sports,Yoga Mat,6,821.12,20.0,985.34,3941.38,PayPal,Sunita Rao,4
+ORD10942,2025-10-10,Divya Kapoor,North,Phone,Furniture,Desk,5,1354.01,0.0,0.0,6770.05,Debit Card,Deepa Rao,4
+ORD10943,2025-10-10,Emily Johnson,West,In-Store,Groceries,Coffee,5,1870.31,0.0,0.0,9351.55,Bank Transfer,Vijay Anand,5
+ORD10944,2025-10-10,Nikhil Bansal,East,Online,Groceries,Rice Bag,1,601.07,10.0,60.11,540.96,Cash,Kiran Desai,2
+ORD10945,2025-10-10,Emily Johnson,West,Online,Clothing,Jacket,8,1032.28,0.0,0.0,8258.24,Cash,Pallavi Shah,4
+ORD10946,2025-10-10,Aarav Sharma,East,Online,Electronics,Tablet,3,708.37,20.0,425.02,1700.09,Bank Transfer,Suresh Babu,4
+ORD10947,2025-10-11,Karan Verma,East,Phone,Sports,Dumbbells,6,1116.3,20.0,1339.56,5358.24,Credit Card,Anjali Nair,5
+ORD10948,2025-10-11,Ishita Gupta,West,In-Store,Electronics,Smartphone,8,690.06,0.0,0.0,5520.48,Cash,Pallavi Shah,3
+ORD10949,2025-10-12,Vikram Rao,West,In-Store,Clothing,Jeans,2,1033.03,0.0,0.0,2066.06,Bank Transfer,Kiran Desai,5
+ORD10950,2025-10-12,Kavya Menon,South,In-Store,Groceries,Cereal,7,1155.88,10.0,809.12,7282.04,Bank Transfer,Vijay Anand,4
+ORD10951,2025-10-13,James Taylor,South,Phone,Sports,Tennis Racket,1,1986.49,0.0,0.0,1986.49,PayPal,Vijay Anand,4
+ORD10952,2025-10-13,Karan Verma,Central,Online,Furniture,Dining Table,8,689.52,0.0,0.0,5516.16,Cash,Vijay Anand,3
+ORD10953,2025-10-13,Aditya Bose,Central,Phone,Electronics,Laptop,9,1012.98,15.0,1367.52,7749.3,PayPal,Deepa Rao,1
+ORD10954,2025-10-13,John Smith,Central,Online,Furniture,Dining Table,3,570.21,10.0,171.06,1539.57,Bank Transfer,Pallavi Shah,5
+ORD10955,2025-10-15,Aditya Bose,South,In-Store,Furniture,Desk,8,1325.41,10.0,1060.33,9542.95,Debit Card,Vijay Anand,5
+ORD10956,2025-10-15,Daniel Thomas,Central,In-Store,Clothing,T-Shirt,7,1297.82,15.0,1362.71,7722.03,Credit Card,Manoj Tiwari,4
+ORD10957,2025-10-15,Emily Johnson,Central,In-Store,Sports,Running Shoes,5,1648.09,0.0,0.0,8240.45,Credit Card,Anjali Nair,5
+ORD10958,2025-10-16,Rahul Chatterjee,Central,Phone,Groceries,Olive Oil,1,1526.11,15.0,228.92,1297.19,Cash,Vijay Anand,5
+ORD10959,2025-10-17,John Smith,South,In-Store,Electronics,Smartwatch,3,845.65,20.0,507.39,2029.56,Cash,Deepa Rao,4
+ORD10960,2025-10-17,Aditya Bose,South,In-Store,Furniture,Desk,1,552.64,10.0,55.26,497.38,Bank Transfer,Manoj Tiwari,5
+ORD10961,2025-10-17,Neha Joshi,East,In-Store,Sports,Yoga Mat,2,1549.0,5.0,154.9,2943.1,Debit Card,Ravi Kumar,4
+ORD10962,2025-10-18,Olivia Anderson,North,Phone,Groceries,Cereal,7,1171.94,10.0,820.36,7383.22,PayPal,Manoj Tiwari,5
+ORD10963,2025-10-19,Sneha Desai,West,In-Store,Clothing,T-Shirt,6,834.47,0.0,0.0,5006.82,Bank Transfer,Deepa Rao,4
+ORD10964,2025-10-19,Ananya Singh,South,In-Store,Groceries,Coffee,7,1289.59,15.0,1354.07,7673.06,Bank Transfer,Vijay Anand,3
+ORD10965,2025-10-20,Divya Kapoor,Central,Online,Groceries,Rice Bag,6,431.8,20.0,518.16,2072.64,Cash,Anjali Nair,4
+ORD10966,2025-10-20,Rahul Chatterjee,North,Online,Groceries,Chocolate Box,1,1282.69,0.0,0.0,1282.69,Cash,Pallavi Shah,3
+ORD10967,2025-10-20,Aditya Bose,South,Phone,Clothing,Jacket,3,522.13,0.0,0.0,1566.39,Bank Transfer,Pallavi Shah,4
+ORD10968,2025-10-20,Nikhil Bansal,West,Phone,Furniture,Sofa,6,154.67,0.0,0.0,928.02,Cash,Manoj Tiwari,4
+ORD10969,2025-10-21,Laura Martinez,North,Online,Sports,Dumbbells,4,603.38,20.0,482.7,1930.82,Credit Card,Manoj Tiwari,4
+ORD10970,2025-10-23,Amit Malhotra,North,Phone,Furniture,Office Chair,3,1391.29,0.0,0.0,4173.87,Bank Transfer,Arun Prasad,5
+ORD10971,2025-10-23,Neha Joshi,Central,Phone,Groceries,Rice Bag,9,1144.87,10.0,1030.38,9273.45,PayPal,Pallavi Shah,3
+ORD10972,2025-10-23,Emily Johnson,Central,In-Store,Electronics,Smartwatch,6,1323.98,0.0,0.0,7943.88,Bank Transfer,Pallavi Shah,5
+ORD10973,2025-10-23,Aditya Bose,West,In-Store,Groceries,Rice Bag,8,655.88,10.0,524.7,4722.34,Cash,Deepa Rao,5
+ORD10974,2025-10-23,John Smith,West,In-Store,Groceries,Cereal,9,283.85,10.0,255.47,2299.18,PayPal,Manoj Tiwari,5
+ORD10975,2025-10-24,Neha Joshi,East,Phone,Furniture,Dining Table,5,1419.82,10.0,709.91,6389.19,PayPal,Deepa Rao,4
+ORD10976,2025-10-24,Neha Joshi,East,In-Store,Clothing,T-Shirt,6,488.94,10.0,293.36,2640.28,Debit Card,Suresh Babu,3
+ORD10977,2025-10-24,Riya Chawla,South,In-Store,Groceries,Cereal,7,1270.99,0.0,0.0,8896.93,Cash,Kiran Desai,5
+ORD10978,2025-10-26,Vikram Rao,West,Online,Electronics,Laptop,4,926.54,0.0,0.0,3706.16,Credit Card,Manoj Tiwari,2
+ORD10979,2025-10-26,Karan Verma,East,In-Store,Electronics,Headphones,7,497.08,20.0,695.91,2783.65,Bank Transfer,Manoj Tiwari,5
+ORD10980,2025-10-26,Karan Verma,West,Phone,Groceries,Cereal,1,849.55,5.0,42.48,807.07,PayPal,Vijay Anand,3
+ORD10981,2025-10-26,Meera Iyer,Central,In-Store,Groceries,Rice Bag,3,759.8,0.0,0.0,2279.4,Debit Card,Deepa Rao,4
+ORD10982,2025-10-26,John Smith,North,Phone,Clothing,Sneakers,5,1702.97,5.0,425.74,8089.11,Bank Transfer,Deepa Rao,5
+ORD10983,2025-10-26,Vikram Rao,West,Phone,Furniture,Office Chair,8,1713.85,0.0,0.0,13710.8,Credit Card,Deepa Rao,2
+ORD10984,2025-10-27,Amit Malhotra,South,Online,Groceries,Chocolate Box,9,383.09,20.0,689.56,2758.25,Debit Card,Kiran Desai,5
+ORD10985,2025-10-27,Riya Chawla,North,Online,Sports,Dumbbells,3,913.86,0.0,0.0,2741.58,Debit Card,Ravi Kumar,5
+ORD10986,2025-10-28,Sanjay Kumar,East,Phone,Electronics,Laptop,4,1276.92,20.0,1021.54,4086.14,Cash,Sunita Rao,4
+ORD10987,2025-10-29,Emily Johnson,West,In-Store,Furniture,Bookshelf,1,1812.29,15.0,271.84,1540.45,Bank Transfer,Pallavi Shah,4
+ORD10988,2025-10-29,Neha Joshi,Central,Phone,Clothing,Jacket,6,1264.22,15.0,1137.8,6447.52,Cash,Anjali Nair,4
+ORD10989,2025-10-29,Priya Patel,East,Online,Sports,Running Shoes,4,1290.75,0.0,0.0,5163.0,Credit Card,Pallavi Shah,5
+ORD10990,2025-10-30,Rahul Chatterjee,East,Online,Clothing,Jeans,4,948.69,0.0,0.0,3794.76,Bank Transfer,Pallavi Shah,5
+ORD10991,2025-10-30,Kavya Menon,Central,Online,Furniture,Dining Table,6,1953.1,10.0,1171.86,10546.74,Bank Transfer,Sunita Rao,4
+ORD10992,2025-10-30,Priya Patel,West,In-Store,Sports,Tennis Racket,3,1280.53,20.0,768.32,3073.27,Debit Card,Anjali Nair,4
+ORD10993,2025-10-30,Meera Iyer,East,Online,Clothing,T-Shirt,6,1741.04,0.0,0.0,10446.24,Credit Card,Ravi Kumar,4
+ORD10994,2025-10-31,Karan Verma,West,Online,Clothing,Jeans,9,342.56,5.0,154.15,2928.89,PayPal,Sunita Rao,4
+ORD10995,2025-10-31,Laura Martinez,North,Phone,Sports,Running Shoes,8,36.41,0.0,0.0,291.28,PayPal,Suresh Babu,5
+ORD10996,2025-10-31,Neha Joshi,South,Online,Sports,Running Shoes,5,1236.62,0.0,0.0,6183.1,PayPal,Pallavi Shah,2
+ORD10997,2025-10-31,Rahul Chatterjee,South,Phone,Sports,Bicycle,7,956.01,15.0,1003.81,5688.26,PayPal,Manoj Tiwari,3
+ORD10998,2025-11-01,Kavya Menon,West,In-Store,Electronics,Smartphone,5,70.15,0.0,0.0,350.75,PayPal,Anjali Nair,4
+ORD10999,2025-11-01,Sanjay Kumar,North,Online,Furniture,Office Chair,6,696.79,20.0,836.15,3344.59,Cash,Anjali Nair,3
+ORD11000,2025-11-01,Aarav Sharma,South,Online,Furniture,Dining Table,7,724.12,0.0,0.0,5068.84,Bank Transfer,Pallavi Shah,5
+ORD11001,2025-11-01,Kavya Menon,North,Phone,Clothing,Dress,6,1414.42,0.0,0.0,8486.52,Credit Card,Vijay Anand,5
+ORD11002,2025-11-02,Aditya Bose,Central,In-Store,Furniture,Bookshelf,2,484.24,20.0,193.7,774.78,Bank Transfer,Anjali Nair,5
+ORD11003,2025-11-02,Arjun Nair,South,Online,Clothing,Jeans,1,792.92,5.0,39.65,753.27,Bank Transfer,Kiran Desai,5
+ORD11004,2025-11-02,Sanjay Kumar,East,Phone,Sports,Tennis Racket,5,649.77,0.0,0.0,3248.85,PayPal,Manoj Tiwari,4
+ORD11005,2025-11-03,Rahul Chatterjee,North,In-Store,Electronics,Laptop,6,1636.72,20.0,1964.06,7856.26,Credit Card,Deepa Rao,5
+ORD11006,2025-11-03,Aarav Sharma,South,Phone,Furniture,Dining Table,2,909.57,0.0,0.0,1819.14,Debit Card,Sunita Rao,4
+ORD11007,2025-11-03,Sophia White,North,Online,Furniture,Bookshelf,7,741.19,0.0,0.0,5188.33,PayPal,Manoj Tiwari,4
+ORD11008,2025-11-04,John Smith,North,Phone,Sports,Tennis Racket,1,241.73,0.0,0.0,241.73,Bank Transfer,Kiran Desai,1
+ORD11009,2025-11-04,Ananya Singh,North,Online,Clothing,T-Shirt,1,815.78,0.0,0.0,815.78,PayPal,Vijay Anand,4
+ORD11010,2025-11-04,Rohan Mehta,East,In-Store,Furniture,Office Chair,7,1413.96,5.0,494.89,9402.83,Cash,Vijay Anand,4
+ORD11011,2025-11-04,Rohan Mehta,South,Phone,Sports,Yoga Mat,2,266.92,20.0,106.77,427.07,Cash,Deepa Rao,5
+ORD11012,2025-11-04,Michael Brown,Central,Phone,Sports,Tennis Racket,4,1264.46,0.0,0.0,5057.84,Cash,Sunita Rao,3
+ORD11013,2025-11-05,John Smith,East,Phone,Clothing,Sneakers,1,1705.62,5.0,85.28,1620.34,Credit Card,Kiran Desai,4
+ORD11014,2025-11-06,Aditya Bose,North,Online,Sports,Dumbbells,4,1241.08,5.0,248.22,4716.1,Cash,Sunita Rao,5
+ORD11015,2025-11-06,James Taylor,Central,Phone,Electronics,Smartwatch,3,260.73,0.0,0.0,782.19,PayPal,Manoj Tiwari,5
+ORD11016,2025-11-06,Rahul Chatterjee,South,Online,Furniture,Dining Table,6,293.44,0.0,0.0,1760.64,Bank Transfer,Suresh Babu,4
+ORD11017,2025-11-06,James Taylor,North,Online,Electronics,Smartphone,5,1978.73,0.0,0.0,9893.65,Bank Transfer,Arun Prasad,5
+ORD11018,2025-11-07,Emily Johnson,Central,Online,Electronics,Tablet,8,1086.09,0.0,0.0,8688.72,Bank Transfer,Kiran Desai,5
+ORD11019,2025-11-07,Aditya Bose,North,Phone,Electronics,Laptop,5,1932.21,5.0,483.05,9178.0,Debit Card,Sunita Rao,2
+ORD11020,2025-11-07,Pooja Reddy,South,Phone,Groceries,Coffee,4,320.46,5.0,64.09,1217.75,PayPal,Vijay Anand,3
+ORD11021,2025-11-08,Michael Brown,East,Phone,Clothing,Jacket,2,1790.94,0.0,0.0,3581.88,Credit Card,Manoj Tiwari,3
+ORD11022,2025-11-08,Vikram Rao,Central,Phone,Electronics,Monitor,5,875.49,15.0,656.62,3720.83,Cash,Deepa Rao,4
+ORD11023,2025-11-08,Nikhil Bansal,North,Phone,Sports,Bicycle,2,543.24,0.0,0.0,1086.48,Debit Card,Arun Prasad,4
+ORD11024,2025-11-08,Karan Verma,Central,Online,Electronics,Headphones,3,1302.4,0.0,0.0,3907.2,Credit Card,Ravi Kumar,5
+ORD11025,2025-11-08,Divya Kapoor,East,Online,Groceries,Rice Bag,6,1855.1,5.0,556.53,10574.07,Credit Card,Suresh Babu,3
+ORD11026,2025-11-08,Ishita Gupta,Central,Online,Clothing,Jacket,7,545.77,0.0,0.0,3820.39,PayPal,Deepa Rao,2
+ORD11027,2025-11-09,John Smith,Central,Phone,Electronics,Monitor,8,1040.08,20.0,1664.13,6656.51,Credit Card,Pallavi Shah,3
+ORD11028,2025-11-09,Karan Verma,South,Phone,Sports,Dumbbells,4,670.33,0.0,0.0,2681.32,Debit Card,Anjali Nair,4
+ORD11029,2025-11-09,Priya Patel,West,Online,Sports,Bicycle,1,830.34,5.0,41.52,788.82,Cash,Manoj Tiwari,3
+ORD11030,2025-11-09,Sneha Desai,East,Phone,Groceries,Coffee,1,1679.16,5.0,83.96,1595.2,Debit Card,Pallavi Shah,4
+ORD11031,2025-11-10,Laura Martinez,South,In-Store,Clothing,Jacket,5,894.16,0.0,0.0,4470.8,Bank Transfer,Pallavi Shah,5
+ORD11032,2025-11-10,Neha Joshi,North,Online,Groceries,Cereal,2,109.23,5.0,10.92,207.54,PayPal,Ravi Kumar,1
+ORD11033,2025-11-11,Vikram Rao,East,Online,Sports,Running Shoes,1,1413.86,0.0,0.0,1413.86,Credit Card,Kiran Desai,3
+ORD11034,2025-11-11,Meera Iyer,North,Online,Groceries,Olive Oil,2,1690.37,0.0,0.0,3380.74,Debit Card,Vijay Anand,4
+ORD11035,2025-11-11,Aarav Sharma,West,Online,Electronics,Smartphone,6,365.37,0.0,0.0,2192.22,Credit Card,Pallavi Shah,2
+ORD11036,2025-11-12,Karan Verma,West,In-Store,Furniture,Office Chair,5,921.71,0.0,0.0,4608.55,Credit Card,Anjali Nair,4
+ORD11037,2025-11-12,Priya Patel,East,Online,Sports,Running Shoes,7,1241.08,0.0,0.0,8687.56,PayPal,Arun Prasad,3
+ORD11038,2025-11-12,James Taylor,West,In-Store,Groceries,Chocolate Box,3,436.52,0.0,0.0,1309.56,PayPal,Pallavi Shah,4
+ORD11039,2025-11-12,Sanjay Kumar,West,In-Store,Sports,Yoga Mat,1,1194.99,0.0,0.0,1194.99,Debit Card,Suresh Babu,3
+ORD11040,2025-11-13,John Smith,North,In-Store,Groceries,Coffee,1,487.58,5.0,24.38,463.2,PayPal,Suresh Babu,3
+ORD11041,2025-11-13,Aditya Bose,North,Phone,Sports,Dumbbells,5,1027.01,0.0,0.0,5135.05,Debit Card,Sunita Rao,4
+ORD11042,2025-11-14,Nikhil Bansal,West,Online,Sports,Bicycle,4,1772.74,20.0,1418.19,5672.77,PayPal,Kiran Desai,3
+ORD11043,2025-11-14,Aarav Sharma,South,In-Store,Furniture,Office Chair,5,1372.46,0.0,0.0,6862.3,Cash,Deepa Rao,5
+ORD11044,2025-11-14,Ishita Gupta,South,In-Store,Electronics,Headphones,7,1216.61,20.0,1703.25,6813.02,Debit Card,Arun Prasad,4
+ORD11045,2025-11-14,Kavya Menon,South,Online,Clothing,Jacket,7,1501.22,0.0,0.0,10508.54,Cash,Deepa Rao,1
+ORD11046,2025-11-14,Karan Verma,West,Online,Furniture,Sofa,5,284.95,0.0,0.0,1424.75,PayPal,Pallavi Shah,4
+ORD11047,2025-11-14,Ishita Gupta,Central,Phone,Electronics,Laptop,6,44.95,0.0,0.0,269.7,Cash,Deepa Rao,3
+ORD11048,2025-11-15,Aditya Bose,Central,In-Store,Furniture,Sofa,7,1745.91,15.0,1833.21,10388.16,Debit Card,Arun Prasad,4
+ORD11049,2025-11-15,Arjun Nair,East,Online,Electronics,Monitor,9,1112.54,20.0,2002.57,8010.29,Cash,Anjali Nair,3
+ORD11050,2025-11-15,Nikhil Bansal,West,In-Store,Groceries,Olive Oil,2,819.87,10.0,163.97,1475.77,Bank Transfer,Sunita Rao,5
+ORD11051,2025-11-15,Karan Verma,North,Phone,Electronics,Headphones,7,604.81,20.0,846.73,3386.94,Debit Card,Deepa Rao,5
+ORD11052,2025-11-16,Riya Chawla,Central,Online,Groceries,Olive Oil,3,1867.52,20.0,1120.51,4482.05,Credit Card,Suresh Babu,3
+ORD11053,2025-11-17,Olivia Anderson,West,Phone,Groceries,Coffee,1,1115.63,20.0,223.13,892.5,Bank Transfer,Anjali Nair,5
+ORD11054,2025-11-18,Arjun Nair,East,Online,Groceries,Olive Oil,1,583.01,5.0,29.15,553.86,Debit Card,Suresh Babu,3
+ORD11055,2025-11-18,Riya Chawla,South,In-Store,Clothing,Jacket,6,1361.01,20.0,1633.21,6532.85,PayPal,Pallavi Shah,1
+ORD11056,2025-11-18,Aarav Sharma,East,In-Store,Sports,Dumbbells,6,1409.07,20.0,1690.88,6763.54,Credit Card,Kiran Desai,4
+ORD11057,2025-11-18,Riya Chawla,East,Phone,Sports,Tennis Racket,5,723.03,10.0,361.51,3253.64,PayPal,Sunita Rao,5
+ORD11058,2025-11-19,Sophia White,Central,Online,Furniture,Office Chair,5,929.27,5.0,232.32,4414.03,Bank Transfer,Pallavi Shah,1
+ORD11059,2025-11-19,Emily Johnson,East,In-Store,Furniture,Sofa,9,1290.51,0.0,0.0,11614.59,Bank Transfer,Sunita Rao,4
+ORD11060,2025-11-19,Amit Malhotra,East,In-Store,Groceries,Olive Oil,7,1203.19,15.0,1263.35,7158.98,PayPal,Kiran Desai,4
+ORD11061,2025-11-20,Ishita Gupta,North,Online,Clothing,Dress,4,1314.08,5.0,262.82,4993.5,Debit Card,Arun Prasad,2
+ORD11062,2025-11-20,Sophia White,West,Phone,Sports,Bicycle,9,167.05,0.0,0.0,1503.45,Debit Card,Suresh Babu,4
+ORD11063,2025-11-20,Meera Iyer,West,Online,Electronics,Tablet,3,741.26,20.0,444.76,1779.02,Credit Card,Arun Prasad,4
+ORD11064,2025-11-20,Sarah Davis,West,Online,Groceries,Chocolate Box,1,308.2,15.0,46.23,261.97,PayPal,Sunita Rao,5
+ORD11065,2025-11-20,Ishita Gupta,North,Online,Sports,Yoga Mat,3,1383.45,0.0,0.0,4150.35,Debit Card,Vijay Anand,5
+ORD11066,2025-11-21,Olivia Anderson,West,In-Store,Electronics,Smartphone,1,1747.99,0.0,0.0,1747.99,Bank Transfer,Sunita Rao,4
+ORD11067,2025-11-21,Meera Iyer,West,Phone,Clothing,Jacket,8,18.6,0.0,0.0,148.8,Credit Card,Sunita Rao,5
+ORD11068,2025-11-21,Divya Kapoor,Central,Online,Sports,Bicycle,3,8.28,0.0,0.0,24.84,Bank Transfer,Pallavi Shah,3
+ORD11069,2025-11-21,Sophia White,Central,Phone,Electronics,Tablet,2,727.66,0.0,0.0,1455.32,Credit Card,Kiran Desai,4
+ORD11070,2025-11-21,John Smith,West,In-Store,Sports,Dumbbells,7,1700.73,10.0,1190.51,10714.6,Bank Transfer,Anjali Nair,4
+ORD11071,2025-11-21,Ananya Singh,North,Online,Groceries,Olive Oil,3,525.48,0.0,0.0,1576.44,Bank Transfer,Vijay Anand,5
+ORD11072,2025-11-22,Aditya Bose,East,Online,Groceries,Olive Oil,7,866.68,0.0,0.0,6066.76,PayPal,Kiran Desai,4
+ORD11073,2025-11-22,Michael Brown,North,Online,Furniture,Office Chair,6,1600.36,10.0,960.22,8641.94,Cash,Anjali Nair,4
+ORD11074,2025-11-22,Emily Johnson,South,Phone,Clothing,Jacket,5,295.53,15.0,221.65,1256.0,PayPal,Kiran Desai,3
+ORD11075,2025-11-22,Laura Martinez,South,In-Store,Electronics,Headphones,5,958.35,10.0,479.18,4312.57,Cash,Vijay Anand,4
+ORD11076,2025-11-22,David Wilson,South,Online,Furniture,Dining Table,9,1631.03,15.0,2201.89,12477.38,Bank Transfer,Kiran Desai,5
+ORD11077,2025-11-22,Aarav Sharma,East,In-Store,Electronics,Tablet,5,1328.41,0.0,0.0,6642.05,Bank Transfer,Sunita Rao,5
+ORD11078,2025-11-23,Ananya Singh,South,Online,Groceries,Olive Oil,7,220.39,10.0,154.27,1388.46,Credit Card,Arun Prasad,4
+ORD11079,2025-11-23,Sophia White,West,Phone,Electronics,Headphones,7,1600.44,20.0,2240.62,8962.46,Credit Card,Vijay Anand,3
+ORD11080,2025-11-23,Daniel Thomas,South,Phone,Groceries,Coffee,6,362.82,15.0,326.54,1850.38,Credit Card,Anjali Nair,1
+ORD11081,2025-11-23,James Taylor,East,Online,Groceries,Chocolate Box,1,635.43,5.0,31.77,603.66,Debit Card,Manoj Tiwari,5
+ORD11082,2025-11-24,Meera Iyer,South,Online,Clothing,Jeans,3,1666.5,0.0,0.0,4999.5,Credit Card,Manoj Tiwari,4
+ORD11083,2025-11-24,Sneha Desai,South,Phone,Electronics,Smartwatch,1,361.2,5.0,18.06,343.14,PayPal,Deepa Rao,5
+ORD11084,2025-11-25,Priya Patel,West,Online,Electronics,Headphones,9,1527.08,0.0,0.0,13743.72,PayPal,Vijay Anand,1
+ORD11085,2025-11-25,Olivia Anderson,West,Phone,Furniture,Bookshelf,5,1774.8,20.0,1774.8,7099.2,Credit Card,Anjali Nair,3
+ORD11086,2025-11-25,Sneha Desai,South,Online,Furniture,Desk,5,672.21,5.0,168.05,3193.0,Cash,Vijay Anand,5
+ORD11087,2025-11-25,Sarah Davis,South,Online,Clothing,Sneakers,3,949.5,15.0,427.27,2421.23,Debit Card,Sunita Rao,4
+ORD11088,2025-11-25,Rahul Chatterjee,East,Online,Furniture,Office Chair,2,562.95,20.0,225.18,900.72,Credit Card,Suresh Babu,5
+ORD11089,2025-11-26,Laura Martinez,West,Online,Furniture,Office Chair,8,762.67,0.0,0.0,6101.36,Bank Transfer,Pallavi Shah,4
+ORD11090,2025-11-26,Kavya Menon,South,Online,Furniture,Sofa,2,1133.09,20.0,453.24,1812.94,Bank Transfer,Arun Prasad,5
+ORD11091,2025-11-27,Divya Kapoor,North,In-Store,Groceries,Coffee,7,413.94,0.0,0.0,2897.58,Credit Card,Suresh Babu,3
+ORD11092,2025-11-27,Nikhil Bansal,Central,In-Store,Electronics,Smartphone,6,686.43,10.0,411.86,3706.72,PayPal,Vijay Anand,2
+ORD11093,2025-11-27,Divya Kapoor,North,Phone,Electronics,Headphones,8,1269.61,15.0,1523.53,8633.35,Debit Card,Pallavi Shah,3
+ORD11094,2025-11-27,Rohan Mehta,South,In-Store,Groceries,Olive Oil,5,221.26,0.0,0.0,1106.3,Debit Card,Pallavi Shah,5
+ORD11095,2025-11-27,Laura Martinez,Central,In-Store,Furniture,Bookshelf,3,615.56,0.0,0.0,1846.68,PayPal,Manoj Tiwari,5
+ORD11096,2025-11-28,Emily Johnson,West,Online,Electronics,Laptop,8,901.62,0.0,0.0,7212.96,Credit Card,Deepa Rao,4
+ORD11097,2025-11-28,David Wilson,South,In-Store,Clothing,Sneakers,5,1485.08,10.0,742.54,6682.86,Bank Transfer,Suresh Babu,3
+ORD11098,2025-11-29,Nikhil Bansal,North,In-Store,Groceries,Coffee,7,217.89,0.0,0.0,1525.23,PayPal,Deepa Rao,5
+ORD11099,2025-11-29,Sarah Davis,West,Phone,Groceries,Coffee,8,1984.22,0.0,0.0,15873.76,PayPal,Kiran Desai,5
+ORD11100,2025-11-29,Meera Iyer,West,Phone,Clothing,Dress,4,389.39,5.0,77.88,1479.68,Bank Transfer,Sunita Rao,1
+ORD11101,2025-11-29,Sneha Desai,East,Online,Clothing,Sneakers,3,334.78,5.0,50.22,954.12,Debit Card,Kiran Desai,5
+ORD11102,2025-11-29,Olivia Anderson,South,Online,Sports,Bicycle,9,533.74,0.0,0.0,4803.66,Credit Card,Arun Prasad,3
+ORD11103,2025-11-30,Aarav Sharma,South,In-Store,Electronics,Monitor,1,868.52,5.0,43.43,825.09,Credit Card,Sunita Rao,4
+ORD11104,2025-11-30,Sarah Davis,North,Online,Electronics,Tablet,8,133.66,0.0,0.0,1069.28,Credit Card,Sunita Rao,4
+ORD11105,2025-11-30,Nikhil Bansal,Central,Phone,Clothing,Sneakers,4,1995.51,10.0,798.2,7183.84,Credit Card,Kiran Desai,4
+ORD11106,2025-11-30,Rohan Mehta,East,Online,Sports,Bicycle,4,517.27,15.0,310.36,1758.72,Cash,Vijay Anand,4
+ORD11107,2025-12-01,Aarav Sharma,West,Online,Electronics,Smartwatch,6,1752.06,0.0,0.0,10512.36,Cash,Manoj Tiwari,5
+ORD11108,2025-12-01,Daniel Thomas,Central,Online,Groceries,Chocolate Box,2,1298.39,0.0,0.0,2596.78,Cash,Arun Prasad,4
+ORD11109,2025-12-01,Daniel Thomas,East,Online,Groceries,Rice Bag,4,707.89,10.0,283.16,2548.4,Bank Transfer,Anjali Nair,5
+ORD11110,2025-12-02,Michael Brown,Central,In-Store,Clothing,Dress,7,926.97,10.0,648.88,5839.91,Bank Transfer,Pallavi Shah,5
+ORD11111,2025-12-02,John Smith,East,Phone,Sports,Bicycle,4,1909.55,0.0,0.0,7638.2,Cash,Kiran Desai,3
+ORD11112,2025-12-02,Sarah Davis,East,In-Store,Sports,Running Shoes,5,951.5,0.0,0.0,4757.5,Bank Transfer,Arun Prasad,5
+ORD11113,2025-12-02,Karan Verma,East,Online,Electronics,Laptop,9,209.62,15.0,282.99,1603.59,PayPal,Kiran Desai,4
+ORD11114,2025-12-02,Daniel Thomas,Central,Phone,Groceries,Coffee,2,813.27,5.0,81.33,1545.21,Credit Card,Manoj Tiwari,3
+ORD11115,2025-12-02,John Smith,East,Phone,Groceries,Coffee,1,1673.66,0.0,0.0,1673.66,Cash,Sunita Rao,4
+ORD11116,2025-12-03,Michael Brown,West,Phone,Clothing,Sneakers,4,1341.71,0.0,0.0,5366.84,Bank Transfer,Deepa Rao,4
+ORD11117,2025-12-03,Olivia Anderson,South,In-Store,Electronics,Smartwatch,9,1022.75,5.0,460.24,8744.51,Cash,Sunita Rao,5
+ORD11118,2025-12-03,Meera Iyer,Central,Online,Electronics,Tablet,5,36.57,0.0,0.0,182.85,Cash,Kiran Desai,5
+ORD11119,2025-12-03,Nikhil Bansal,East,In-Store,Clothing,Dress,3,1566.25,0.0,0.0,4698.75,Debit Card,Manoj Tiwari,5
+ORD11120,2025-12-03,Rahul Chatterjee,East,Phone,Electronics,Laptop,3,1786.71,20.0,1072.03,4288.1,Bank Transfer,Sunita Rao,1
+ORD11121,2025-12-04,Vikram Rao,West,In-Store,Clothing,T-Shirt,9,1601.72,0.0,0.0,14415.48,Cash,Pallavi Shah,4
+ORD11122,2025-12-04,Nikhil Bansal,South,In-Store,Sports,Running Shoes,1,1845.59,0.0,0.0,1845.59,Bank Transfer,Pallavi Shah,5
+ORD11123,2025-12-05,Sanjay Kumar,West,Phone,Clothing,Jacket,4,1414.74,0.0,0.0,5658.96,Debit Card,Anjali Nair,5
+ORD11124,2025-12-05,Rahul Chatterjee,North,Online,Groceries,Chocolate Box,7,380.46,15.0,399.48,2263.74,PayPal,Sunita Rao,3
+ORD11125,2025-12-05,Pooja Reddy,North,Phone,Furniture,Desk,3,313.91,20.0,188.35,753.38,Cash,Manoj Tiwari,4
+ORD11126,2025-12-06,Sneha Desai,South,In-Store,Clothing,T-Shirt,2,1328.69,15.0,398.61,2258.77,PayPal,Pallavi Shah,3
+ORD11127,2025-12-07,Sanjay Kumar,West,In-Store,Furniture,Dining Table,6,1748.08,0.0,0.0,10488.48,Cash,Manoj Tiwari,5
+ORD11128,2025-12-07,Sanjay Kumar,South,Online,Electronics,Smartwatch,5,890.28,20.0,890.28,3561.12,Debit Card,Arun Prasad,1
+ORD11129,2025-12-07,Riya Chawla,North,Phone,Sports,Dumbbells,7,1564.87,20.0,2190.82,8763.27,Debit Card,Sunita Rao,3
+ORD11130,2025-12-08,Ishita Gupta,South,Online,Groceries,Rice Bag,8,554.85,0.0,0.0,4438.8,Bank Transfer,Pallavi Shah,4
+ORD11131,2025-12-08,Rahul Chatterjee,West,Online,Furniture,Office Chair,5,511.07,20.0,511.07,2044.28,Debit Card,Sunita Rao,5
+ORD11132,2025-12-08,John Smith,West,In-Store,Sports,Bicycle,4,29.15,10.0,11.66,104.94,PayPal,Vijay Anand,5
+ORD11133,2025-12-10,Emily Johnson,West,Phone,Sports,Yoga Mat,9,344.43,0.0,0.0,3099.87,Debit Card,Kiran Desai,1
+ORD11134,2025-12-10,Olivia Anderson,South,Phone,Furniture,Office Chair,3,587.98,0.0,0.0,1763.94,Credit Card,Deepa Rao,5
+ORD11135,2025-12-10,Laura Martinez,Central,Phone,Furniture,Office Chair,6,1645.44,20.0,1974.53,7898.11,Bank Transfer,Deepa Rao,3
+ORD11136,2025-12-10,Aditya Bose,West,Phone,Sports,Dumbbells,1,444.03,15.0,66.6,377.43,Credit Card,Deepa Rao,3
+ORD11137,2025-12-10,Karan Verma,North,Phone,Electronics,Tablet,2,65.76,20.0,26.3,105.22,Debit Card,Deepa Rao,3
+ORD11138,2025-12-10,Divya Kapoor,East,Online,Furniture,Office Chair,9,1529.68,5.0,688.36,13078.76,Bank Transfer,Ravi Kumar,5
+ORD11139,2025-12-10,James Taylor,East,In-Store,Clothing,Jacket,4,1928.21,0.0,0.0,7712.84,PayPal,Arun Prasad,4
+ORD11140,2025-12-11,Sarah Davis,North,Online,Sports,Tennis Racket,3,189.08,0.0,0.0,567.24,Debit Card,Pallavi Shah,4
+ORD11141,2025-12-11,Daniel Thomas,South,Online,Furniture,Office Chair,2,394.87,15.0,118.46,671.28,Debit Card,Deepa Rao,5
+ORD11142,2025-12-11,Divya Kapoor,West,Online,Electronics,Monitor,4,1042.55,20.0,834.04,3336.16,Bank Transfer,Anjali Nair,2
+ORD11143,2025-12-12,James Taylor,West,Online,Electronics,Tablet,2,1061.65,0.0,0.0,2123.3,Bank Transfer,Sunita Rao,4
+ORD11144,2025-12-13,Kavya Menon,North,In-Store,Sports,Tennis Racket,7,147.55,5.0,51.64,981.21,Cash,Suresh Babu,3
+ORD11145,2025-12-13,Nikhil Bansal,West,In-Store,Clothing,Jeans,6,699.77,0.0,0.0,4198.62,Debit Card,Ravi Kumar,5
+ORD11146,2025-12-13,Ishita Gupta,North,Phone,Electronics,Headphones,3,70.53,15.0,31.74,179.85,Cash,Manoj Tiwari,5
+ORD11147,2025-12-13,John Smith,Central,Online,Furniture,Office Chair,9,905.28,15.0,1222.13,6925.39,Bank Transfer,Kiran Desai,3
+ORD11148,2025-12-13,Nikhil Bansal,East,Phone,Clothing,Dress,3,639.62,5.0,95.94,1822.92,Bank Transfer,Kiran Desai,4
+ORD11149,2025-12-14,Meera Iyer,West,In-Store,Clothing,Jacket,1,1998.92,20.0,399.78,1599.14,PayPal,Manoj Tiwari,3
+ORD11150,2025-12-14,Divya Kapoor,North,Phone,Electronics,Headphones,3,1218.39,20.0,731.03,2924.14,Credit Card,Kiran Desai,3
+ORD11151,2025-12-14,Rohan Mehta,South,In-Store,Groceries,Rice Bag,4,971.37,5.0,194.27,3691.21,Debit Card,Pallavi Shah,3
+ORD11152,2025-12-15,Sophia White,North,In-Store,Groceries,Cereal,3,1824.11,5.0,273.62,5198.71,Credit Card,Deepa Rao,4
+ORD11153,2025-12-15,Rahul Chatterjee,Central,Phone,Groceries,Coffee,4,1110.87,5.0,222.17,4221.31,Cash,Pallavi Shah,5
+ORD11154,2025-12-16,John Smith,East,In-Store,Groceries,Chocolate Box,8,1983.44,0.0,0.0,15867.52,Credit Card,Anjali Nair,5
+ORD11155,2025-12-17,Rahul Chatterjee,North,Phone,Furniture,Sofa,2,1183.23,20.0,473.29,1893.17,Cash,Ravi Kumar,4
+ORD11156,2025-12-17,Laura Martinez,Central,In-Store,Furniture,Dining Table,4,1994.47,0.0,0.0,7977.88,Debit Card,Kiran Desai,3
+ORD11157,2025-12-17,Amit Malhotra,West,Online,Groceries,Olive Oil,5,1653.8,5.0,413.45,7855.55,Bank Transfer,Ravi Kumar,4
+ORD11158,2025-12-17,Karan Verma,Central,Phone,Sports,Bicycle,1,1115.98,15.0,167.4,948.58,Debit Card,Kiran Desai,4
+ORD11159,2025-12-17,Neha Joshi,West,In-Store,Clothing,Jacket,1,1973.46,5.0,98.67,1874.79,Debit Card,Suresh Babu,4
+ORD11160,2025-12-18,Rohan Mehta,Central,Online,Electronics,Monitor,9,414.35,0.0,0.0,3729.15,Credit Card,Suresh Babu,4
+ORD11161,2025-12-18,Divya Kapoor,Central,Online,Sports,Running Shoes,7,41.82,0.0,0.0,292.74,Debit Card,Arun Prasad,5
+ORD11162,2025-12-19,Priya Patel,West,Phone,Groceries,Coffee,6,1079.03,5.0,323.71,6150.47,Bank Transfer,Anjali Nair,5
+ORD11163,2025-12-19,James Taylor,West,Phone,Clothing,Jeans,3,548.75,5.0,82.31,1563.94,Debit Card,Pallavi Shah,4
+ORD11164,2025-12-20,Riya Chawla,South,In-Store,Furniture,Bookshelf,6,933.87,0.0,0.0,5603.22,Credit Card,Arun Prasad,5
+ORD11165,2025-12-20,Michael Brown,Central,Phone,Groceries,Chocolate Box,5,182.09,10.0,91.05,819.4,Credit Card,Arun Prasad,2
+ORD11166,2025-12-21,Vikram Rao,East,In-Store,Groceries,Cereal,3,1939.23,0.0,0.0,5817.69,Debit Card,Arun Prasad,5
+ORD11167,2025-12-21,Karan Verma,Central,Online,Sports,Dumbbells,8,1708.63,0.0,0.0,13669.04,Cash,Manoj Tiwari,2
+ORD11168,2025-12-21,Sophia White,Central,Online,Electronics,Headphones,1,1253.24,5.0,62.66,1190.58,PayPal,Ravi Kumar,3
+ORD11169,2025-12-22,Amit Malhotra,East,Phone,Clothing,Jacket,1,219.29,5.0,10.96,208.33,Credit Card,Arun Prasad,5
+ORD11170,2025-12-22,Arjun Nair,West,Phone,Clothing,Jeans,3,428.1,15.0,192.65,1091.65,Debit Card,Arun Prasad,3
+ORD11171,2025-12-22,Emily Johnson,South,Online,Groceries,Chocolate Box,5,1847.84,0.0,0.0,9239.2,Debit Card,Anjali Nair,5
+ORD11172,2025-12-22,Amit Malhotra,South,Online,Sports,Bicycle,9,90.8,0.0,0.0,817.2,Cash,Manoj Tiwari,5
+ORD11173,2025-12-22,Kavya Menon,West,Phone,Sports,Tennis Racket,2,866.45,10.0,173.29,1559.61,Credit Card,Manoj Tiwari,5
+ORD11174,2025-12-23,John Smith,North,Online,Electronics,Tablet,6,1972.49,20.0,2366.99,9467.95,Credit Card,Deepa Rao,5
+ORD11175,2025-12-23,James Taylor,South,Online,Sports,Tennis Racket,5,1736.59,10.0,868.29,7814.66,Credit Card,Anjali Nair,3
+ORD11176,2025-12-23,Emily Johnson,East,Phone,Electronics,Smartphone,5,965.15,5.0,241.29,4584.46,Credit Card,Manoj Tiwari,1
+ORD11177,2025-12-24,Aditya Bose,East,Online,Furniture,Desk,3,33.31,10.0,9.99,89.94,Debit Card,Manoj Tiwari,5
+ORD11178,2025-12-24,Sanjay Kumar,South,Phone,Furniture,Bookshelf,5,1452.03,20.0,1452.03,5808.12,Cash,Anjali Nair,5
+ORD11179,2025-12-24,David Wilson,Central,Online,Groceries,Rice Bag,5,1883.45,15.0,1412.59,8004.66,Bank Transfer,Kiran Desai,4
+ORD11180,2025-12-24,Meera Iyer,West,In-Store,Sports,Running Shoes,4,1083.95,0.0,0.0,4335.8,PayPal,Arun Prasad,5
+ORD11181,2025-12-25,Priya Patel,South,Online,Electronics,Monitor,4,1291.88,0.0,0.0,5167.52,Bank Transfer,Sunita Rao,5
+ORD11182,2025-12-25,Daniel Thomas,North,Online,Clothing,Jacket,6,1891.77,0.0,0.0,11350.62,Credit Card,Vijay Anand,5
+ORD11183,2025-12-25,Kavya Menon,East,Phone,Furniture,Bookshelf,3,1598.12,0.0,0.0,4794.36,Bank Transfer,Deepa Rao,5
+ORD11184,2025-12-25,Rohan Mehta,North,Online,Furniture,Bookshelf,9,1734.38,20.0,3121.88,12487.54,Debit Card,Suresh Babu,3
+ORD11185,2025-12-25,Nikhil Bansal,East,In-Store,Sports,Yoga Mat,5,801.22,5.0,200.31,3805.79,Credit Card,Suresh Babu,4
+ORD11186,2025-12-26,Divya Kapoor,East,Online,Furniture,Bookshelf,9,511.37,10.0,460.23,4142.1,Bank Transfer,Deepa Rao,4
+ORD11187,2025-12-26,Neha Joshi,Central,In-Store,Sports,Tennis Racket,7,311.47,0.0,0.0,2180.29,Cash,Pallavi Shah,5
+ORD11188,2025-12-26,Amit Malhotra,South,Phone,Furniture,Bookshelf,5,1809.2,0.0,0.0,9046.0,Credit Card,Suresh Babu,3
+ORD11189,2025-12-27,David Wilson,North,Online,Furniture,Sofa,6,322.78,20.0,387.34,1549.34,Credit Card,Pallavi Shah,2
+ORD11190,2025-12-28,Meera Iyer,Central,In-Store,Groceries,Cereal,6,1318.32,0.0,0.0,7909.92,Bank Transfer,Anjali Nair,2
+ORD11191,2025-12-28,Daniel Thomas,North,Phone,Sports,Yoga Mat,2,1099.82,5.0,109.98,2089.66,Bank Transfer,Pallavi Shah,5
+ORD11192,2025-12-29,Laura Martinez,West,Online,Clothing,T-Shirt,9,1993.83,0.0,0.0,17944.47,Cash,Pallavi Shah,5
+ORD11193,2025-12-29,Neha Joshi,East,In-Store,Groceries,Chocolate Box,5,1164.93,5.0,291.23,5533.42,PayPal,Anjali Nair,4
+ORD11194,2025-12-29,Aarav Sharma,North,In-Store,Groceries,Olive Oil,6,339.79,0.0,0.0,2038.74,Credit Card,Ravi Kumar,3
+ORD11195,2025-12-29,Rahul Chatterjee,West,Online,Electronics,Smartphone,4,692.47,10.0,276.99,2492.89,Credit Card,Anjali Nair,5
+ORD11196,2025-12-29,Sarah Davis,West,In-Store,Sports,Tennis Racket,9,1071.65,0.0,0.0,9644.85,PayPal,Suresh Babu,1
+ORD11197,2025-12-30,Sneha Desai,East,In-Store,Groceries,Coffee,2,718.81,15.0,215.64,1221.98,Debit Card,Manoj Tiwari,3
+ORD11198,2025-12-30,Kavya Menon,South,In-Store,Clothing,Jeans,3,636.59,15.0,286.47,1623.3,Debit Card,Manoj Tiwari,5
+ORD11199,2025-12-30,Riya Chawla,South,Phone,Furniture,Desk,2,952.53,15.0,285.76,1619.3,Bank Transfer,Suresh Babu,5
+ORD11200,2025-12-31,Ananya Singh,North,Online,Sports,Tennis Racket,5,1597.55,0.0,0.0,7987.75,Debit Card,Pallavi Shah,2
